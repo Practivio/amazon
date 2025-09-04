@@ -1,35 +1,35 @@
 ---
 title: "MOJOCO Portable Clothes Dryer - Mini/Compact Dryer for Apartment, RV, Travel - Small Quiet Fast-Drying Machine with Adjustable Timer & Hassle-Free Setup"
-description: "mini dryer clothes machine: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["mini dryer clothes machine"]
-seo_title: "mini dryer clothes machine — Smart Buy Balanced Choice (2025)"
+description: "dryer machine 5kg: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["dryer machine 5kg"]
+seo_title: "dryer machine 5kg — Smart Buy Best Value (2025)"
 canonicalURL: "/products/mojoco-portable-clothes-dryer-minicompact-dryer-for-apartment-rv-travel-small-quiet-fast-drying-machine-with-adjustable-timer-hassle-free-setup-B0C2GPVLHS/"
 ---
 
-**🏆 Practivio Score™:** 827 — _Smart Buy_
+**🏆 Practivio Score™:** 218 — _Smart Buy_
 
 
-*If you're comparing **mini dryer clothes machine**, **[MOJOCO Portable Clothes Dryer - Mini/Compact Dryer for Apartment, RV, Travel - Small Quiet Fast-Drying Machine with Adjustable Timer & Hassle-Free Setup](https://www.amazon.com/dp/B0C2GPVLHS?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **dryer machine 5kg**, **[MOJOCO Portable Clothes Dryer - Mini/Compact Dryer for Apartment, RV, Travel - Small Quiet Fast-Drying Machine with Adjustable Timer & Hassle-Free Setup](https://www.amazon.com/dp/B0C2GPVLHS?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “MOJOCO Portable Clothes Dryer - Mini/Compact Dryer for Apartment, RV, Travel - Small Quiet Fast-Drying Machine with Adjustable Timer & Hassle-Free Setup” on Amazon](https://www.amazon.com/dp/B0C2GPVLHS?tag=practivio-20)
-Holding rank **57 of 290**, this Portable Dryers is evaluated within the **Balanced Choice tier** of Portable Dryerses.  
+Holding rank **30 of 93**, this Washers & Dryers is evaluated within the **Best Value tier** of Washers & Dryerses.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: ranked 147 of 290 (top 51% by affordability).  
-Reviews: ranked 88 of 290 (top 31% for total count).  
-Rating: ranked 143 of 290 (top 50% on star average).  
-Demand: ranked 11 of 290 (top 4% for recent purchases).
+Price: ranked 3 of 93 (top 4% by affordability).  
+Reviews: ranked 23 of 93 (top 25% for total count).  
+Rating: ranked 30 of 93 (top 33% on star average).  
+Demand: ranked 1 of 93 (top 2% for recent purchases).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Balanced Choice carries a Practivio Score™ of 923.00.  
-This pick trails the Hidden Gem by 96.00 points.  
+The current Hidden Gem in Best Value carries a Practivio Score™ of 248.00.  
+This pick trails the Hidden Gem by 30.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00Q4X2FSM?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B09YLKMHLH?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Products must clear minimum standards before entry.  
@@ -51,7 +51,7 @@ Confidence notes and the evidence base make uncertainty transparent.
 If information is scarce, outcomes are shown conservatively, never guessed.
 
 
-🏷️ **Back to Master:** [/rankings/portable-dryers/](/rankings/portable-dryers/)
+🏷️ **Back to Master:** [/rankings/washers-dryers/](/rankings/washers-dryers/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

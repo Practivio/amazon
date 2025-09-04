@@ -1,32 +1,32 @@
 ---
 title: "GE Profile PFQ83HSSWWW 4.6 Cu. Ft. White High-Efficiency Smart Combo Electric Washer/Dryer"
-description: "washer and dryer on hardwood floors: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["washer and dryer on hardwood floors"]
-seo_title: "washer and dryer on hardwood floors — Look Elsewhere (2025)"
+description: "best stackable washer and dryer 2021: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["best stackable washer and dryer 2021"]
+seo_title: "best stackable washer and dryer 2021 — Look Elsewhere (2025)"
 canonicalURL: "/products/ge-profile-pfq83hsswww-46-cu-ft-white-high-efficiency-smart-combo-electric-washerdryer-B0DWK48KNL/"
 ---
 
-**🚫 Practivio Score™:** 378 — _Look Elsewhere_
+**🚫 Practivio Score™:** 108 — _Look Elsewhere_
 
 
-*If you're comparing **washer and dryer on hardwood floors**, **[GE Profile PFQ83HSSWWW 4.6 Cu. Ft. White High-Efficiency Smart Combo Electric Washer/Dryer](https://www.amazon.com/dp/B0DWK48KNL?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **best stackable washer and dryer 2021**, **[GE Profile PFQ83HSSWWW 4.6 Cu. Ft. White High-Efficiency Smart Combo Electric Washer/Dryer](https://www.amazon.com/dp/B0DWK48KNL?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “GE Profile PFQ83HSSWWW 4.6 Cu. Ft. White High-Efficiency Smart Combo Electric Washer/Dryer” on Amazon](https://www.amazon.com/dp/B0DWK48KNL?tag=practivio-20)
-Ranked **224 out of 272**, this Combination Washers & Dryers belongs to the **Top Tier tier** of Combination Washers & Dryerses.  
+Ranked **90 out of 93**, this Washers & Dryers belongs to the **Top Tier tier** of Washers & Dryerses.  
 Practivio suggests you **look elsewhere**.
 
 ### What the signals indicate
-Price: ranked 240 among 272 (top 89% in affordability).  
-Reviews: ranked 131 among 272 (top 49% by volume).  
-Rating: ranked  among 272 (top % for stars).  
-Demand: ranked  among 272 (top % for current demand).
+Price: ranked 80 among 93 (top 87% in affordability).  
+Reviews: ranked 69 among 93 (top 75% by volume).  
+Rating: ranked  among 93 (top % for stars).  
+Demand: ranked  among 93 (top % for current demand).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-In the Top Tier tier, the Hidden Gem is rated at 740.00.  
-This pick trails the Hidden Gem by 362.00 points.  
+In the Top Tier tier, the Hidden Gem is rated at 259.00.  
+This pick trails the Hidden Gem by 151.00 points.  
 This comparison helps clarify how the item stacks up in context.  
 
 See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0C72WLSJ1?tag=practivio-20)
@@ -51,7 +51,7 @@ Uncertainty is always disclosed in the evidence base and confidence notes.
 When data is thin, our results emphasize caution.
 
 
-🏷️ **Back to Master:** [/rankings/combination-washers-dryers/](/rankings/combination-washers-dryers/)
+🏷️ **Back to Master:** [/rankings/washers-dryers/](/rankings/washers-dryers/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

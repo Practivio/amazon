@@ -1,35 +1,35 @@
 ---
 title: "COSTWAY, Twin Tub 26lbs Capacity Laundry, 18lbs 8lbs Spinner Combo with Timer Knobs, Built-in Drain Pump, Compact Washer for Home Dorm Apartment (Blue+White) portable washing machine"
-description: "the best washing machine 2022: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["the best washing machine 2022"]
-seo_title: "the best washing machine 2022 — Smart Buy Top Tier (2025)"
+description: "graded washing machine: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["graded washing machine"]
+seo_title: "graded washing machine — Smart Buy Best Value (2025)"
 canonicalURL: "/products/costway-twin-tub-26lbs-capacity-laundry-18lbs-8lbs-spinner-combo-with-timer-knobs-built-in-drain-pump-compact-washer-for-home-dorm-apartment-bluewhite-portable-washing-machine-B0CG9DRYMZ/"
 ---
 
-**🏆 Practivio Score™:** 859 — _Smart Buy_
+**🏆 Practivio Score™:** 221 — _Smart Buy_
 
 
-*If you're comparing **the best washing machine 2022**, **[COSTWAY, Twin Tub 26lbs Capacity Laundry, 18lbs 8lbs Spinner Combo with Timer Knobs, Built-in Drain Pump, Compact Washer for Home Dorm Apartment (Blue+White) portable washing machine](https://www.amazon.com/dp/B0CG9DRYMZ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **graded washing machine**, **[COSTWAY, Twin Tub 26lbs Capacity Laundry, 18lbs 8lbs Spinner Combo with Timer Knobs, Built-in Drain Pump, Compact Washer for Home Dorm Apartment (Blue+White) portable washing machine](https://www.amazon.com/dp/B0CG9DRYMZ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “COSTWAY, Twin Tub 26lbs Capacity Laundry, 18lbs 8lbs Spinner Combo with Timer Knobs, Built-in Drain Pump, Compact Washer for Home Dorm Apartment (Blue+White) portable washing machine” on Amazon](https://www.amazon.com/dp/B0CG9DRYMZ?tag=practivio-20)
-This Portable Dryers is positioned **28 out of 290**, within the **Top Tier tier**.  
+This Washers & Dryers is positioned **24 out of 93**, within the **Best Value tier**.  
 Practivio recommends it as a **Smart Buy**, based on its comparative standing.
 
 ### What the signals indicate
-Price: standing 242 of 290 (top 84% for price).  
-Reviews: standing 117 of 290 (top 41% for review numbers).  
-Rating: standing 190 of 290 (top 66% for rating quality).  
-Demand: standing 72 of 290 (top 25% for monthly demand).
+Price: standing 28 of 93 (top 31% for price).  
+Reviews: standing 32 of 93 (top 35% for review numbers).  
+Rating: standing 47 of 93 (top 51% for rating quality).  
+Demand: standing 22 of 93 (top 24% for monthly demand).
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-Within the Top Tier tier, the Hidden Gem holds a Practivio Score™ of 985.00.  
-This pick trails the Hidden Gem by 126.00 points.  
+Within the Best Value tier, the Hidden Gem holds a Practivio Score™ of 248.00.  
+This pick trails the Hidden Gem by 27.00 points.  
 Consider this point of reference when evaluating alternatives.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0799Q45TT?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B09YLKMHLH?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Products that fail to meet entry thresholds are excluded.  
@@ -51,7 +51,7 @@ Confidence notes and the evidence base make uncertainty transparent.
 If information is scarce, outcomes are shown conservatively, never guessed.
 
 
-🏷️ **Back to Master:** [/rankings/portable-dryers/](/rankings/portable-dryers/)
+🏷️ **Back to Master:** [/rankings/washers-dryers/](/rankings/washers-dryers/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

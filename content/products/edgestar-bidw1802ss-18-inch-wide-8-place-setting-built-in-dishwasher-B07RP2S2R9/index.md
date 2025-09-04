@@ -1,35 +1,35 @@
 ---
 title: "EdgeStar BIDW1802SS 18 Inch Wide 8 Place Setting Built-In Dishwasher"
-description: "defy 15 place dishwasher: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["defy 15 place dishwasher"]
-seo_title: "defy 15 place dishwasher — Smart Buy Best Value (2025)"
+description: "lg 14 place dishwasher: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["lg 14 place dishwasher"]
+seo_title: "lg 14 place dishwasher — Look Elsewhere (2025)"
 canonicalURL: "/products/edgestar-bidw1802ss-18-inch-wide-8-place-setting-built-in-dishwasher-B07RP2S2R9/"
 ---
 
-**🏆 Practivio Score™:** 394 — _Smart Buy_
+**🚫 Practivio Score™:** 694 — _Look Elsewhere_
 
 
-*If you're comparing **defy 15 place dishwasher**, **[EdgeStar BIDW1802SS 18 Inch Wide 8 Place Setting Built-In Dishwasher](https://www.amazon.com/dp/B07RP2S2R9?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **lg 14 place dishwasher**, **[EdgeStar BIDW1802SS 18 Inch Wide 8 Place Setting Built-In Dishwasher](https://www.amazon.com/dp/B07RP2S2R9?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “EdgeStar BIDW1802SS 18 Inch Wide 8 Place Setting Built-In Dishwasher” on Amazon](https://www.amazon.com/dp/B07RP2S2R9?tag=practivio-20)
-This Built-In Dishwashers ranks **70 of 249**, inside the **Best Value tier**.  
-Relative performance leads to this: Practivio recommends it as a **Smart Buy**.
+This Dishwashers ranks **207 of 290**, inside the **Top Tier tier**.  
+Relative performance leads to this: Practivio suggests you **look elsewhere**.
 
 ### What the signals indicate
-Price: ranked 64 of 249 (top 26% by affordability).  
-Reviews: ranked 12 of 249 (top 5% for total count).  
-Rating: ranked 41 of 249 (top 17% on star average).  
-Demand: ranked  of 249 (top % for recent purchases).
+Price: ranked 267 of 290 (top 93% by affordability).  
+Reviews: ranked 143 of 290 (top 50% for total count).  
+Rating: ranked 225 of 290 (top 78% on star average).  
+Demand: ranked  of 290 (top % for recent purchases).
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-The Best Value Hidden Gem carries a score of 430.00 on the Practivio scale.  
-This pick trails the Hidden Gem by 36.00 points.  
+The Top Tier Hidden Gem carries a score of 953.00 on the Practivio scale.  
+This pick trails the Hidden Gem by 259.00 points.  
 Treat it as a baseline for judging competing picks in the same class.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B09ST4M8VF?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07K14QNCC?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Baseline inclusion rules keep weaker or incomplete products out.  
@@ -51,7 +51,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/built-in-dishwashers/](/rankings/built-in-dishwashers/)
+🏷️ **Back to Master:** [/rankings/dishwashers/](/rankings/dishwashers/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

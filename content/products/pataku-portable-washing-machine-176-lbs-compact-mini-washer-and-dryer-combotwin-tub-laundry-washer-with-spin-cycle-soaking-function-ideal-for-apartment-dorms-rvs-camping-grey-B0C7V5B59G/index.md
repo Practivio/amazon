@@ -1,35 +1,35 @@
 ---
 title: "Pataku Portable Washing Machine, 17.6 Lbs Compact Mini Washer and Dryer Combo,Twin Tub Laundry Washer with Spin Cycle, Soaking Function Ideal for Apartment, Dorms, RVs Camping, Grey"
-description: "kenmore upright washer dryer combo: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, moment…"
-keywords: ["kenmore upright washer dryer combo"]
-seo_title: "kenmore upright washer dryer combo — Smart Buy Best Value (2025)"
+description: "laundry shop washing machine price: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, moment…"
+keywords: ["laundry shop washing machine price"]
+seo_title: "laundry shop washing machine price — Smart Buy Best Value (2025)"
 canonicalURL: "/products/pataku-portable-washing-machine-176-lbs-compact-mini-washer-and-dryer-combotwin-tub-laundry-washer-with-spin-cycle-soaking-function-ideal-for-apartment-dorms-rvs-camping-grey-B0C7V5B59G/"
 ---
 
-**🏆 Practivio Score™:** 706 — _Smart Buy_
+**🏆 Practivio Score™:** 218 — _Smart Buy_
 
 
-*If you're comparing **kenmore upright washer dryer combo**, **[Pataku Portable Washing Machine, 17.6 Lbs Compact Mini Washer and Dryer Combo,Twin Tub Laundry Washer with Spin Cycle, Soaking Function Ideal for Apartment, Dorms, RVs Camping, Grey](https://www.amazon.com/dp/B0C7V5B59G?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **laundry shop washing machine price**, **[Pataku Portable Washing Machine, 17.6 Lbs Compact Mini Washer and Dryer Combo,Twin Tub Laundry Washer with Spin Cycle, Soaking Function Ideal for Apartment, Dorms, RVs Camping, Grey](https://www.amazon.com/dp/B0C7V5B59G?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Pataku Portable Washing Machine, 17.6 Lbs Compact Mini Washer and Dryer Combo,Twin Tub Laundry Washer with Spin Cycle, Soaking Function Ideal for Apartment, Dorms, RVs Camping, Grey” on Amazon](https://www.amazon.com/dp/B0C7V5B59G?tag=practivio-20)
-Among Stacked Washer & Dryer Unitses, this Stacked Washer & Dryer Units places **18 of 268**.  
+Among Washers & Dryerses, this Washers & Dryers places **29 of 93**.  
 It is classified in the **Best Value tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 82 / 268 (top 31% lowest cost).  
-Reviews: 32 / 268 (top 12% in review totals).  
-Rating: 119 / 268 (top 45% by average rating).  
-Demand: 12 / 268 (top 5% by recent sales).
+Price: 11 / 93 (top 12% lowest cost).  
+Reviews: 24 / 93 (top 26% in review totals).  
+Rating: 33 / 93 (top 36% by average rating).  
+Demand: 13 / 93 (top 14% by recent sales).
 
 ### Position in tier
 All relative standing is tier-specific.
 
 ### How it compares to the Hidden Gem
-The Hidden Gem for Best Value achieves a Practivio Score™ of 712.00.  
-This pick trails the Hidden Gem by 6.00 points.  
+The Hidden Gem for Best Value achieves a Practivio Score™ of 248.00.  
+This pick trails the Hidden Gem by 30.00 points.  
 Keep this in mind when weighing your top choices.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B095KG5FPT?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B09YLKMHLH?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Products that fail to meet entry thresholds are excluded.  
@@ -52,7 +52,7 @@ We capture uncertainty through documented evidence and confidence commentary.
 Where data is missing, our approach is conservative, not assumptive.
 
 
-🏷️ **Back to Master:** [/rankings/stacked-washer-dryer-units/](/rankings/stacked-washer-dryer-units/)
+🏷️ **Back to Master:** [/rankings/washers-dryers/](/rankings/washers-dryers/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

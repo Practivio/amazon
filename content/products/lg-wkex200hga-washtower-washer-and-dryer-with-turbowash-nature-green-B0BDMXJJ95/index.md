@@ -1,35 +1,35 @@
 ---
 title: "LG WKEX200HGA WashTower Washer and Dryer with TurboWash (Nature Green)"
-description: "lg electric stackable washer dryer: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["lg electric stackable washer dryer"]
-seo_title: "lg electric stackable washer dryer — Smart Buy Top Tier (2025)"
+description: "the best washer dryer 2022: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["the best washer dryer 2022"]
+seo_title: "the best washer dryer 2022 — Smart Buy Top Tier (2025)"
 canonicalURL: "/products/lg-wkex200hga-washtower-washer-and-dryer-with-turbowash-nature-green-B0BDMXJJ95/"
 ---
 
-**🏆 Practivio Score™:** 703 — _Smart Buy_
+**🏆 Practivio Score™:** 226 — _Smart Buy_
 
 
-*If you're comparing **lg electric stackable washer dryer**, **[LG WKEX200HGA WashTower Washer and Dryer with TurboWash (Nature Green)](https://www.amazon.com/dp/B0BDMXJJ95?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **the best washer dryer 2022**, **[LG WKEX200HGA WashTower Washer and Dryer with TurboWash (Nature Green)](https://www.amazon.com/dp/B0BDMXJJ95?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “LG WKEX200HGA WashTower Washer and Dryer with TurboWash (Nature Green)” on Amazon](https://www.amazon.com/dp/B0BDMXJJ95?tag=practivio-20)
-Holding rank **20 of 268**, this Stacked Washer & Dryer Units is evaluated within the **Top Tier tier** of Stacked Washer & Dryer Unitses.  
+Holding rank **21 of 93**, this Washers & Dryers is evaluated within the **Top Tier tier** of Washers & Dryerses.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: ranked 260 among 268 (top 98% in affordability).  
-Reviews: ranked 217 among 268 (top 81% by volume).  
-Rating: ranked 107 among 268 (top 40% for stars).  
-Demand: ranked 100 among 268 (top 38% for current demand).
+Price: ranked 89 among 93 (top 96% in affordability).  
+Reviews: ranked 88 among 93 (top 95% by volume).  
+Rating: ranked 29 among 93 (top 32% for stars).  
+Demand: ranked 48 among 93 (top 52% for current demand).
 
 ### Position in tier
 All comparisons are limited to this tier.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Top Tier carries a Practivio Score™ of 783.00.  
-This pick trails the Hidden Gem by 80.00 points.  
+The current Hidden Gem in Top Tier carries a Practivio Score™ of 259.00.  
+This pick trails the Hidden Gem by 33.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0D4282T95?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0C72WLSJ1?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Baseline checks remove outliers and unqualified products.  
@@ -51,7 +51,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/stacked-washer-dryer-units/](/rankings/stacked-washer-dryer-units/)
+🏷️ **Back to Master:** [/rankings/washers-dryers/](/rankings/washers-dryers/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

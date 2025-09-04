@@ -1,34 +1,34 @@
 ---
 title: "COSTWAY 1700W Electric Portable Clothes Dryer, 13.2 lbs Capacity Front Load Compact Tumble Laundry Dryer with Stainless Steel Tub, Easy Control Button Panel Downside for Variety Drying Mode, White"
-description: "costway 1700w portable dryer: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["costway 1700w portable dryer"]
-seo_title: "costway 1700w portable dryer — Compare (2025)"
+description: "best tumble dryer 2022: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["best tumble dryer 2022"]
+seo_title: "best tumble dryer 2022 — Compare (2025)"
 canonicalURL: "/products/costway-1700w-electric-portable-clothes-dryer-132-lbs-capacity-front-load-compact-tumble-laundry-dryer-with-stainless-steel-tub-easy-control-button-panel-downside-for-variety-drying-mode-white-B083PRDBSB/"
 ---
 
-**🛒 Practivio Score™:** 761 — _Compare_
+**🛒 Practivio Score™:** 196 — _Compare_
 
 
-*If you're comparing **costway 1700w portable dryer**, **[COSTWAY 1700W Electric Portable Clothes Dryer, 13.2 lbs Capacity Front Load Compact Tumble Laundry Dryer with Stainless Steel Tub, Easy Control Button Panel Downside for Variety Drying Mode, White](https://www.amazon.com/dp/B083PRDBSB?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **best tumble dryer 2022**, **[COSTWAY 1700W Electric Portable Clothes Dryer, 13.2 lbs Capacity Front Load Compact Tumble Laundry Dryer with Stainless Steel Tub, Easy Control Button Panel Downside for Variety Drying Mode, White](https://www.amazon.com/dp/B083PRDBSB?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “COSTWAY 1700W Electric Portable Clothes Dryer, 13.2 lbs Capacity Front Load Compact Tumble Laundry Dryer with Stainless Steel Tub, Easy Control Button Panel Downside for Variety Drying Mode, White” on Amazon](https://www.amazon.com/dp/B083PRDBSB?tag=practivio-20)
-This Portable Dryers ranks **116 of 290**, inside the **Top Tier tier**.  
+This Washers & Dryers ranks **50 of 93**, inside the **Balanced Choice tier**.  
 Relative performance leads to this: Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 273 out of 290 (top 95% lowest-priced).  
-Reviews: 59 out of 290 (top 21% in review volume).  
-Rating: 234 out of 290 (top 81% by star rating).  
+Price: 36 out of 93 (top 39% lowest-priced).  
+Reviews: 16 out of 93 (top 18% in review volume).  
+Rating: 64 out of 93 (top 69% by star rating).  
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-The Top Tier Hidden Gem carries a score of 985.00 on the Practivio scale.  
-This pick trails the Hidden Gem by 224.00 points.  
+The Balanced Choice Hidden Gem carries a score of 268.00 on the Practivio scale.  
+This pick trails the Hidden Gem by 72.00 points.  
 Treat it as a baseline for judging competing picks in the same class.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0799Q45TT?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B097H2FVNZ?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Products must clear minimum standards before entry.  
@@ -52,7 +52,7 @@ Where inputs are missing, we don’t substitute — we mark the score as less ce
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/portable-dryers/](/rankings/portable-dryers/)
+🏷️ **Back to Master:** [/rankings/washers-dryers/](/rankings/washers-dryers/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

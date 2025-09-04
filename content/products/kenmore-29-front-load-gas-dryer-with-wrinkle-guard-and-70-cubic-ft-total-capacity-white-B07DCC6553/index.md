@@ -1,35 +1,35 @@
 ---
 title: "Kenmore 29\" Front Load Gas Dryer with Wrinkle Guard and 7.0 Cubic Ft. Total Capacity, White"
-description: "haier 2.0 cu ft front load washer dryer combo hlc1700axw: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value,…"
-keywords: ["haier 2.0 cu ft front load washer dryer combo hlc1700axw"]
-seo_title: "haier 2.0 cu ft front load washer dryer combo hlc1700axw — Smart Buy Balanced Choice (2025)"
+description: "best washer and gas dryer 2022: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momen…"
+keywords: ["best washer and gas dryer 2022"]
+seo_title: "best washer and gas dryer 2022 — Smart Buy Balanced Choice (2025)"
 canonicalURL: "/products/kenmore-29-front-load-gas-dryer-with-wrinkle-guard-and-70-cubic-ft-total-capacity-white-B07DCC6553/"
 ---
 
-**🏆 Practivio Score™:** 673 — _Smart Buy_
+**🏆 Practivio Score™:** 230 — _Smart Buy_
 
 
-*If you're comparing **haier 2.0 cu ft front load washer dryer combo hlc1700axw**, **[Kenmore 29" Front Load Gas Dryer with Wrinkle Guard and 7.0 Cubic Ft. Total Capacity, White](https://www.amazon.com/dp/B07DCC6553?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **best washer and gas dryer 2022**, **[Kenmore 29" Front Load Gas Dryer with Wrinkle Guard and 7.0 Cubic Ft. Total Capacity, White](https://www.amazon.com/dp/B07DCC6553?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Kenmore 29" Front Load Gas Dryer with Wrinkle Guard and 7.0 Cubic Ft. Total Capacity, White” on Amazon](https://www.amazon.com/dp/B07DCC6553?tag=practivio-20)
-Ranked **13 out of 272**, this Combination Washers & Dryers belongs to the **Balanced Choice tier** of Combination Washers & Dryerses.  
+Ranked **17 out of 93**, this Washers & Dryers belongs to the **Balanced Choice tier** of Washers & Dryerses.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 165 out of 272 (top 61% lowest-priced).  
-Reviews: 37 out of 272 (top 14% in review volume).  
-Rating: 127 out of 272 (top 47% by star rating).  
-Demand: 85 out of 272 (top 32% by buyer demand this month).
+Price: 46 out of 93 (top 50% lowest-priced).  
+Reviews: 29 out of 93 (top 32% in review volume).  
+Rating: 50 out of 93 (top 54% by star rating).  
+Demand: 49 out of 93 (top 53% by buyer demand this month).
 
 ### Position in tier
 All comparisons are limited to this tier.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Balanced Choice carries a Practivio Score™ of 702.00.  
-This pick trails the Hidden Gem by 29.00 points.  
+The current Hidden Gem in Balanced Choice carries a Practivio Score™ of 268.00.  
+This pick trails the Hidden Gem by 38.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0D4282T95?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B097H2FVNZ?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Every product is screened against baseline measures.  
@@ -51,7 +51,7 @@ We capture uncertainty through documented evidence and confidence commentary.
 Where data is missing, our approach is conservative, not assumptive.
 
 
-🏷️ **Back to Master:** [/rankings/combination-washers-dryers/](/rankings/combination-washers-dryers/)
+🏷️ **Back to Master:** [/rankings/washers-dryers/](/rankings/washers-dryers/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
