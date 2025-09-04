@@ -1,3 +1,17 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "/"
+title = "Practivio"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+mainSections = []
+description = "Shop Smart. Live Better."
+author = "Practivio"
+defaultTheme = "auto"
+showReadingTime = true
+showBreadCrumbs = true
+ env = "production"
+
