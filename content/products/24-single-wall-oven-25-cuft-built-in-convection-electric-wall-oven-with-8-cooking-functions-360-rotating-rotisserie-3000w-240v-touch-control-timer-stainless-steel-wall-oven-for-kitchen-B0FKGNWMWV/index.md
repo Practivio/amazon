@@ -1,23 +1,23 @@
 ---
 title: "24\" Single Wall Oven, 2.5 Cu.ft. Built-in Convection Electric Wall Oven with 8 Cooking Functions, 360° ROTATING ROTISSERIE, 3000W, 240V, Touch Control, Timer, Stainless Steel Wall Oven for Kitchen"
-description: "frigidaire 24 gas double wall oven: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["frigidaire 24 gas double wall oven"]
-seo_title: "frigidaire 24 gas double wall oven — Look Elsewhere (2025)"
+description: "electrolux single ovens: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["electrolux single ovens"]
+seo_title: "electrolux single ovens — Compare (2025)"
 canonicalURL: "/products/24-single-wall-oven-25-cuft-built-in-convection-electric-wall-oven-with-8-cooking-functions-360-rotating-rotisserie-3000w-240v-touch-control-timer-stainless-steel-wall-oven-for-kitchen-B0FKGNWMWV/"
 ---
 
-**🚫 Practivio Score™:** 307 — _Look Elsewhere_
+**🛒 Practivio Score™:** 291 — _Compare_
 
 
-*If you're comparing **frigidaire 24 gas double wall oven**, **[24" Single Wall Oven, 2.5 Cu.ft. Built-in Convection Electric Wall Oven with 8 Cooking Functions, 360° ROTATING ROTISSERIE, 3000W, 240V, Touch Control, Timer, Stainless Steel Wall Oven for Kitchen](https://www.amazon.com/dp/B0FKGNWMWV?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **electrolux single ovens**, **[24" Single Wall Oven, 2.5 Cu.ft. Built-in Convection Electric Wall Oven with 8 Cooking Functions, 360° ROTATING ROTISSERIE, 3000W, 240V, Touch Control, Timer, Stainless Steel Wall Oven for Kitchen](https://www.amazon.com/dp/B0FKGNWMWV?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “24" Single Wall Oven, 2.5 Cu.ft. Built-in Convection Electric Wall Oven with 8 Cooking Functions, 360° ROTATING ROTISSERIE, 3000W, 240V, Touch Control, Timer, Stainless Steel Wall Oven for Kitchen” on Amazon](https://www.amazon.com/dp/B0FKGNWMWV?tag=practivio-20)
-Among Wall Ovenses, this Wall Ovens places **211 of 276**.  
-It is classified in the **Balanced Choice tier**, where Practivio suggests you **look elsewhere**.
+Among Single Wall Ovenses, this Single Wall Ovens places **159 of 276**.  
+It is classified in the **Balanced Choice tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 124 of 276 (top 45% lowest price).  
-Reviews: 147 of 276 (top 54% by review count).  
+Price: 121 of 276 (top 44% lowest price).  
+Reviews: 121 of 276 (top 44% by review count).  
 Rating:  of 276 (top % by average stars).  
 Demand:  of 276 (top % by purchases this month).
 
@@ -25,11 +25,11 @@ Demand:  of 276 (top % by purchases this month).
 Evaluations are made only against peers in this tier.
 
 ### How it compares to the Hidden Gem
-Within the Balanced Choice tier, the Hidden Gem holds a Practivio Score™ of 624.00.  
-This pick trails the Hidden Gem by 317.00 points.  
+Within the Balanced Choice tier, the Hidden Gem holds a Practivio Score™ of 544.00.  
+This pick trails the Hidden Gem by 253.00 points.  
 Consider this point of reference when evaluating alternatives.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0DGJZT9QN?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0F7RK331N?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Only products that pass our baseline filters are included.  
@@ -50,8 +50,10 @@ That way, designations mean the same thing across the board.
 Uncertainty appears as part of the evidence record and confidence notes.  
 With incomplete information, we prefer restraint over estimates.
 
+<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-🏷️ **Back to Master:** [/rankings/wall-ovens/](/rankings/wall-ovens/)
+
+🏷️ **Back to Master:** [/rankings/single-wall-ovens/](/rankings/single-wall-ovens/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

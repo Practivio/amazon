@@ -1,33 +1,33 @@
 ---
 title: "Summit TTM7212BKW Kitchen Cooking Range, Stainless Steel"
-description: "30 smart microwave combination wall oven in black stainless steel: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value…"
-keywords: ["30 smart microwave combination wall oven in black stainless steel"]
-seo_title: "30 smart microwave combination wall oven in black stainless steel — Smart Buy Top Tier (2025)"
+description: "samsung 30 single wall oven black stainless steel: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findab…"
+keywords: ["samsung 30 single wall oven black stainless steel"]
+seo_title: "samsung 30 single wall oven black stainless steel — Smart Buy Top Tier (2025)"
 canonicalURL: "/products/summit-ttm7212bkw-kitchen-cooking-range-stainless-steel-B01F0OZQPE/"
 ---
 
-**🏆 Practivio Score™:** 640 — _Smart Buy_
+**🏆 Practivio Score™:** 572 — _Smart Buy_
 
 
-*If you're comparing **30 smart microwave combination wall oven in black stainless steel**, **[Summit TTM7212BKW Kitchen Cooking Range, Stainless Steel](https://www.amazon.com/dp/B01F0OZQPE?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **samsung 30 single wall oven black stainless steel**, **[Summit TTM7212BKW Kitchen Cooking Range, Stainless Steel](https://www.amazon.com/dp/B01F0OZQPE?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Summit TTM7212BKW Kitchen Cooking Range, Stainless Steel” on Amazon](https://www.amazon.com/dp/B01F0OZQPE?tag=practivio-20)
-This Wall Ovens holds rank **19 of 276** in our analysis.  
-It appears in the **Top Tier tier** of comparable Wall Ovenses.  
+This Single Wall Ovens holds rank **9 of 276** in our analysis.  
+It appears in the **Top Tier tier** of comparable Single Wall Ovenses.  
 Practivio recommends it as a **Smart Buy**, reflecting its position within the dataset.
 
 ### What the signals indicate
-Price: ranked 197 of 276 (top 72% by affordability).  
-Reviews: ranked 71 of 276 (top 26% for total count).  
-Rating: ranked 100 of 276 (top 37% on star average).  
-Demand: ranked 55 of 276 (top 20% for recent purchases).
+Price: ranked 226 of 276 (top 82% by affordability).  
+Reviews: ranked 50 of 276 (top 19% for total count).  
+Rating: ranked 61 of 276 (top 23% on star average).  
+Demand: ranked 44 of 276 (top 16% for recent purchases).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-The Top Tier Hidden Gem carries a score of 698.00 on the Practivio scale.  
-This pick trails the Hidden Gem by 58.00 points.  
+The Top Tier Hidden Gem carries a score of 616.00 on the Practivio scale.  
+This pick trails the Hidden Gem by 44.00 points.  
 Treat it as a baseline for judging competing picks in the same class.  
 
 See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00N45FU58?tag=practivio-20)
@@ -52,7 +52,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/wall-ovens/](/rankings/wall-ovens/)
+🏷️ **Back to Master:** [/rankings/single-wall-ovens/](/rankings/single-wall-ovens/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

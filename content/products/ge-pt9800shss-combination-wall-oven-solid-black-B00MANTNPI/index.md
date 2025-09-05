@@ -1,32 +1,32 @@
 ---
 title: "GE PT9800SHSS Combination Wall Oven, Solid Black"
-description: "bosch series wall oven: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["bosch series wall oven"]
-seo_title: "bosch series wall oven — Smart Buy Top Tier (2025)"
+description: "ge profile 24 double wall oven: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["ge profile 24 double wall oven"]
+seo_title: "ge profile 24 double wall oven — Smart Buy Top Tier (2025)"
 canonicalURL: "/products/ge-pt9800shss-combination-wall-oven-solid-black-B00MANTNPI/"
 ---
 
-**🏆 Practivio Score™:** 693 — _Smart Buy_
+**🏆 Practivio Score™:** 574 — _Smart Buy_
 
 
-*If you're comparing **bosch series wall oven**, **[GE PT9800SHSS Combination Wall Oven, Solid Black](https://www.amazon.com/dp/B00MANTNPI?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **ge profile 24 double wall oven**, **[GE PT9800SHSS Combination Wall Oven, Solid Black](https://www.amazon.com/dp/B00MANTNPI?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “GE PT9800SHSS Combination Wall Oven, Solid Black” on Amazon](https://www.amazon.com/dp/B00MANTNPI?tag=practivio-20)
-Among Wall Ovenses, this Wall Ovens places **2 of 276**.  
+Among Double Wall Ovenses, this Double Wall Ovens places **3 of 257**.  
 It is classified in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 252 of 276 (top 92% lowest price).  
-Reviews: 57 of 276 (top 21% by review count).  
-Rating: 119 of 276 (top 44% by average stars).  
-Demand: 37 of 276 (top 14% by purchases this month).
+Price: 223 of 257 (top 87% lowest price).  
+Reviews: 54 of 257 (top 22% by review count).  
+Rating: 133 of 257 (top 52% by average stars).  
+Demand: 55 of 257 (top 22% by purchases this month).
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Top Tier carries a Practivio Score™ of 698.00.  
-This pick trails the Hidden Gem by 5.00 points.  
+The current Hidden Gem in Top Tier carries a Practivio Score™ of 580.00.  
+This pick trails the Hidden Gem by 6.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
 See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00N45FU58?tag=practivio-20)
@@ -52,7 +52,7 @@ Confidence notes and the evidence base make uncertainty transparent.
 If information is scarce, outcomes are shown conservatively, never guessed.
 
 
-🏷️ **Back to Master:** [/rankings/wall-ovens/](/rankings/wall-ovens/)
+🏷️ **Back to Master:** [/rankings/double-wall-ovens/](/rankings/double-wall-ovens/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

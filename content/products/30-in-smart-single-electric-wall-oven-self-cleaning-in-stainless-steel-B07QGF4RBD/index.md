@@ -1,32 +1,32 @@
 ---
 title: "30 in. Smart Single Electric Wall Oven Self-Cleaning in Stainless Steel"
-description: "ge profile 30 convection wall oven stores: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, m…"
-keywords: ["ge profile 30 convection wall oven stores"]
-seo_title: "ge profile 30 convection wall oven stores — Smart Buy Top Tier (2025)"
+description: "ge jk3000sfss single wall oven: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["ge jk3000sfss single wall oven"]
+seo_title: "ge jk3000sfss single wall oven — Smart Buy Top Tier (2025)"
 canonicalURL: "/products/30-in-smart-single-electric-wall-oven-self-cleaning-in-stainless-steel-B07QGF4RBD/"
 ---
 
-**🏆 Practivio Score™:** 545 — _Smart Buy_
+**🏆 Practivio Score™:** 505 — _Smart Buy_
 
 
-*If you're comparing **ge profile 30 convection wall oven stores**, **[30 in. Smart Single Electric Wall Oven Self-Cleaning in Stainless Steel](https://www.amazon.com/dp/B07QGF4RBD?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **ge jk3000sfss single wall oven**, **[30 in. Smart Single Electric Wall Oven Self-Cleaning in Stainless Steel](https://www.amazon.com/dp/B07QGF4RBD?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “30 in. Smart Single Electric Wall Oven Self-Cleaning in Stainless Steel” on Amazon](https://www.amazon.com/dp/B07QGF4RBD?tag=practivio-20)
-Among Wall Ovenses, this Wall Ovens places **85 of 276**.  
+Among Single Wall Ovenses, this Single Wall Ovens places **49 of 276**.  
 It is classified in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 183 of 276 (top 67% lowest price).  
-Reviews: 83 of 276 (top 31% by review count).  
-Rating: 77 of 276 (top 28% by average stars).  
+Price: 214 of 276 (top 78% lowest price).  
+Reviews: 58 of 276 (top 22% by review count).  
+Rating: 47 of 276 (top 18% by average stars).  
 Demand:  of 276 (top % by purchases this month).
 
 ### Position in tier
 Evaluations are made only against peers in this tier.
 
 ### How it compares to the Hidden Gem
-Within the Top Tier tier, the Hidden Gem holds a Practivio Score™ of 698.00.  
-This pick trails the Hidden Gem by 153.00 points.  
+Within the Top Tier tier, the Hidden Gem holds a Practivio Score™ of 616.00.  
+This pick trails the Hidden Gem by 111.00 points.  
 Consider this point of reference when evaluating alternatives.  
 
 See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00N45FU58?tag=practivio-20)
@@ -51,7 +51,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/wall-ovens/](/rankings/wall-ovens/)
+🏷️ **Back to Master:** [/rankings/single-wall-ovens/](/rankings/single-wall-ovens/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

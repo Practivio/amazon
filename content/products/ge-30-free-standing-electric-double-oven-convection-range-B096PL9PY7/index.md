@@ -1,35 +1,35 @@
 ---
 title: "GE® 30\" Free-Standing Electric Double Oven Convection Range"
-description: "ge 30 free standing gas range jgb660sejss: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["ge 30 free standing gas range jgb660sejss"]
-seo_title: "ge 30 free standing gas range jgb660sejss — Compare (2025)"
+description: "miele h7780bp2cts 30 convection double oven: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability,…"
+keywords: ["miele h7780bp2cts 30 convection double oven"]
+seo_title: "miele h7780bp2cts 30 convection double oven — Smart Buy Top Tier (2025)"
 canonicalURL: "/products/ge-30-free-standing-electric-double-oven-convection-range-B096PL9PY7/"
 ---
 
-**🛒 Practivio Score™:** 548 — _Compare_
+**🏆 Practivio Score™:** 486 — _Smart Buy_
 
 
-*If you're comparing **ge 30 free standing gas range jgb660sejss**, **[GE® 30" Free-Standing Electric Double Oven Convection Range](https://www.amazon.com/dp/B096PL9PY7?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **miele h7780bp2cts 30 convection double oven**, **[GE® 30" Free-Standing Electric Double Oven Convection Range](https://www.amazon.com/dp/B096PL9PY7?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “GE® 30" Free-Standing Electric Double Oven Convection Range” on Amazon](https://www.amazon.com/dp/B096PL9PY7?tag=practivio-20)
-This Freestanding Ranges is positioned **128 out of 290**, within the **Balanced Choice tier**.  
-Practivio lists it under **Compare** for further evaluation, based on its comparative standing.
+This Double Wall Ovens is positioned **49 out of 257**, within the **Top Tier tier**.  
+Practivio recommends it as a **Smart Buy**, based on its comparative standing.
 
 ### What the signals indicate
-Price: 157 of 290 (top 55% lowest price).  
-Reviews: 111 of 290 (top 39% by review count).  
-Rating: 100 of 290 (top 35% by average stars).  
-Demand:  of 290 (top % by purchases this month).
+Price: 191 of 257 (top 75% lowest price).  
+Reviews: 93 of 257 (top 37% by review count).  
+Rating: 111 of 257 (top 44% by average stars).  
+Demand:  of 257 (top % by purchases this month).
 
 ### Position in tier
 All relative standing is tier-specific.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Balanced Choice carries a Practivio Score™ of 701.00.  
-This pick trails the Hidden Gem by 153.00 points.  
+The current Hidden Gem in Top Tier carries a Practivio Score™ of 580.00.  
+This pick trails the Hidden Gem by 94.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07FWRTVYZ?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00N45FU58?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Baseline eligibility criteria govern which items are considered.  
@@ -51,10 +51,8 @@ A product’s standing is always expressed relative to its tier peers, not acros
 Evidence quality and confidence notes highlight uncertainty.  
 Rather than plug holes in the data, we acknowledge and present limits.
 
-<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-
-🏷️ **Back to Master:** [/rankings/freestanding-ranges/](/rankings/freestanding-ranges/)
+🏷️ **Back to Master:** [/rankings/double-wall-ovens/](/rankings/double-wall-ovens/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

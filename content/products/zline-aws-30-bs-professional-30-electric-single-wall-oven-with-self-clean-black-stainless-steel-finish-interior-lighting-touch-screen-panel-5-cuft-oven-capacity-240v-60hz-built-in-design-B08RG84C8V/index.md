@@ -1,32 +1,32 @@
 ---
 title: "ZLINE AWS-30-BS Professional 30\" Electric Single-wall Oven with Self-clean, Black Stainless Steel Finish; Interior Lighting; Touch Screen Panel; 5 cu.ft Oven Capacity; 240V, 60Hz; Built-in Design"
-description: "toshiba em131a5c bs microwave oven: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["toshiba em131a5c bs microwave oven"]
-seo_title: "toshiba em131a5c bs microwave oven — Smart Buy Top Tier (2025)"
+description: "kitchenaid kose500ess 30 inch single wall oven: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findabili…"
+keywords: ["kitchenaid kose500ess 30 inch single wall oven"]
+seo_title: "kitchenaid kose500ess 30 inch single wall oven — Smart Buy Top Tier (2025)"
 canonicalURL: "/products/zline-aws-30-bs-professional-30-electric-single-wall-oven-with-self-clean-black-stainless-steel-finish-interior-lighting-touch-screen-panel-5-cuft-oven-capacity-240v-60hz-built-in-design-B08RG84C8V/"
 ---
 
-**🏆 Practivio Score™:** 645 — _Smart Buy_
+**🏆 Practivio Score™:** 575 — _Smart Buy_
 
 
-*If you're comparing **toshiba em131a5c bs microwave oven**, **[ZLINE AWS-30-BS Professional 30" Electric Single-wall Oven with Self-clean, Black Stainless Steel Finish; Interior Lighting; Touch Screen Panel; 5 cu.ft Oven Capacity; 240V, 60Hz; Built-in Design](https://www.amazon.com/dp/B08RG84C8V?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **kitchenaid kose500ess 30 inch single wall oven**, **[ZLINE AWS-30-BS Professional 30" Electric Single-wall Oven with Self-clean, Black Stainless Steel Finish; Interior Lighting; Touch Screen Panel; 5 cu.ft Oven Capacity; 240V, 60Hz; Built-in Design](https://www.amazon.com/dp/B08RG84C8V?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “ZLINE AWS-30-BS Professional 30" Electric Single-wall Oven with Self-clean, Black Stainless Steel Finish; Interior Lighting; Touch Screen Panel; 5 cu.ft Oven Capacity; 240V, 60Hz; Built-in Design” on Amazon](https://www.amazon.com/dp/B08RG84C8V?tag=practivio-20)
-Among Wall Ovenses, this Wall Ovens places **16 of 276**.  
+Among Single Wall Ovenses, this Single Wall Ovens places **8 of 276**.  
 It is classified in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 229 out of 276 (top 83% lowest-priced).  
-Reviews: 129 out of 276 (top 47% in review volume).  
-Rating: 163 out of 276 (top 60% by star rating).  
-Demand: 75 out of 276 (top 28% by buyer demand this month).
+Price: 253 out of 276 (top 92% lowest-priced).  
+Reviews: 110 out of 276 (top 40% in review volume).  
+Rating: 113 out of 276 (top 41% by star rating).  
+Demand: 53 out of 276 (top 20% by buyer demand this month).
 
 ### Position in tier
 All relative standing is tier-specific.
 
 ### How it compares to the Hidden Gem
-The Hidden Gem for Top Tier achieves a Practivio Score™ of 698.00.  
-This pick trails the Hidden Gem by 53.00 points.  
+The Hidden Gem for Top Tier achieves a Practivio Score™ of 616.00.  
+This pick trails the Hidden Gem by 41.00 points.  
 Keep this in mind when weighing your top choices.  
 
 See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00N45FU58?tag=practivio-20)
@@ -52,7 +52,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/wall-ovens/](/rankings/wall-ovens/)
+🏷️ **Back to Master:** [/rankings/single-wall-ovens/](/rankings/single-wall-ovens/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
