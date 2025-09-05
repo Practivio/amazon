@@ -1,0 +1,11 @@
+1  {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" -}}
+2  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+3    {{- range .Pages -}}
+4      <url>
+5        <loc>{{ .Permalink }}</loc>  <!-- ABSOLUTE URL -->
+6        {{ with .Lastmod }}<lastmod>{{ .Format "2006-01-02T15:04:05Z07:00" }}</lastmod>{{ end }}
+7        <changefreq>weekly</changefreq>
+8        <priority>0.5</priority>
+9      </url>
+10   {{- end -}}
+11 </urlset>
