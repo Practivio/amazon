@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+{{- print "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML -}}
+{{- $sections := .Site.Sections -}}
+{{- if gt (len $sections) 0 -}}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- $now := now.Format "2006-01-02T15:04:05Z07:00" -}}
+  {{- range $sections -}}
+  <sitemap>
+    <loc>{{ printf "%s%s" $.Site.BaseURL (printf "sitemaps/%s.xml" .Title | urlize) }}</loc>
+    <lastmod>{{ $now }}</lastmod>
+  </sitemap>
+  {{- end -}}
+</sitemapindex>
+{{- else -}}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{- range .Site.RegularPages -}}
   <url>
@@ -9,5 +21,4 @@
   </url>
   {{- end -}}
 </urlset>
-
-
+{{- end -}}
