@@ -1,0 +1,25 @@
+# File: layouts/sitemap.xml
+1  {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" -}}
+2  {{- $sections := .Site.Sections -}}
+3  {{- if gt (len $sections) 0 -}}
+4  <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+5    {{- $now := now.Format "2006-01-02T15:04:05Z07:00" -}}
+6    {{- range $sections -}}
+7      <sitemap>
+8        <loc>{{ printf "%s%s" $.Site.BaseURL (printf "sitemaps/%s.xml" .Title | urlize) }}</loc>
+9        <lastmod>{{ $now }}</lastmod>
+10     </sitemap>
+11   {{- end -}}
+12 </sitemapindex>
+13 {{- else -}}
+14 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+15   {{- range .Site.RegularPages -}}
+16     <url>
+17       <loc>{{ .Permalink }}</loc>
+18       {{ with .Lastmod }}<lastmod>{{ .Format "2006-01-02T15:04:05Z07:00" }}</lastmod>{{ end }}
+19       <changefreq>weekly</changefreq>
+20       <priority>0.5</priority>
+21     </url>
+22   {{- end -}}
+23 </urlset>
+24 {{- end -}}
