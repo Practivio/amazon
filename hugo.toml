@@ -1,7 +1,13 @@
-baseURL = "/"
+baseURL = "https://practivio.com/"
 title = "Practivio"
 theme = "PaperMod"
+canonifyURLs = true
 enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename   = "sitemap.xml"
+  priority   = 0.5
 
 [pagination]
 pagerSize = 10
@@ -14,4 +20,3 @@ defaultTheme = "auto"
 showReadingTime = true
 showBreadCrumbs = true
  env = "production"
-
