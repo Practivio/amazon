@@ -1,35 +1,35 @@
 ---
 title: "Pearl Beads Bracelet Kit Friendship"
-description: "square knot friendship bracelet with beads: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["square knot friendship bracelet with beads"]
-seo_title: "square knot friendship bracelet with beads — Compare (2025)"
+description: "bracelet kit flat beads: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["bracelet kit flat beads"]
+seo_title: "bracelet kit flat beads — Look Elsewhere (2025)"
 canonicalURL: "/products/pearl-beads-bracelet-kit-friendship-B0CDGT685V/"
 ---
 
-**🛒 Practivio Score™:** 822 — _Compare_
+**🚫 Practivio Score™:** 752 — _Look Elsewhere_
 
 
-*If you're comparing **square knot friendship bracelet with beads**, **[Pearl Beads Bracelet Kit Friendship](https://www.amazon.com/dp/B0CDGT685V?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **bracelet kit flat beads**, **[Pearl Beads Bracelet Kit Friendship](https://www.amazon.com/dp/B0CDGT685V?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Pearl Beads Bracelet Kit Friendship” on Amazon](https://www.amazon.com/dp/B0CDGT685V?tag=practivio-20)
-Among Beading & Jewelry Makings, this Beading & Jewelry Making places **185 of 280**.  
-It is classified in the **Balanced Choice tier**, where Practivio lists it under **Compare** for further evaluation.
+Among Jewelry Making Kitses, this Jewelry Making Kits places **215 of 266**.  
+It is classified in the **Best Value tier**, where Practivio suggests you **look elsewhere**.
 
 ### What the signals indicate
-Price: 119 / 280 (top 43% lowest cost).  
-Reviews: 199 / 280 (top 72% in review totals).  
-Rating: 133 / 280 (top 48% by average rating).  
-Demand: 196 / 280 (top 70% by recent sales).
+Price: 41 / 266 (top 16% lowest cost).  
+Reviews: 194 / 266 (top 73% in review totals).  
+Rating: 162 / 266 (top 61% by average rating).  
+Demand: 188 / 266 (top 71% by recent sales).
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Balanced Choice carries a Practivio Score™ of 1022.00.  
-This pick trails the Hidden Gem by 200.00 points.  
+The current Hidden Gem in Best Value carries a Practivio Score™ of 949.00.  
+This pick trails the Hidden Gem by 197.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B000P42O3C?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07DMMBY85?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Baseline eligibility criteria govern which items are considered.  
@@ -50,10 +50,8 @@ Each product’s outcome is tied to its own tier, not to the entire market at on
 We show uncertainty directly in the evidence base and confidence notes.  
 If data is sparse, we present outcomes cautiously rather than speculate.
 
-<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-
-🏷️ **Back to Master:** [/rankings/beading-jewelry-making/](/rankings/beading-jewelry-making/)
+🏷️ **Back to Master:** [/rankings/jewelry-making-kits/](/rankings/jewelry-making-kits/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
