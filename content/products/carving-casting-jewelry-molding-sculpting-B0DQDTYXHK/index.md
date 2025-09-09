@@ -1,35 +1,35 @@
 ---
 title: "Carving Casting Jewelry Molding Sculpting"
-description: "casting titanium jewelry: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["casting titanium jewelry"]
-seo_title: "casting titanium jewelry — Look Elsewhere (2025)"
+description: "jewelry sculpting wax: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["jewelry sculpting wax"]
+seo_title: "jewelry sculpting wax — Compare (2025)"
 canonicalURL: "/products/carving-casting-jewelry-molding-sculpting-B0DQDTYXHK/"
 ---
 
-**🚫 Practivio Score™:** 553 — _Look Elsewhere_
+**🛒 Practivio Score™:** 477 — _Compare_
 
 
-*If you're comparing **casting titanium jewelry**, **[Carving Casting Jewelry Molding Sculpting](https://www.amazon.com/dp/B0DQDTYXHK?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **jewelry sculpting wax**, **[Carving Casting Jewelry Molding Sculpting](https://www.amazon.com/dp/B0DQDTYXHK?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Carving Casting Jewelry Molding Sculpting” on Amazon](https://www.amazon.com/dp/B0DQDTYXHK?tag=practivio-20)
-This Jewelry Casting Supplies comes in at **238 / 282** overall.  
-It is grouped in the **Balanced Choice tier** for fair comparison.  
-Practivio suggests you **look elsewhere** given its relative performance.
+This Jewelry Making Wax Molding Materials comes in at **124 / 223** overall.  
+It is grouped in the **Top Tier tier** for fair comparison.  
+Practivio lists it under **Compare** for further evaluation given its relative performance.
 
 ### What the signals indicate
-Price: 163 / 282 (top 58% lowest cost).  
-Reviews: 213 / 282 (top 76% in review totals).  
-Rating: 49 / 282 (top 18% by average rating).  
+Price: 169 / 223 (top 76% lowest cost).  
+Reviews: 104 / 223 (top 47% in review totals).  
+Rating: 48 / 223 (top 22% by average rating).  
 
 ### Position in tier
 All comparisons are limited to this tier.
 
 ### How it compares to the Hidden Gem
-The tier’s Hidden Gem posts a Practivio Score™ of 917.00.  
-This pick trails the Hidden Gem by 364.00 points.  
+The tier’s Hidden Gem posts a Practivio Score™ of 704.00.  
+This pick trails the Hidden Gem by 227.00 points.  
 Use this context to frame trade-offs among competing options.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B078WP879G?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0C6DQZQCQ?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Eligibility requires meeting fundamental criteria.  
@@ -50,8 +50,10 @@ Rankings are relative to that group, not distorted by unrelated categories.
 The presence of uncertainty is made clear in both the evidence base and our notes.  
 We handle limited data conservatively, never with assumptions.
 
+<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-🏷️ **Back to Master:** [/rankings/jewelry-casting-supplies/](/rankings/jewelry-casting-supplies/)
+
+🏷️ **Back to Master:** [/rankings/jewelry-making-wax-molding-materials/](/rankings/jewelry-making-wax-molding-materials/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
