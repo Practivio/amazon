@@ -1,35 +1,35 @@
 ---
 title: "FunzBo Arts Crafts Supplies Kids"
-description: "craftbox arts and crafts supplies: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["craftbox arts and crafts supplies"]
-seo_title: "craftbox arts and crafts supplies — Smart Buy Top Tier (2025)"
+description: "arts and crafts supplies online: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["arts and crafts supplies online"]
+seo_title: "arts and crafts supplies online — Smart Buy Top Tier (2025)"
 canonicalURL: "/products/funzbo-arts-crafts-supplies-kids-B07TBJSZFH/"
 ---
 
-**🏆 Practivio Score™:** 895 — _Smart Buy_
+**🏆 Practivio Score™:** 945 — _Smart Buy_
 
 
-*If you're comparing **craftbox arts and crafts supplies**, **[FunzBo Arts Crafts Supplies Kids](https://www.amazon.com/dp/B07TBJSZFH?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **arts and crafts supplies online**, **[FunzBo Arts Crafts Supplies Kids](https://www.amazon.com/dp/B07TBJSZFH?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “FunzBo Arts Crafts Supplies Kids” on Amazon](https://www.amazon.com/dp/B07TBJSZFH?tag=practivio-20)
-This Craft Supplies & Materials ranks **10 of 242**, inside the **Top Tier tier**.  
+This Craft Supplies ranks **11 of 256**, inside the **Top Tier tier**.  
 Relative performance leads to this: Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 189 of 242 (top 79% lowest price).  
-Reviews: 16 of 242 (top 7% by review count).  
-Rating: 158 of 242 (top 66% by average stars).  
-Demand: 128 of 242 (top 53% by purchases this month).
+Price: 186 of 256 (top 73% lowest price).  
+Reviews: 14 of 256 (top 6% by review count).  
+Rating: 176 of 256 (top 69% by average stars).  
+Demand: 163 of 256 (top 64% by purchases this month).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-Currently, the Hidden Gem in Top Tier registers a Practivio Score™ of 936.00.  
-This pick trails the Hidden Gem by 41.00 points.  
+Currently, the Hidden Gem in Top Tier registers a Practivio Score™ of 984.00.  
+This pick trails the Hidden Gem by 39.00 points.  
 Use this as a guidepost when comparing within the tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B079KL4C91?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B016LDV41S?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Baseline eligibility criteria govern which items are considered.  
@@ -51,7 +51,7 @@ Confidence notes and the evidence base make uncertainty transparent.
 If information is scarce, outcomes are shown conservatively, never guessed.
 
 
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+🏷️ **Back to Master:** [/rankings/craft-supplies/](/rankings/craft-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

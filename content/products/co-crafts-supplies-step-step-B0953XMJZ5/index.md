@@ -1,35 +1,35 @@
 ---
 title: "CO Crafts Supplies Step Step"
-description: "basic arts and crafts supplies: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["basic arts and crafts supplies"]
-seo_title: "basic arts and crafts supplies — Compare (2025)"
+description: "jewellery supplies co: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["jewellery supplies co"]
+seo_title: "jewellery supplies co — Compare (2025)"
 canonicalURL: "/products/co-crafts-supplies-step-step-B0953XMJZ5/"
 ---
 
-**🛒 Practivio Score™:** 745 — _Compare_
+**🛒 Practivio Score™:** 772 — _Compare_
 
 
-*If you're comparing **basic arts and crafts supplies**, **[CO Crafts Supplies Step Step](https://www.amazon.com/dp/B0953XMJZ5?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **jewellery supplies co**, **[CO Crafts Supplies Step Step](https://www.amazon.com/dp/B0953XMJZ5?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “CO Crafts Supplies Step Step” on Amazon](https://www.amazon.com/dp/B0953XMJZ5?tag=practivio-20)
-Holding rank **141 of 242**, this Craft Supplies & Materials is evaluated within the **Top Tier tier** of Craft Supplies & Materialses.  
+Holding rank **170 of 256**, this Craft Supplies is evaluated within the **Top Tier tier** of Craft Supplieses.  
 Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 242 of 242 (top 100% lowest price).  
-Reviews: 193 of 242 (top 80% by review count).  
-Rating: 68 of 242 (top 29% by average stars).  
-Demand: 182 of 242 (top 76% by purchases this month).
+Price: 251 of 256 (top 99% lowest price).  
+Reviews: 219 of 256 (top 86% by review count).  
+Rating: 93 of 256 (top 37% by average stars).  
+Demand: 211 of 256 (top 83% by purchases this month).
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-The Hidden Gem for Top Tier achieves a Practivio Score™ of 936.00.  
-This pick trails the Hidden Gem by 191.00 points.  
+The Hidden Gem for Top Tier achieves a Practivio Score™ of 984.00.  
+This pick trails the Hidden Gem by 212.00 points.  
 Keep this in mind when weighing your top choices.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B079KL4C91?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B016LDV41S?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 All tier comparisons start with baseline eligibility checks.  
@@ -53,7 +53,7 @@ When gaps exist, results lean cautious instead of filled-in.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+🏷️ **Back to Master:** [/rankings/craft-supplies/](/rankings/craft-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

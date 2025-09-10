@@ -1,36 +1,36 @@
 ---
 title: "Mr Pen Washi Tape Set"
-description: "fabric washi tape: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["fabric washi tape"]
-seo_title: "fabric washi tape — Compare (2025)"
+description: "molshine washi tape: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["molshine washi tape"]
+seo_title: "molshine washi tape — Smart Buy Best Value (2025)"
 canonicalURL: "/products/mr-pen-washi-tape-set-B08L5PB8N6/"
 ---
 
-**🛒 Practivio Score™:** 808 — _Compare_
+**🏆 Practivio Score™:** 996 — _Smart Buy_
 
 
-*If you're comparing **fabric washi tape**, **[Mr Pen Washi Tape Set](https://www.amazon.com/dp/B08L5PB8N6?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **molshine washi tape**, **[Mr Pen Washi Tape Set](https://www.amazon.com/dp/B08L5PB8N6?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Mr Pen Washi Tape Set” on Amazon](https://www.amazon.com/dp/B08L5PB8N6?tag=practivio-20)
-This Craft Supplies & Materials holds rank **86 of 242** in our analysis.  
-It appears in the **Best Value tier** of comparable Craft Supplies & Materialses.  
-Practivio lists it under **Compare** for further evaluation, reflecting its position within the dataset.
+This Arts & Crafts Tape holds rank **28 of 292** in our analysis.  
+It appears in the **Best Value tier** of comparable Arts & Crafts Tapes.  
+Practivio recommends it as a **Smart Buy**, reflecting its position within the dataset.
 
 ### What the signals indicate
-Price: standing 52 of 242 (top 22% for price).  
-Reviews: standing 68 of 242 (top 29% for review numbers).  
-Rating: standing 142 of 242 (top 59% for rating quality).  
-Demand: standing 70 of 242 (top 29% for monthly demand).
+Price: standing 84 of 292 (top 29% for price).  
+Reviews: standing 26 of 292 (top 9% for review numbers).  
+Rating: standing 79 of 292 (top 28% for rating quality).  
+Demand: standing 30 of 292 (top 11% for monthly demand).
 
 ### Position in tier
 All relative standing is tier-specific.
 
 ### How it compares to the Hidden Gem
-The Hidden Gem for Best Value achieves a Practivio Score™ of 888.00.  
-This pick trails the Hidden Gem by 80.00 points.  
+The Hidden Gem for Best Value achieves a Practivio Score™ of 1021.00.  
+This pick trails the Hidden Gem by 25.00 points.  
 Keep this in mind when weighing your top choices.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0035LXTYU?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 To qualify, products must first satisfy baseline thresholds.  
@@ -52,10 +52,8 @@ Grouping by price ensures meaningful, like-for-like evaluations.
 Confidence notes and evidence depth indicate the level of uncertainty.  
 When gaps exist, results lean cautious instead of filled-in.
 
-<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+🏷️ **Back to Master:** [/rankings/arts-crafts-tape/](/rankings/arts-crafts-tape/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
