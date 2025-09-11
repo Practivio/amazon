@@ -1,31 +1,31 @@
 ---
 title: "Aleenes Fabric Fusion Permanent Adhesive"
-description: "gold leaf adhesive gilding adhesive gold leaf glue for craft: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, d…"
-keywords: ["gold leaf adhesive gilding adhesive gold leaf glue for craft"]
-seo_title: "gold leaf adhesive gilding adhesive gold leaf glue for craft — Hidden Gem Best Value (2025)"
+description: "3m 3880 fabric and headliner adhesive: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, mom…"
+keywords: ["3m 3880 fabric and headliner adhesive"]
+seo_title: "3m 3880 fabric and headliner adhesive — Hidden Gem Best Value (2025)"
 canonicalURL: "/products/aleenes-fabric-fusion-permanent-adhesive-B00178QSE6/"
 ---
 
-**💎 Practivio Score™:** 1026 — _Hidden Gem_
+**💎 Practivio Score™:** 973 — _Hidden Gem_
 
 
-*If you're comparing **gold leaf adhesive gilding adhesive gold leaf glue for craft**, **[Aleenes Fabric Fusion Permanent Adhesive](https://www.amazon.com/dp/B00178QSE6?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **3m 3880 fabric and headliner adhesive**, **[Aleenes Fabric Fusion Permanent Adhesive](https://www.amazon.com/dp/B00178QSE6?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Aleenes Fabric Fusion Permanent Adhesive” on Amazon](https://www.amazon.com/dp/B00178QSE6?tag=practivio-20)
-In our dataset of 302 Craft Adhesiveses, this Craft Adhesives is ranked **47**.  
+In our dataset of 292 Fabric Adhesiveses, this Fabric Adhesives is ranked **36**.  
 It sits in the **Best Value tier**, where Practivio identifies it as a **Hidden Gem**.
 
 ### What the signals indicate
-Price: ranked 64 among 302 (top 22% in affordability).  
-Reviews: ranked 9 among 302 (top 3% by volume).  
-Rating: ranked 278 among 302 (top 93% for stars).  
-Demand: ranked 40 among 302 (top 14% for current demand).
+Price: ranked 64 among 292 (top 22% in affordability).  
+Reviews: ranked 5 among 292 (top 2% by volume).  
+Rating: ranked 252 among 292 (top 87% for stars).  
+Demand: ranked 26 among 292 (top 9% for current demand).
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Best Value carries a Practivio Score™ of 1026.00.  
+The current Hidden Gem in Best Value carries a Practivio Score™ of 973.00.  
 You’re looking at the current Hidden Gem in this tier.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/craft-adhesives/](/rankings/craft-adhesives/)
+🏷️ **Back to Master:** [/rankings/fabric-adhesives/](/rankings/fabric-adhesives/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
