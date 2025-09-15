@@ -1,36 +1,36 @@
 ---
 title: "Cleaners Craft Crafts Supplies Multi Color"
-description: "heartfelt craft supplies: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["heartfelt craft supplies"]
-seo_title: "heartfelt craft supplies — Compare (2025)"
+description: "holiday pipe cleaners: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["holiday pipe cleaners"]
+seo_title: "holiday pipe cleaners — Hidden Gem Balanced Choice (2025)"
 canonicalURL: "/products/cleaners-craft-crafts-supplies-multi-color-B09LYG8WQ9/"
 ---
 
-**🛒 Practivio Score™:** 820 — _Compare_
+**💎 Practivio Score™:** 929 — _Hidden Gem_
 
 
-*If you're comparing **heartfelt craft supplies**, **[Cleaners Craft Crafts Supplies Multi Color](https://www.amazon.com/dp/B09LYG8WQ9?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **holiday pipe cleaners**, **[Cleaners Craft Crafts Supplies Multi Color](https://www.amazon.com/dp/B09LYG8WQ9?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Cleaners Craft Crafts Supplies Multi Color” on Amazon](https://www.amazon.com/dp/B09LYG8WQ9?tag=practivio-20)
-This Craft Supplies holds rank **124 of 256** in our analysis.  
-It appears in the **Best Value tier** of comparable Craft Supplieses.  
-Practivio lists it under **Compare** for further evaluation, reflecting its position within the dataset.
+This Craft Pipe Cleaners holds rank **8 of 286** in our analysis.  
+It appears in the **Balanced Choice tier** of comparable Craft Pipe Cleanerses.  
+Practivio identifies it as a **Hidden Gem**, reflecting its position within the dataset.
 
 ### What the signals indicate
-Price: 79 out of 256 (top 31% lowest-priced).  
-Reviews: 112 out of 256 (top 44% in review volume).  
-Rating: 78 out of 256 (top 31% by star rating).  
-Demand: 125 out of 256 (top 49% by buyer demand this month).
+Price: 100 out of 286 (top 35% lowest-priced).  
+Reviews: 6 out of 286 (top 3% in review volume).  
+Rating: 100 out of 286 (top 35% by star rating).  
+Demand: 7 out of 286 (top 3% by buyer demand this month).
 
 ### Position in tier
 All relative standing is tier-specific.
 
 ### How it compares to the Hidden Gem
-In the Best Value tier, the Hidden Gem is rated at 939.00.  
-This pick trails the Hidden Gem by 119.00 points.  
+In the Balanced Choice tier, the Hidden Gem is rated at 929.00.  
+You’re looking at the current Hidden Gem in this tier.  
 This comparison helps clarify how the item stacks up in context.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B09LYG8WQ9?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Only items meeting baseline requirements are considered for tier designation.  
@@ -51,10 +51,8 @@ Each standing is meaningful only within its own tier group.
 Uncertainty is always disclosed in the evidence base and confidence notes.  
 When data is thin, our results emphasize caution.
 
-<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-
-🏷️ **Back to Master:** [/rankings/craft-supplies/](/rankings/craft-supplies/)
+🏷️ **Back to Master:** [/rankings/craft-pipe-cleaners/](/rankings/craft-pipe-cleaners/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -1,35 +1,35 @@
 ---
 title: "Circle Circular Cutting Adjustable Compass"
-description: "circle paper punch: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["circle paper punch"]
-seo_title: "circle paper punch — Look Elsewhere (2025)"
+description: "logan 201 oval and circle mat cutter: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["logan 201 oval and circle mat cutter"]
+seo_title: "logan 201 oval and circle mat cutter — Compare (2025)"
 canonicalURL: "/products/circle-circular-cutting-adjustable-compass-B0BZP8ZFHK/"
 ---
 
-**🚫 Practivio Score™:** 779 — _Look Elsewhere_
+**🛒 Practivio Score™:** 697 — _Compare_
 
 
-*If you're comparing **circle paper punch**, **[Circle Circular Cutting Adjustable Compass](https://www.amazon.com/dp/B0BZP8ZFHK?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **logan 201 oval and circle mat cutter**, **[Circle Circular Cutting Adjustable Compass](https://www.amazon.com/dp/B0BZP8ZFHK?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Circle Circular Cutting Adjustable Compass” on Amazon](https://www.amazon.com/dp/B0BZP8ZFHK?tag=practivio-20)
-This Craft Cutting Tools ranks **230 of 292**, inside the **Best Value tier**.  
-Relative performance leads to this: Practivio suggests you **look elsewhere**.
+This Mat Cutter Blades ranks **179 of 287**, inside the **Best Value tier**.  
+Relative performance leads to this: Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: standing 96 of 292 (top 33% for price).  
-Reviews: standing 215 of 292 (top 74% for review numbers).  
-Rating: standing 257 of 292 (top 89% for rating quality).  
-Demand: standing 124 of 292 (top 43% for monthly demand).
+Price: standing 91 of 287 (top 32% for price).  
+Reviews: standing 198 of 287 (top 69% for review numbers).  
+Rating: standing 256 of 287 (top 90% for rating quality).  
+Demand: standing 50 of 287 (top 18% for monthly demand).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-The Best Value Hidden Gem carries a score of 1003.00 on the Practivio scale.  
-This pick trails the Hidden Gem by 224.00 points.  
+The Best Value Hidden Gem carries a score of 908.00 on the Practivio scale.  
+This pick trails the Hidden Gem by 211.00 points.  
 Treat it as a baseline for judging competing picks in the same class.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B000P0LNRE?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B015W3AKDQ?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 We only compare products once they meet the baseline standards.  
@@ -50,8 +50,10 @@ Each standing is meaningful only within its own tier group.
 We show uncertainty directly in the evidence base and confidence notes.  
 If data is sparse, we present outcomes cautiously rather than speculate.
 
+<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-🏷️ **Back to Master:** [/rankings/craft-cutting-tools/](/rankings/craft-cutting-tools/)
+
+🏷️ **Back to Master:** [/rankings/mat-cutter-blades/](/rankings/mat-cutter-blades/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

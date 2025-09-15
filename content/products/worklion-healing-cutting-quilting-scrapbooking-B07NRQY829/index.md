@@ -1,36 +1,36 @@
 ---
 title: "WORKLION Healing Cutting Quilting Scrapbooking"
-description: "cutting fabric for quilting: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["cutting fabric for quilting"]
-seo_title: "cutting fabric for quilting — Smart Buy Best Value (2025)"
+description: "self healing cutting mat for sewing: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momen…"
+keywords: ["self healing cutting mat for sewing"]
+seo_title: "self healing cutting mat for sewing — Smart Buy Best Value (2025)"
 canonicalURL: "/products/worklion-healing-cutting-quilting-scrapbooking-B07NRQY829/"
 ---
 
-**🏆 Practivio Score™:** 924 — _Smart Buy_
+**🏆 Practivio Score™:** 823 — _Smart Buy_
 
 
-*If you're comparing **cutting fabric for quilting**, **[WORKLION Healing Cutting Quilting Scrapbooking](https://www.amazon.com/dp/B07NRQY829?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **self healing cutting mat for sewing**, **[WORKLION Healing Cutting Quilting Scrapbooking](https://www.amazon.com/dp/B07NRQY829?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “WORKLION Healing Cutting Quilting Scrapbooking” on Amazon](https://www.amazon.com/dp/B07NRQY829?tag=practivio-20)
-This Craft & Hobby Fabric comes in at **26 / 297** overall.  
+This Art Mat Cutters & Blades comes in at **49 / 291** overall.  
 It is grouped in the **Best Value tier** for fair comparison.  
 Practivio recommends it as a **Smart Buy** given its relative performance.
 
 ### What the signals indicate
-Price: 80 / 297 (top 27% lowest cost).  
-Reviews: 2 / 297 (top 1% in review totals).  
-Rating: 51 / 297 (top 18% by average rating).  
-Demand: 17 / 297 (top 6% by recent sales).
+Price: 36 / 291 (top 13% lowest cost).  
+Reviews: 10 / 291 (top 4% in review totals).  
+Rating: 57 / 291 (top 20% by average rating).  
+Demand: 33 / 291 (top 12% by recent sales).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-Currently, the Hidden Gem in Best Value registers a Practivio Score™ of 929.00.  
-This pick trails the Hidden Gem by 5.00 points.  
+Currently, the Hidden Gem in Best Value registers a Practivio Score™ of 856.00.  
+This pick trails the Hidden Gem by 33.00 points.  
 Use this as a guidepost when comparing within the tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B08DHDZKGS?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0C8BRB3RH?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Baseline checks remove outliers and unqualified products.  
@@ -52,7 +52,7 @@ Uncertainty is always disclosed in the evidence base and confidence notes.
 When data is thin, our results emphasize caution.
 
 
-🏷️ **Back to Master:** [/rankings/craft-hobby-fabric/](/rankings/craft-hobby-fabric/)
+🏷️ **Back to Master:** [/rankings/art-mat-cutters-blades/](/rankings/art-mat-cutters-blades/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

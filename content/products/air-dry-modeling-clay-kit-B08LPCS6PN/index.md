@@ -1,35 +1,35 @@
 ---
 title: "Air Dry Modeling Clay Kit"
-description: "air fryer cookie dough: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["air fryer cookie dough"]
-seo_title: "air fryer cookie dough — Smart Buy Balanced Choice (2025)"
+description: "cutting craft foam with cricut explore air 2: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findabili…"
+keywords: ["cutting craft foam with cricut explore air 2"]
+seo_title: "cutting craft foam with cricut explore air 2 — Smart Buy Best Value (2025)"
 canonicalURL: "/products/air-dry-modeling-clay-kit-B08LPCS6PN/"
 ---
 
-**🏆 Practivio Score™:** 636 — _Smart Buy_
+**🏆 Practivio Score™:** 970 — _Smart Buy_
 
 
-*If you're comparing **air fryer cookie dough**, **[Air Dry Modeling Clay Kit](https://www.amazon.com/dp/B08LPCS6PN?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **cutting craft foam with cricut explore air 2**, **[Air Dry Modeling Clay Kit](https://www.amazon.com/dp/B08LPCS6PN?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Air Dry Modeling Clay Kit” on Amazon](https://www.amazon.com/dp/B08LPCS6PN?tag=practivio-20)
-Among Ceramics Doughs, this Ceramics Dough places **27 of 298**.  
-It is classified in the **Balanced Choice tier**, where Practivio recommends it as a **Smart Buy**.
+Among Craft Foams, this Craft Foam places **37 of 287**.  
+It is classified in the **Best Value tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: ranked 102 among 298 (top 35% in affordability).  
-Reviews: ranked 14 among 298 (top 5% by volume).  
-Rating: ranked 57 among 298 (top 20% for stars).  
-Demand: ranked 10 among 298 (top 4% for current demand).
+Price: ranked 102 among 287 (top 36% in affordability).  
+Reviews: ranked 32 among 287 (top 12% by volume).  
+Rating: ranked 111 among 287 (top 39% for stars).  
+Demand: ranked 20 among 287 (top 7% for current demand).
 
 ### Position in tier
 Evaluations are made only against peers in this tier.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Balanced Choice carries a Practivio Score™ of 667.00.  
-This pick trails the Hidden Gem by 31.00 points.  
+The current Hidden Gem in Best Value carries a Practivio Score™ of 993.00.  
+This pick trails the Hidden Gem by 23.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B001GAP4YA?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07Q9PXSYL?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 We enforce baseline eligibility requirements.  
@@ -51,7 +51,7 @@ Uncertainty is always disclosed in the evidence base and confidence notes.
 When data is thin, our results emphasize caution.
 
 
-🏷️ **Back to Master:** [/rankings/ceramics-dough/](/rankings/ceramics-dough/)
+🏷️ **Back to Master:** [/rankings/craft-foam/](/rankings/craft-foam/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
