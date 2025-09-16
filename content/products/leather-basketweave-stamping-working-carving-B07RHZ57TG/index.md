@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-basketweave-stamping-working-carving-B07RHZ57TG
 *If you're comparing **leather punch**, **[Leather Basketweave Stamping Working Carving](https://www.amazon.com/dp/B07RHZ57TG?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Basketweave Stamping Working Carving” on Amazon](https://www.amazon.com/dp/B07RHZ57TG?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **95 / 287** overall.  
+This Catalog comes in at **95 / 287** overall.  
 It is grouped in the **Top Tier tier** for fair comparison.  
 Practivio recommends it as a **Smart Buy** given its relative performance.
 
@@ -52,7 +52,7 @@ Confidence notes and the evidence base make uncertainty transparent.
 If information is scarce, outcomes are shown conservatively, never guessed.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

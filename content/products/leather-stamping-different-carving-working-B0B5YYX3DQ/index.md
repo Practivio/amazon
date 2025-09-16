@@ -12,8 +12,8 @@ canonicalURL: "/products/leather-stamping-different-carving-working-B0B5YYX3DQ/"
 *If you're comparing **custom leather crafters near me**, **[Leather Stamping Different Carving Working](https://www.amazon.com/dp/B0B5YYX3DQ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Different Carving Working” on Amazon](https://www.amazon.com/dp/B0B5YYX3DQ?tag=practivio-20)
-This Leathercraft Stamping Tools holds rank **205 of 287** in our analysis.  
-It appears in the **Balanced Choice tier** of comparable Leathercraft Stamping Toolses.  
+This Catalog holds rank **205 of 287** in our analysis.  
+It appears in the **Balanced Choice tier** of comparable Catalogs.  
 Practivio suggests you **look elsewhere**, reflecting its position within the dataset.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

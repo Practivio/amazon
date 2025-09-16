@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-working-carving-punches-saddle-B07N52FCD8/"
 *If you're comparing **fiebing's leather cement dry time**, **[Leather Working Carving Punches Saddle](https://www.amazon.com/dp/B07N52FCD8?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Working Carving Punches Saddle” on Amazon](https://www.amazon.com/dp/B07N52FCD8?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **32**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **32**.  
 It sits in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -1,35 +1,35 @@
 ---
 title: "Double Adhesive Scrapbooking Dispenser Projects"
-description: "iron on double sided adhesive: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["iron on double sided adhesive"]
-seo_title: "iron on double sided adhesive — Smart Buy Best Value (2025)"
+description: "double tissue origami paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["double tissue origami paper"]
+seo_title: "double tissue origami paper — Compare (2025)"
 canonicalURL: "/products/double-adhesive-scrapbooking-dispenser-projects-B0BWYBXQCZ/"
 ---
 
-**🏆 Practivio Score™:** 937 — _Smart Buy_
+**🛒 Practivio Score™:** 916 — _Compare_
 
 
-*If you're comparing **iron on double sided adhesive**, **[Double Adhesive Scrapbooking Dispenser Projects](https://www.amazon.com/dp/B0BWYBXQCZ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **double tissue origami paper**, **[Double Adhesive Scrapbooking Dispenser Projects](https://www.amazon.com/dp/B0BWYBXQCZ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Double Adhesive Scrapbooking Dispenser Projects” on Amazon](https://www.amazon.com/dp/B0BWYBXQCZ?tag=practivio-20)
-Holding rank **90 of 292**, this Arts & Crafts Tape is evaluated within the **Best Value tier** of Arts & Crafts Tapes.  
-Practivio recommends it as a **Smart Buy**.
+Holding rank **137 of 293**, this Paper Craft Supplies is evaluated within the **Best Value tier** of Paper Craft Supplieses.  
+Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: ranked 95 of 292 (top 33% by affordability).  
-Reviews: ranked 78 of 292 (top 27% for total count).  
-Rating: ranked 202 of 292 (top 70% on star average).  
-Demand: ranked 65 of 292 (top 23% for recent purchases).
+Price: ranked 74 of 293 (top 26% by affordability).  
+Reviews: ranked 117 of 293 (top 40% for total count).  
+Rating: ranked 251 of 293 (top 86% on star average).  
+Demand: ranked 140 of 293 (top 48% for recent purchases).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-The tier’s Hidden Gem posts a Practivio Score™ of 1021.00.  
-This pick trails the Hidden Gem by 84.00 points.  
+The tier’s Hidden Gem posts a Practivio Score™ of 1057.00.  
+This pick trails the Hidden Gem by 141.00 points.  
 Use this context to frame trade-offs among competing options.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0035LXTYU?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Products must clear minimum standards before entry.  
@@ -50,8 +50,10 @@ Products are measured only within their own tier, never against unrelated price 
 Confidence notes and evidence depth indicate the level of uncertainty.  
 When gaps exist, results lean cautious instead of filled-in.
 
+<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-🏷️ **Back to Master:** [/rankings/arts-crafts-tape/](/rankings/arts-crafts-tape/)
+
+🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

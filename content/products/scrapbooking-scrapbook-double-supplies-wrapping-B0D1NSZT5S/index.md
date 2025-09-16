@@ -1,35 +1,35 @@
 ---
 title: "Scrapbooking Scrapbook Double Supplies Wrapping"
-description: "using washi tape in scrapbooking: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["using washi tape in scrapbooking"]
-seo_title: "using washi tape in scrapbooking — Smart Buy Best Value (2025)"
+description: "scrapbooking paper: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["scrapbooking paper"]
+seo_title: "scrapbooking paper — Smart Buy Balanced Choice (2025)"
 canonicalURL: "/products/scrapbooking-scrapbook-double-supplies-wrapping-B0D1NSZT5S/"
 ---
 
-**🏆 Practivio Score™:** 944 — _Smart Buy_
+**🏆 Practivio Score™:** 955 — _Smart Buy_
 
 
-*If you're comparing **using washi tape in scrapbooking**, **[Scrapbooking Scrapbook Double Supplies Wrapping](https://www.amazon.com/dp/B0D1NSZT5S?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **scrapbooking paper**, **[Scrapbooking Scrapbook Double Supplies Wrapping](https://www.amazon.com/dp/B0D1NSZT5S?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Scrapbooking Scrapbook Double Supplies Wrapping” on Amazon](https://www.amazon.com/dp/B0D1NSZT5S?tag=practivio-20)
-In our dataset of 292 Arts & Crafts Tapes, this Arts & Crafts Tape is ranked **78**.  
-It sits in the **Best Value tier**, where Practivio recommends it as a **Smart Buy**.
+In our dataset of 292 Craft Papers, this Craft Paper is ranked **73**.  
+It sits in the **Balanced Choice tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 86 of 292 (top 30% lowest price).  
-Reviews: 83 of 292 (top 29% by review count).  
-Rating: 182 of 292 (top 63% by average stars).  
-Demand: 8 of 292 (top 3% by purchases this month).
+Price: 122 of 292 (top 42% lowest price).  
+Reviews: 82 of 292 (top 29% by review count).  
+Rating: 233 of 292 (top 80% by average stars).  
+Demand: 13 of 292 (top 5% by purchases this month).
 
 ### Position in tier
 All comparisons are limited to this tier.
 
 ### How it compares to the Hidden Gem
-Within the Best Value tier, the Hidden Gem holds a Practivio Score™ of 1021.00.  
-This pick trails the Hidden Gem by 77.00 points.  
+Within the Balanced Choice tier, the Hidden Gem holds a Practivio Score™ of 1052.00.  
+This pick trails the Hidden Gem by 97.00 points.  
 Consider this point of reference when evaluating alternatives.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0035LXTYU?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B01AW5V7PE?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Products that fail to meet entry thresholds are excluded.  
@@ -52,7 +52,7 @@ Confidence notes and the evidence base make uncertainty transparent.
 If information is scarce, outcomes are shown conservatively, never guessed.
 
 
-🏷️ **Back to Master:** [/rankings/arts-crafts-tape/](/rankings/arts-crafts-tape/)
+🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

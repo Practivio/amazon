@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-crafting-kit-beginners-tutorials-B0DSVZX4LJ/"
 *If you're comparing **leather finish burnishing gum**, **[Leather Crafting Kit Beginners Tutorials](https://www.amazon.com/dp/B0DSVZX4LJ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Crafting Kit Beginners Tutorials” on Amazon](https://www.amazon.com/dp/B0DSVZX4LJ?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **69 / 287** overall.  
+This Catalog comes in at **69 / 287** overall.  
 It is grouped in the **Top Tier tier** for fair comparison.  
 Practivio recommends it as a **Smart Buy** given its relative performance.
 
@@ -52,7 +52,7 @@ We show uncertainty directly in the evidence base and confidence notes.
 If data is sparse, we present outcomes cautiously rather than speculate.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

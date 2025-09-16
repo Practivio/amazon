@@ -1,35 +1,35 @@
 ---
 title: "Scrapbook Journaling Scrapbooking Decoupage Decorative"
-description: "scrapbook materials amazon: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["scrapbook materials amazon"]
-seo_title: "scrapbook materials amazon — Look Elsewhere (2025)"
+description: "st patrick's scrapbook paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["st patrick's scrapbook paper"]
+seo_title: "st patrick's scrapbook paper — Compare (2025)"
 canonicalURL: "/products/scrapbook-journaling-scrapbooking-decoupage-decorative-B0BXKS3HBR/"
 ---
 
-**🚫 Practivio Score™:** 717 — _Look Elsewhere_
+**🛒 Practivio Score™:** 886 — _Compare_
 
 
-*If you're comparing **scrapbook materials amazon**, **[Scrapbook Journaling Scrapbooking Decoupage Decorative](https://www.amazon.com/dp/B0BXKS3HBR?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **st patrick's scrapbook paper**, **[Scrapbook Journaling Scrapbooking Decoupage Decorative](https://www.amazon.com/dp/B0BXKS3HBR?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Scrapbook Journaling Scrapbooking Decoupage Decorative” on Amazon](https://www.amazon.com/dp/B0BXKS3HBR?tag=practivio-20)
-This Craft Supplies & Materials is positioned **172 out of 242**, within the **Balanced Choice tier**.  
-Practivio suggests you **look elsewhere**, based on its comparative standing.
+This Paper Craft Supplies is positioned **166 out of 293**, within the **Balanced Choice tier**.  
+Practivio lists it under **Compare** for further evaluation, based on its comparative standing.
 
 ### What the signals indicate
-Price: ranked 156 among 242 (top 65% in affordability).  
-Reviews: ranked 174 among 242 (top 72% by volume).  
-Rating: ranked 171 among 242 (top 71% for stars).  
-Demand: ranked 189 among 242 (top 79% for current demand).
+Price: ranked 192 among 293 (top 66% in affordability).  
+Reviews: ranked 178 among 293 (top 61% by volume).  
+Rating: ranked 199 among 293 (top 68% for stars).  
+Demand: ranked 203 among 293 (top 70% for current demand).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-Currently, the Hidden Gem in Balanced Choice registers a Practivio Score™ of 901.00.  
+Currently, the Hidden Gem in Balanced Choice registers a Practivio Score™ of 1070.00.  
 This pick trails the Hidden Gem by 184.00 points.  
 Use this as a guidepost when comparing within the tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0013CDGT6?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B01GIJLSGG?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 All tier comparisons start with baseline eligibility checks.  
@@ -50,8 +50,10 @@ That way, designations mean the same thing across the board.
 We show uncertainty directly in the evidence base and confidence notes.  
 If data is sparse, we present outcomes cautiously rather than speculate.
 
+<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+
+🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

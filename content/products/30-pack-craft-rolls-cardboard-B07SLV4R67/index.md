@@ -1,35 +1,35 @@
 ---
 title: "30 Pack Craft Rolls Cardboard"
-description: "coloured plastic sheets craft: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["coloured plastic sheets craft"]
-seo_title: "coloured plastic sheets craft — Compare (2025)"
+description: "glace paper craft: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["glace paper craft"]
+seo_title: "glace paper craft — Smart Buy Balanced Choice (2025)"
 canonicalURL: "/products/30-pack-craft-rolls-cardboard-B07SLV4R67/"
 ---
 
-**🛒 Practivio Score™:** 809 — _Compare_
+**🏆 Practivio Score™:** 980 — _Smart Buy_
 
 
-*If you're comparing **coloured plastic sheets craft**, **[30 Pack Craft Rolls Cardboard](https://www.amazon.com/dp/B07SLV4R67?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **glace paper craft**, **[30 Pack Craft Rolls Cardboard](https://www.amazon.com/dp/B07SLV4R67?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “30 Pack Craft Rolls Cardboard” on Amazon](https://www.amazon.com/dp/B07SLV4R67?tag=practivio-20)
-Ranked **84 out of 242**, this Craft Supplies & Materials belongs to the **Top Tier tier** of Craft Supplies & Materialses.  
-Practivio lists it under **Compare** for further evaluation.
+Ranked **55 out of 292**, this Craft Paper belongs to the **Balanced Choice tier** of Craft Papers.  
+Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: ranked 176 among 242 (top 73% in affordability).  
-Reviews: ranked 96 among 242 (top 40% by volume).  
-Rating: ranked 88 among 242 (top 37% for stars).  
-Demand: ranked 96 among 242 (top 40% for current demand).
+Price: ranked 165 among 292 (top 57% in affordability).  
+Reviews: ranked 61 among 292 (top 21% by volume).  
+Rating: ranked 133 among 292 (top 46% for stars).  
+Demand: ranked 64 among 292 (top 22% for current demand).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-In the Top Tier tier, the Hidden Gem is rated at 936.00.  
-This pick trails the Hidden Gem by 127.00 points.  
+In the Balanced Choice tier, the Hidden Gem is rated at 1052.00.  
+This pick trails the Hidden Gem by 72.00 points.  
 This comparison helps clarify how the item stacks up in context.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B079KL4C91?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B01AW5V7PE?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 To qualify, products must first satisfy baseline thresholds.  
@@ -51,10 +51,8 @@ Each product’s position is measured against its tier peers, not against items 
 We show uncertainty directly in the evidence base and confidence notes.  
 If data is sparse, we present outcomes cautiously rather than speculate.
 
-<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

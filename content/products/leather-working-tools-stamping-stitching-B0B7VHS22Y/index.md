@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-working-tools-stamping-stitching-B0B7VHS22Y/"
 *If you're comparing **tools used in leather craft**, **[Leather Working Tools Stamping Stitching](https://www.amazon.com/dp/B0B7VHS22Y?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Working Tools Stamping Stitching” on Amazon](https://www.amazon.com/dp/B0B7VHS22Y?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **121**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **121**.  
 It sits in the **Top Tier tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ Rather than plug holes in the data, we acknowledge and present limits.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

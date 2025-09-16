@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-craftsefbc8cdragon-crafting-stainless-
 *If you're comparing **real leather crafts**, **[Leather Stamping Crafts%EF%BC%8CDragon Crafting Stainless](https://www.amazon.com/dp/B0CCNKWR6S?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Crafts%EF%BC%8CDragon Crafting Stainless” on Amazon](https://www.amazon.com/dp/B0CCNKWR6S?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **103 out of 287**, within the **Top Tier tier**.  
+This Catalog is positioned **103 out of 287**, within the **Top Tier tier**.  
 Practivio lists it under **Compare** for further evaluation, based on its comparative standing.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ When data is thin, our results emphasize caution.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

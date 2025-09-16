@@ -12,7 +12,7 @@ canonicalURL: "/products/uhapeer-88pcs-leather-crafting-kit-B0FHKM56HM/"
 *If you're comparing **leather crafting kit for beginners**, **[UHAPEER 88PCS Leather Crafting Kit](https://www.amazon.com/dp/B0FHKM56HM?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “UHAPEER 88PCS Leather Crafting Kit” on Amazon](https://www.amazon.com/dp/B0FHKM56HM?tag=practivio-20)
-Among Leathercraft Stamping Toolses, this Leathercraft Stamping Tools places **282 of 287**.  
+Among Catalogs, this Catalog places **282 of 287**.  
 It is classified in the **Top Tier tier**, where Practivio suggests you **look elsewhere**.
 
 ### What the signals indicate
@@ -48,7 +48,7 @@ We show uncertainty directly in the evidence base and confidence notes.
 If data is sparse, we present outcomes cautiously rather than speculate.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

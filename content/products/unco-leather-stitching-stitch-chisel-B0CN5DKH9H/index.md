@@ -12,7 +12,7 @@ canonicalURL: "/products/unco-leather-stitching-stitch-chisel-B0CN5DKH9H/"
 *If you're comparing **leather stitching punch tool**, **[UNCO Leather Stitching Stitch Chisel](https://www.amazon.com/dp/B0CN5DKH9H?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “UNCO Leather Stitching Stitch Chisel” on Amazon](https://www.amazon.com/dp/B0CN5DKH9H?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **110**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **110**.  
 It sits in the **Best Value tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -54,7 +54,7 @@ Where inputs are missing, we don’t substitute — we mark the score as less ce
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

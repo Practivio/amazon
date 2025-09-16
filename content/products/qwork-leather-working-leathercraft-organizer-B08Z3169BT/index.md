@@ -12,7 +12,7 @@ canonicalURL: "/products/qwork-leather-working-leathercraft-organizer-B08Z3169BT
 *If you're comparing **leather working tools and supplies**, **[QWORK Leather Working Leathercraft Organizer](https://www.amazon.com/dp/B08Z3169BT?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “QWORK Leather Working Leathercraft Organizer” on Amazon](https://www.amazon.com/dp/B08Z3169BT?tag=practivio-20)
-Among Leathercraft Stamping Toolses, this Leathercraft Stamping Tools places **25 of 287**.  
+Among Catalogs, this Catalog places **25 of 287**.  
 It is classified in the **Balanced Choice tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ Uncertainty is reflected through the evidence base and confidence notes.
 When information is limited, we avoid filling gaps; results are presented conservatively.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

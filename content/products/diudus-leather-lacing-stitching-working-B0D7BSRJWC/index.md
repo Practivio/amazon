@@ -12,7 +12,7 @@ canonicalURL: "/products/diudus-leather-lacing-stitching-working-B0D7BSRJWC/"
 *If you're comparing **leather working supply store**, **[DIUDUS Leather Lacing Stitching Working](https://www.amazon.com/dp/B0D7BSRJWC?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “DIUDUS Leather Lacing Stitching Working” on Amazon](https://www.amazon.com/dp/B0D7BSRJWC?tag=practivio-20)
-Holding rank **18 of 287**, this Leathercraft Stamping Tools is evaluated within the **Balanced Choice tier** of Leathercraft Stamping Toolses.  
+Holding rank **18 of 287**, this Catalog is evaluated within the **Balanced Choice tier** of Catalogs.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ We capture uncertainty through documented evidence and confidence commentary.
 Where data is missing, our approach is conservative, not assumptive.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

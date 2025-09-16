@@ -12,7 +12,7 @@ canonicalURL: "/products/mdluu-mallet-leather-stamping-cutting-B0836FTMGP/"
 *If you're comparing **leather craft mallet**, **[MDLUU Mallet Leather Stamping Cutting](https://www.amazon.com/dp/B0836FTMGP?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “MDLUU Mallet Leather Stamping Cutting” on Amazon](https://www.amazon.com/dp/B0836FTMGP?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **211 out of 287**, within the **Best Value tier**.  
+This Catalog is positioned **211 out of 287**, within the **Best Value tier**.  
 Practivio suggests you **look elsewhere**, based on its comparative standing.
 
 ### What the signals indicate
@@ -50,7 +50,7 @@ We show uncertainty directly in the evidence base and confidence notes.
 If data is sparse, we present outcomes cautiously rather than speculate.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

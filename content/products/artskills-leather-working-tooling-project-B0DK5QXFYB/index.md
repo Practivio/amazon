@@ -12,7 +12,7 @@ canonicalURL: "/products/artskills-leather-working-tooling-project-B0DK5QXFYB/"
 *If you're comparing **leather working supplies and tools**, **[ArtSkills Leather Working Tooling Project](https://www.amazon.com/dp/B0DK5QXFYB?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “ArtSkills Leather Working Tooling Project” on Amazon](https://www.amazon.com/dp/B0DK5QXFYB?tag=practivio-20)
-Holding rank **33 of 287**, this Leathercraft Stamping Tools is evaluated within the **Top Tier tier** of Leathercraft Stamping Toolses.  
+Holding rank **33 of 287**, this Catalog is evaluated within the **Top Tier tier** of Catalogs.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Uncertainty is reflected through the evidence base and confidence notes.
 When information is limited, we avoid filling gaps; results are presented conservatively.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

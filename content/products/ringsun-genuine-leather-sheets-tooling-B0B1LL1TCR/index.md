@@ -12,7 +12,7 @@ canonicalURL: "/products/ringsun-genuine-leather-sheets-tooling-B0B1LL1TCR/"
 *If you're comparing **genuine leather for crafts**, **[RingSun Genuine Leather Sheets Tooling](https://www.amazon.com/dp/B0B1LL1TCR?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “RingSun Genuine Leather Sheets Tooling” on Amazon](https://www.amazon.com/dp/B0B1LL1TCR?tag=practivio-20)
-Ranked **3 out of 287**, this Leathercraft Stamping Tools belongs to the **Top Tier tier** of Leathercraft Stamping Toolses.  
+Ranked **3 out of 287**, this Catalog belongs to the **Top Tier tier** of Catalogs.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Uncertainty is always disclosed in the evidence base and confidence notes.
 When data is thin, our results emphasize caution.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

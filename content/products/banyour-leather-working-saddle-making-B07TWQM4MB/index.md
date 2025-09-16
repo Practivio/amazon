@@ -12,8 +12,8 @@ canonicalURL: "/products/banyour-leather-working-saddle-making-B07TWQM4MB/"
 *If you're comparing **leather making tools and supplies**, **[BANYOUR Leather Working Saddle Making](https://www.amazon.com/dp/B07TWQM4MB?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “BANYOUR Leather Working Saddle Making” on Amazon](https://www.amazon.com/dp/B07TWQM4MB?tag=practivio-20)
-This Leathercraft Stamping Tools holds rank **216 of 287** in our analysis.  
-It appears in the **Balanced Choice tier** of comparable Leathercraft Stamping Toolses.  
+This Catalog holds rank **216 of 287** in our analysis.  
+It appears in the **Balanced Choice tier** of comparable Catalogs.  
 Practivio suggests you **look elsewhere**, reflecting its position within the dataset.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,7 +12,7 @@ canonicalURL: "/products/bestnule-leather-cutter-cutting-adjustable-B0BRH94KDT/"
 *If you're comparing **leather corner cutter**, **[BESTNULE Leather Cutter Cutting Adjustable](https://www.amazon.com/dp/B0BRH94KDT?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “BESTNULE Leather Cutter Cutting Adjustable” on Amazon](https://www.amazon.com/dp/B0BRH94KDT?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **28 / 287** overall.  
+This Catalog comes in at **28 / 287** overall.  
 It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio recommends it as a **Smart Buy** given its relative performance.
 
@@ -52,7 +52,7 @@ Uncertainty is reflected through the evidence base and confidence notes.
 When information is limited, we avoid filling gaps; results are presented conservatively.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

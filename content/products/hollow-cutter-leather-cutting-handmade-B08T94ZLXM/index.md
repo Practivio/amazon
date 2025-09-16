@@ -12,7 +12,7 @@ canonicalURL: "/products/hollow-cutter-leather-cutting-handmade-B08T94ZLXM/"
 *If you're comparing **leather for leather craft**, **[Hollow Cutter Leather Cutting Handmade](https://www.amazon.com/dp/B08T94ZLXM?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Hollow Cutter Leather Cutting Handmade” on Amazon](https://www.amazon.com/dp/B08T94ZLXM?tag=practivio-20)
-Holding rank **17 of 287**, this Leathercraft Stamping Tools is evaluated within the **Balanced Choice tier** of Leathercraft Stamping Toolses.  
+Holding rank **17 of 287**, this Catalog is evaluated within the **Balanced Choice tier** of Catalogs.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ We show uncertainty directly in the evidence base and confidence notes.
 If data is sparse, we present outcomes cautiously rather than speculate.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

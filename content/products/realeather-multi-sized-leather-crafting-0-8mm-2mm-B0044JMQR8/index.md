@@ -12,7 +12,7 @@ canonicalURL: "/products/realeather-multi-sized-leather-crafting-0-8mm-2mm-B0044
 *If you're comparing **types of leather for crafting**, **[Realeather Multi Sized Leather Crafting 0 8mm 2mm](https://www.amazon.com/dp/B0044JMQR8?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Realeather Multi Sized Leather Crafting 0 8mm 2mm” on Amazon](https://www.amazon.com/dp/B0044JMQR8?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **162 out of 287**, within the **Balanced Choice tier**.  
+This Catalog is positioned **162 out of 287**, within the **Balanced Choice tier**.  
 Practivio lists it under **Compare** for further evaluation, based on its comparative standing.
 
 ### What the signals indicate
@@ -54,7 +54,7 @@ If information is scarce, outcomes are shown conservatively, never guessed.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

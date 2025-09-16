@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-patterns-stamper-jewelry-B0CVZQR5GC/"
 *If you're comparing **leather punch press**, **[Leather Stamping Patterns Stamper Jewelry](https://www.amazon.com/dp/B0CVZQR5GC?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Patterns Stamper Jewelry” on Amazon](https://www.amazon.com/dp/B0CVZQR5GC?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **283 / 287** overall.  
+This Catalog comes in at **283 / 287** overall.  
 It is grouped in the **Best Value tier** for fair comparison.  
 Practivio suggests you **look elsewhere** given its relative performance.
 
@@ -50,7 +50,7 @@ Uncertainty is always disclosed in the evidence base and confidence notes.
 When data is thin, our results emphasize caution.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-crafting-embossing-background-B0FCCZCW
 *If you're comparing **leather crafting starter kit**, **[Leather Stamping Crafting Embossing Background](https://www.amazon.com/dp/B0FCCZCWSL?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Crafting Embossing Background” on Amazon](https://www.amazon.com/dp/B0FCCZCWSL?tag=practivio-20)
-Among Leathercraft Stamping Toolses, this Leathercraft Stamping Tools places **279 of 287**.  
+Among Catalogs, this Catalog places **279 of 287**.  
 It is classified in the **Best Value tier**, where Practivio suggests you **look elsewhere**.
 
 ### What the signals indicate
@@ -49,7 +49,7 @@ Evidence quality and confidence notes highlight uncertainty.
 Rather than plug holes in the data, we acknowledge and present limits.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

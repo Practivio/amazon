@@ -12,8 +12,8 @@ canonicalURL: "/products/supplies-instruction-leathercraft-stamping-stitching-B0
 *If you're comparing **leathercraft stamping tools**, **[Supplies Instruction Leathercraft Stamping Stitching](https://www.amazon.com/dp/B07TJT272W?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Supplies Instruction Leathercraft Stamping Stitching” on Amazon](https://www.amazon.com/dp/B07TJT272W?tag=practivio-20)
-This Leathercraft Stamping Tools holds rank **71 of 287** in our analysis.  
-It appears in the **Top Tier tier** of comparable Leathercraft Stamping Toolses.  
+This Catalog holds rank **71 of 287** in our analysis.  
+It appears in the **Top Tier tier** of comparable Catalogs.  
 Practivio recommends it as a **Smart Buy**, reflecting its position within the dataset.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ We show uncertainty directly in the evidence base and confidence notes.
 If data is sparse, we present outcomes cautiously rather than speculate.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,7 +12,7 @@ canonicalURL: "/products/leathercraft-spacer-embossing-leather-stitching-B08C9QG
 *If you're comparing **leather stitching punch**, **[Leathercraft Spacer Embossing Leather Stitching](https://www.amazon.com/dp/B08C9QGYPB?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leathercraft Spacer Embossing Leather Stitching” on Amazon](https://www.amazon.com/dp/B08C9QGYPB?tag=practivio-20)
-Ranked **61 out of 287**, this Leathercraft Stamping Tools belongs to the **Best Value tier** of Leathercraft Stamping Toolses.  
+Ranked **61 out of 287**, this Catalog belongs to the **Best Value tier** of Catalogs.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

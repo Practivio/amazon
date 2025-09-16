@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-professional-embossing-working-B0FDKY3
 *If you're comparing **rotary leather punch**, **[Leather Stamping Professional Embossing Working](https://www.amazon.com/dp/B0FDKY37L6?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Professional Embossing Working” on Amazon](https://www.amazon.com/dp/B0FDKY37L6?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **286 out of 287**, within the **Best Value tier**.  
+This Catalog is positioned **286 out of 287**, within the **Best Value tier**.  
 Practivio suggests you **look elsewhere**, based on its comparative standing.
 
 ### What the signals indicate
@@ -48,7 +48,7 @@ Confidence notes and the evidence base make uncertainty transparent.
 If information is scarce, outcomes are shown conservatively, never guessed.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

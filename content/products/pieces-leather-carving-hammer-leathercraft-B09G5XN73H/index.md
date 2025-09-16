@@ -12,7 +12,7 @@ canonicalURL: "/products/pieces-leather-carving-hammer-leathercraft-B09G5XN73H/"
 *If you're comparing **leather craft pieces**, **[Pieces Leather Carving Hammer Leathercraft](https://www.amazon.com/dp/B09G5XN73H?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Pieces Leather Carving Hammer Leathercraft” on Amazon](https://www.amazon.com/dp/B09G5XN73H?tag=practivio-20)
-Holding rank **70 of 287**, this Leathercraft Stamping Tools is evaluated within the **Balanced Choice tier** of Leathercraft Stamping Toolses.  
+Holding rank **70 of 287**, this Catalog is evaluated within the **Balanced Choice tier** of Catalogs.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Uncertainty is always disclosed in the evidence base and confidence notes.
 When data is thin, our results emphasize caution.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

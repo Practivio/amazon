@@ -12,7 +12,7 @@ canonicalURL: "/products/owden-leather-configure-rolling-edge-printing-B08JM71BS
 *If you're comparing **leather craft edge beveler**, **[OWDEN Leather configure Rolling Edge Printing](https://www.amazon.com/dp/B08JM71BSS?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “OWDEN Leather configure Rolling Edge Printing” on Amazon](https://www.amazon.com/dp/B08JM71BSS?tag=practivio-20)
-Ranked **54 out of 287**, this Leathercraft Stamping Tools belongs to the **Balanced Choice tier** of Leathercraft Stamping Toolses.  
+Ranked **54 out of 287**, this Catalog belongs to the **Balanced Choice tier** of Catalogs.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Uncertainty is reflected through the evidence base and confidence notes.
 When information is limited, we avoid filling gaps; results are presented conservatively.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

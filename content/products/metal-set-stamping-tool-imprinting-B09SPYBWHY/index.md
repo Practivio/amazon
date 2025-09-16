@@ -12,7 +12,7 @@ canonicalURL: "/products/metal-set-stamping-tool-imprinting-B09SPYBWHY/"
 *If you're comparing **letter punch set for stamping metal**, **[Metal Set Stamping Tool Imprinting](https://www.amazon.com/dp/B09SPYBWHY?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Metal Set Stamping Tool Imprinting” on Amazon](https://www.amazon.com/dp/B09SPYBWHY?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **24**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **24**.  
 It sits in the **Balanced Choice tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

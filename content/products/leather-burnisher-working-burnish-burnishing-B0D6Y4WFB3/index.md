@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-burnisher-working-burnish-burnishing-B0D6Y4WFB3
 *If you're comparing **leather hole punch tool**, **[Leather Burnisher Working Burnish Burnishing](https://www.amazon.com/dp/B0D6Y4WFB3?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Burnisher Working Burnish Burnishing” on Amazon](https://www.amazon.com/dp/B0D6Y4WFB3?tag=practivio-20)
-Holding rank **173 of 287**, this Leathercraft Stamping Tools is evaluated within the **Best Value tier** of Leathercraft Stamping Toolses.  
+Holding rank **173 of 287**, this Catalog is evaluated within the **Best Value tier** of Catalogs.  
 Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ Rather than plug holes in the data, we acknowledge and present limits.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

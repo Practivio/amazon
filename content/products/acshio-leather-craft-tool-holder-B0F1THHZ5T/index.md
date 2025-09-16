@@ -12,7 +12,7 @@ canonicalURL: "/products/acshio-leather-craft-tool-holder-B0F1THHZ5T/"
 *If you're comparing **leather craft kits for beginners**, **[Acshio Leather Craft Tool Holder](https://www.amazon.com/dp/B0F1THHZ5T?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Acshio Leather Craft Tool Holder” on Amazon](https://www.amazon.com/dp/B0F1THHZ5T?tag=practivio-20)
-Ranked **130 out of 287**, this Leathercraft Stamping Tools belongs to the **Balanced Choice tier** of Leathercraft Stamping Toolses.  
+Ranked **130 out of 287**, this Catalog belongs to the **Balanced Choice tier** of Catalogs.  
 Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ If data is sparse, we present outcomes cautiously rather than speculate.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -1,36 +1,36 @@
 ---
 title: "Crafts 200pcs Multicolor Fasteners 8x17mm"
-description: "scrapbooking with me crafts: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["scrapbooking with me crafts"]
-seo_title: "scrapbooking with me crafts — Smart Buy Best Value (2025)"
+description: "paper plate summer crafts: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["paper plate summer crafts"]
+seo_title: "paper plate summer crafts — Look Elsewhere (2025)"
 canonicalURL: "/products/crafts-200pcs-multicolor-fasteners-8x17mm-B0D6QRP4Q7/"
 ---
 
-**🏆 Practivio Score™:** 860 — _Smart Buy_
+**🚫 Practivio Score™:** 790 — _Look Elsewhere_
 
 
-*If you're comparing **scrapbooking with me crafts**, **[Crafts 200pcs Multicolor Fasteners 8x17mm](https://www.amazon.com/dp/B0D6QRP4Q7?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **paper plate summer crafts**, **[Crafts 200pcs Multicolor Fasteners 8x17mm](https://www.amazon.com/dp/B0D6QRP4Q7?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Crafts 200pcs Multicolor Fasteners 8x17mm” on Amazon](https://www.amazon.com/dp/B0D6QRP4Q7?tag=practivio-20)
-This Craft & Scrapbooking Brads holds rank **59 of 313** in our analysis.  
-It appears in the **Best Value tier** of comparable Craft & Scrapbooking Bradses.  
-Practivio recommends it as a **Smart Buy**, reflecting its position within the dataset.
+This Paper Craft Supplies holds rank **258 of 293** in our analysis.  
+It appears in the **Best Value tier** of comparable Paper Craft Supplieses.  
+Practivio suggests you **look elsewhere**, reflecting its position within the dataset.
 
 ### What the signals indicate
-Price: standing 82 of 313 (top 27% for price).  
-Reviews: standing 69 of 313 (top 23% for review numbers).  
-Rating: standing 88 of 313 (top 29% for rating quality).  
-Demand: standing 13 of 313 (top 5% for monthly demand).
+Price: standing 33 of 293 (top 12% for price).  
+Reviews: standing 236 of 293 (top 81% for review numbers).  
+Rating: standing 52 of 293 (top 18% for rating quality).  
+Demand: standing 199 of 293 (top 68% for monthly demand).
 
 ### Position in tier
 Evaluations are made only against peers in this tier.
 
 ### How it compares to the Hidden Gem
-The Best Value Hidden Gem carries a score of 914.00 on the Practivio scale.  
-This pick trails the Hidden Gem by 54.00 points.  
+The Best Value Hidden Gem carries a score of 1057.00 on the Practivio scale.  
+This pick trails the Hidden Gem by 267.00 points.  
 Treat it as a baseline for judging competing picks in the same class.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B08BKGLB16?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Before comparison, each item must satisfy inclusion criteria.  
@@ -53,7 +53,7 @@ Confidence notes and the evidence base make uncertainty transparent.
 If information is scarce, outcomes are shown conservatively, never guessed.
 
 
-🏷️ **Back to Master:** [/rankings/craft-scrapbooking-brads/](/rankings/craft-scrapbooking-brads/)
+🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

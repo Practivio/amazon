@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-toolefbc8cstamps-carving-stainless-B0D
 *If you're comparing **leather craft tools for beginners**, **[Leather Stamping Tool%EF%BC%8CStamps Carving Stainless](https://www.amazon.com/dp/B0DXZWBZQ1?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Tool%EF%BC%8CStamps Carving Stainless” on Amazon](https://www.amazon.com/dp/B0DXZWBZQ1?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **272 / 287** overall.  
+This Catalog comes in at **272 / 287** overall.  
 It is grouped in the **Top Tier tier** for fair comparison.  
 Practivio suggests you **look elsewhere** given its relative performance.
 
@@ -52,7 +52,7 @@ Uncertainty is reflected through the evidence base and confidence notes.
 When information is limited, we avoid filling gaps; results are presented conservatively.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

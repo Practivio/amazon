@@ -12,7 +12,7 @@ canonicalURL: "/products/stamping-hammer-no-rebound-jewelry-making-B0BDY11HJV/"
 *If you're comparing **letter & number punch set for stamping metal**, **[Stamping Hammer No Rebound Jewelry Making](https://www.amazon.com/dp/B0BDY11HJV?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Stamping Hammer No Rebound Jewelry Making” on Amazon](https://www.amazon.com/dp/B0BDY11HJV?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **34 / 287** overall.  
+This Catalog comes in at **34 / 287** overall.  
 It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio recommends it as a **Smart Buy** given its relative performance.
 
@@ -52,7 +52,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

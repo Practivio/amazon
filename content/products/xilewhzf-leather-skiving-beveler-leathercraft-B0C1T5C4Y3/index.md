@@ -12,7 +12,7 @@ canonicalURL: "/products/xilewhzf-leather-skiving-beveler-leathercraft-B0C1T5C4Y
 *If you're comparing **tandy leather eco flo leathercraft glue**, **[XILEWHZF Leather Skiving Beveler Leathercraft](https://www.amazon.com/dp/B0C1T5C4Y3?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “XILEWHZF Leather Skiving Beveler Leathercraft” on Amazon](https://www.amazon.com/dp/B0C1T5C4Y3?tag=practivio-20)
-Among Leathercraft Stamping Toolses, this Leathercraft Stamping Tools places **38 of 287**.  
+Among Catalogs, this Catalog places **38 of 287**.  
 It is classified in the **Balanced Choice tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-acrylic-leathercraft-supplies-B0BR6DR1
 *If you're comparing **japanese leather craft**, **[Leather Stamping Acrylic Leathercraft Supplies](https://www.amazon.com/dp/B0BR6DR1S2?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Acrylic Leathercraft Supplies” on Amazon](https://www.amazon.com/dp/B0BR6DR1S2?tag=practivio-20)
-Ranked **145 out of 287**, this Leathercraft Stamping Tools belongs to the **Best Value tier** of Leathercraft Stamping Toolses.  
+Ranked **145 out of 287**, this Catalog belongs to the **Best Value tier** of Catalogs.  
 Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ With incomplete information, we prefer restraint over estimates.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

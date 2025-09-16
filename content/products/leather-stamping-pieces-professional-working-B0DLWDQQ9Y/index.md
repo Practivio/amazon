@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-pieces-professional-working-B0DLWDQQ9Y
 *If you're comparing **leather craft tools**, **[Leather Stamping Pieces Professional Working](https://www.amazon.com/dp/B0DLWDQQ9Y?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Pieces Professional Working” on Amazon](https://www.amazon.com/dp/B0DLWDQQ9Y?tag=practivio-20)
-This Leathercraft Stamping Tools ranks **147 of 287**, inside the **Best Value tier**.  
+This Catalog ranks **147 of 287**, inside the **Best Value tier**.  
 Relative performance leads to this: Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ When information is limited, we avoid filling gaps; results are presented conser
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-carving-modelling-grooving-embossing-B07Q86T3CW
 *If you're comparing **traditions leather craft**, **[Leather Carving Modelling Grooving Embossing](https://www.amazon.com/dp/B07Q86T3CW?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Carving Modelling Grooving Embossing” on Amazon](https://www.amazon.com/dp/B07Q86T3CW?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **76 out of 287**, within the **Best Value tier**.  
+This Catalog is positioned **76 out of 287**, within the **Best Value tier**.  
 Practivio recommends it as a **Smart Buy**, based on its comparative standing.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ We capture uncertainty through documented evidence and confidence commentary.
 Where data is missing, our approach is conservative, not assumptive.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,7 +12,7 @@ canonicalURL: "/products/owden-professional-leather-creaser-decorative-B07SMSBPZ
 *If you're comparing **professional leather craft tools**, **[OWDEN Professional Leather Creaser Decorative](https://www.amazon.com/dp/B07SMSBPZP?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “OWDEN Professional Leather Creaser Decorative” on Amazon](https://www.amazon.com/dp/B07SMSBPZP?tag=practivio-20)
-This Leathercraft Stamping Tools ranks **152 of 287**, inside the **Balanced Choice tier**.  
+This Catalog ranks **152 of 287**, inside the **Balanced Choice tier**.  
 Relative performance leads to this: Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ If data is sparse, we present outcomes cautiously rather than speculate.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

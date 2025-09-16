@@ -12,7 +12,7 @@ canonicalURL: "/products/tooling-leather-1-8-2-0mm-workshop-crafting-B091Y4X1HK/
 *If you're comparing **leather crafting guide**, **[Tooling Leather 1 8 2 0MM Workshop Crafting](https://www.amazon.com/dp/B091Y4X1HK?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Tooling Leather 1 8 2 0MM Workshop Crafting” on Amazon](https://www.amazon.com/dp/B091Y4X1HK?tag=practivio-20)
-Ranked **43 out of 287**, this Leathercraft Stamping Tools belongs to the **Best Value tier** of Leathercraft Stamping Toolses.  
+Ranked **43 out of 287**, this Catalog belongs to the **Best Value tier** of Catalogs.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

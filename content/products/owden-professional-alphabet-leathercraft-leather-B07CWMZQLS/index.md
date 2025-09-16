@@ -12,7 +12,7 @@ canonicalURL: "/products/owden-professional-alphabet-leathercraft-leather-B07CWM
 *If you're comparing **leathercraft glass slicker for burnishing leather**, **[OWDEN Professional Alphabet Leathercraft Leather](https://www.amazon.com/dp/B07CWMZQLS?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “OWDEN Professional Alphabet Leathercraft Leather” on Amazon](https://www.amazon.com/dp/B07CWMZQLS?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **5**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **5**.  
 It sits in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ The presence of uncertainty is made clear in both the evidence base and our note
 We handle limited data conservatively, never with assumptions.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

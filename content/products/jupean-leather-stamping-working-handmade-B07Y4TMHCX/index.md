@@ -12,7 +12,7 @@ canonicalURL: "/products/jupean-leather-stamping-working-handmade-B07Y4TMHCX/"
 *If you're comparing **leather working tool kit**, **[Jupean Leather Stamping Working Handmade](https://www.amazon.com/dp/B07Y4TMHCX?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Jupean Leather Stamping Working Handmade” on Amazon](https://www.amazon.com/dp/B07Y4TMHCX?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **66 out of 287**, within the **Best Value tier**.  
+This Catalog is positioned **66 out of 287**, within the **Best Value tier**.  
 Practivio recommends it as a **Smart Buy**, based on its comparative standing.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

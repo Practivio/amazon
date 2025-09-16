@@ -12,7 +12,7 @@ canonicalURL: "/products/joyibay-leather-craft-tool-holder-B0B56KBX72/"
 *If you're comparing **oak leather craft**, **[joyibay Leather Craft Tool Holder](https://www.amazon.com/dp/B0B56KBX72?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “joyibay Leather Craft Tool Holder” on Amazon](https://www.amazon.com/dp/B0B56KBX72?tag=practivio-20)
-This Leathercraft Stamping Tools ranks **178 of 287**, inside the **Top Tier tier**.  
+This Catalog ranks **178 of 287**, inside the **Top Tier tier**.  
 Relative performance leads to this: Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -54,7 +54,7 @@ We handle limited data conservatively, never with assumptions.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

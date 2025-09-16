@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-working-carving-punches-B07RXZDCTH/"
 *If you're comparing **leather craft brand**, **[Leather Stamping Working Carving Punches](https://www.amazon.com/dp/B07RXZDCTH?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Working Carving Punches” on Amazon](https://www.amazon.com/dp/B07RXZDCTH?tag=practivio-20)
-Among Leathercraft Stamping Toolses, this Leathercraft Stamping Tools places **36 of 287**.  
+Among Catalogs, this Catalog places **36 of 287**.  
 It is classified in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ We capture uncertainty through documented evidence and confidence commentary.
 Where data is missing, our approach is conservative, not assumptive.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

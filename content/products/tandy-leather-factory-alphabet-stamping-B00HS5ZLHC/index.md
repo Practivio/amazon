@@ -12,7 +12,7 @@ canonicalURL: "/products/tandy-leather-factory-alphabet-stamping-B00HS5ZLHC/"
 *If you're comparing **tandy leather craft kits**, **[Tandy Leather Factory Alphabet Stamping](https://www.amazon.com/dp/B00HS5ZLHC?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Tandy Leather Factory Alphabet Stamping” on Amazon](https://www.amazon.com/dp/B00HS5ZLHC?tag=practivio-20)
-Holding rank **134 of 287**, this Leathercraft Stamping Tools is evaluated within the **Top Tier tier** of Leathercraft Stamping Toolses.  
+Holding rank **134 of 287**, this Catalog is evaluated within the **Top Tier tier** of Catalogs.  
 Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -54,7 +54,7 @@ Where data is missing, our approach is conservative, not assumptive.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-tools-letters-patterns-B0BTP9KP7F/"
 *If you're comparing **tools in leather craft**, **[Leather Stamping Tools Letters Patterns](https://www.amazon.com/dp/B0BTP9KP7F?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Tools Letters Patterns” on Amazon](https://www.amazon.com/dp/B0BTP9KP7F?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **31**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **31**.  
 It sits in the **Balanced Choice tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Evidence quality and confidence notes highlight uncertainty.
 Rather than plug holes in the data, we acknowledge and present limits.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

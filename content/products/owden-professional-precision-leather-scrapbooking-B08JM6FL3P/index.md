@@ -12,7 +12,7 @@ canonicalURL: "/products/owden-professional-precision-leather-scrapbooking-B08JM
 *If you're comparing **precision leather crafters**, **[OWDEN Professional Precision Leather Scrapbooking](https://www.amazon.com/dp/B08JM6FL3P?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “OWDEN Professional Precision Leather Scrapbooking” on Amazon](https://www.amazon.com/dp/B08JM6FL3P?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **56 / 287** overall.  
+This Catalog comes in at **56 / 287** overall.  
 It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio recommends it as a **Smart Buy** given its relative performance.
 
@@ -52,7 +52,7 @@ Evidence quality and confidence notes highlight uncertainty.
 Rather than plug holes in the data, we acknowledge and present limits.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

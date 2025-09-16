@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-professional-stamping-background-crafting-B0DSV
 *If you're comparing **leather crafting templates**, **[Leather Professional Stamping Background Crafting](https://www.amazon.com/dp/B0DSVDXVVL?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Professional Stamping Background Crafting” on Amazon](https://www.amazon.com/dp/B0DSVDXVVL?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **281 out of 287**, within the **Best Value tier**.  
+This Catalog is positioned **281 out of 287**, within the **Best Value tier**.  
 Practivio suggests you **look elsewhere**, based on its comparative standing.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ The presence of uncertainty is made clear in both the evidence base and our note
 We handle limited data conservatively, never with assumptions.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

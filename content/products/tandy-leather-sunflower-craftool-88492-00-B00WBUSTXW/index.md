@@ -12,7 +12,7 @@ canonicalURL: "/products/tandy-leather-sunflower-craftool-88492-00-B00WBUSTXW/"
 *If you're comparing **tandy leather working kit**, **[Tandy Leather Sunflower Craftool 88492 00](https://www.amazon.com/dp/B00WBUSTXW?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Tandy Leather Sunflower Craftool 88492 00” on Amazon](https://www.amazon.com/dp/B00WBUSTXW?tag=practivio-20)
-Among Leathercraft Stamping Toolses, this Leathercraft Stamping Tools places **104 of 287**.  
+Among Catalogs, this Catalog places **104 of 287**.  
 It is classified in the **Best Value tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -54,7 +54,7 @@ Where inputs are missing, we don’t substitute — we mark the score as less ce
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

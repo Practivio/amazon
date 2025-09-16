@@ -12,8 +12,8 @@ canonicalURL: "/products/dgol-leather-arc-shaped-cutter-cutting-B07BH4BV44/"
 *If you're comparing **leather and leather working tools**, **[DGOL Leather Arc Shaped Cutter Cutting](https://www.amazon.com/dp/B07BH4BV44?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “DGOL Leather Arc Shaped Cutter Cutting” on Amazon](https://www.amazon.com/dp/B07BH4BV44?tag=practivio-20)
-This Leathercraft Stamping Tools holds rank **47 of 287** in our analysis.  
-It appears in the **Best Value tier** of comparable Leathercraft Stamping Toolses.  
+This Catalog holds rank **47 of 287** in our analysis.  
+It appears in the **Best Value tier** of comparable Catalogs.  
 Practivio recommends it as a **Smart Buy**, reflecting its position within the dataset.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

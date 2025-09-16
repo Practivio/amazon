@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-burnisher-10-pack-pointed-burnishing-B0BYVCFFMY
 *If you're comparing **leather hole punch**, **[Leather Burnisher 10 Pack Pointed Burnishing](https://www.amazon.com/dp/B0BYVCFFMY?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Burnisher 10 Pack Pointed Burnishing” on Amazon](https://www.amazon.com/dp/B0BYVCFFMY?tag=practivio-20)
-Ranked **119 out of 287**, this Leathercraft Stamping Tools belongs to the **Balanced Choice tier** of Leathercraft Stamping Toolses.  
+Ranked **119 out of 287**, this Catalog belongs to the **Balanced Choice tier** of Catalogs.  
 Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ If data is sparse, we present outcomes cautiously rather than speculate.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

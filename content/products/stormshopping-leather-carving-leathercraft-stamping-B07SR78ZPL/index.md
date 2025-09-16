@@ -12,7 +12,7 @@ canonicalURL: "/products/stormshopping-leather-carving-leathercraft-stamping-B07
 *If you're comparing **leather for leather crafting**, **[Stormshopping Leather Carving Leathercraft Stamping](https://www.amazon.com/dp/B07SR78ZPL?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Stormshopping Leather Carving Leathercraft Stamping” on Amazon](https://www.amazon.com/dp/B07SR78ZPL?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **224**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **224**.  
 It sits in the **Best Value tier**, where Practivio suggests you **look elsewhere**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

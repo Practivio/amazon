@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stainless-professional-stamping-leathercrafts-B
 *If you're comparing **leather hole punch set**, **[Leather Stainless Professional Stamping LeatherCrafts](https://www.amazon.com/dp/B09KM65J61?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stainless Professional Stamping LeatherCrafts” on Amazon](https://www.amazon.com/dp/B09KM65J61?tag=practivio-20)
-Ranked **218 out of 287**, this Leathercraft Stamping Tools belongs to the **Top Tier tier** of Leathercraft Stamping Toolses.  
+Ranked **218 out of 287**, this Catalog belongs to the **Top Tier tier** of Catalogs.  
 Practivio suggests you **look elsewhere**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ The presence of uncertainty is made clear in both the evidence base and our note
 We handle limited data conservatively, never with assumptions.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

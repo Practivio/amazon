@@ -12,7 +12,7 @@ canonicalURL: "/products/sywan-leather-adjustable-professional-crafting-B0DHKSG4
 *If you're comparing **leather crafting tools near me**, **[SYWAN Leather Adjustable Professional Crafting](https://www.amazon.com/dp/B0DHKSG4DJ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “SYWAN Leather Adjustable Professional Crafting” on Amazon](https://www.amazon.com/dp/B0DHKSG4DJ?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **234 out of 287**, within the **Balanced Choice tier**.  
+This Catalog is positioned **234 out of 287**, within the **Balanced Choice tier**.  
 Practivio suggests you **look elsewhere**, based on its comparative standing.
 
 ### What the signals indicate
@@ -50,7 +50,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

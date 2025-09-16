@@ -12,7 +12,7 @@ canonicalURL: "/products/328pcs-leather-working-tools-manual-B083R567RC/"
 *If you're comparing **safa leather craft**, **[328PCS Leather Working Tools Manual](https://www.amazon.com/dp/B083R567RC?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “328PCS Leather Working Tools Manual” on Amazon](https://www.amazon.com/dp/B083R567RC?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **105**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **105**.  
 It sits in the **Top Tier tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ When data is thin, our results emphasize caution.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

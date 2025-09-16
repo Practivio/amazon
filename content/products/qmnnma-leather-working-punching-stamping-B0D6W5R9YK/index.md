@@ -12,7 +12,7 @@ canonicalURL: "/products/qmnnma-leather-working-punching-stamping-B0D6W5R9YK/"
 *If you're comparing **leather working tools and materials**, **[QMNNMA Leather Working Punching Stamping](https://www.amazon.com/dp/B0D6W5R9YK?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “QMNNMA Leather Working Punching Stamping” on Amazon](https://www.amazon.com/dp/B0D6W5R9YK?tag=practivio-20)
-Among Leathercraft Stamping Toolses, this Leathercraft Stamping Tools places **2 of 287**.  
+Among Catalogs, this Catalog places **2 of 287**.  
 It is classified in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

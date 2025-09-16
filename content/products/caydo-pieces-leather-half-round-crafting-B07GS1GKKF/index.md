@@ -12,7 +12,7 @@ canonicalURL: "/products/caydo-pieces-leather-half-round-crafting-B07GS1GKKF/"
 *If you're comparing **tandy leather al stohlman brand round leathercraft knife**, **[Caydo Pieces Leather Half Round Crafting](https://www.amazon.com/dp/B07GS1GKKF?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Caydo Pieces Leather Half Round Crafting” on Amazon](https://www.amazon.com/dp/B07GS1GKKF?tag=practivio-20)
-Holding rank **12 of 287**, this Leathercraft Stamping Tools is evaluated within the **Balanced Choice tier** of Leathercraft Stamping Toolses.  
+Holding rank **12 of 287**, this Catalog is evaluated within the **Balanced Choice tier** of Catalogs.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Uncertainty is always disclosed in the evidence base and confidence notes.
 When data is thin, our results emphasize caution.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

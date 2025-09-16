@@ -12,8 +12,8 @@ canonicalURL: "/products/leather-craftool-spacer-embossing-stitching-B07GGJDG29/
 *If you're comparing **starting a leather craft business**, **[Leather Craftool Spacer Embossing Stitching](https://www.amazon.com/dp/B07GGJDG29?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Craftool Spacer Embossing Stitching” on Amazon](https://www.amazon.com/dp/B07GGJDG29?tag=practivio-20)
-This Leathercraft Stamping Tools holds rank **229 of 287** in our analysis.  
-It appears in the **Balanced Choice tier** of comparable Leathercraft Stamping Toolses.  
+This Catalog holds rank **229 of 287** in our analysis.  
+It appears in the **Balanced Choice tier** of comparable Catalogs.  
 Practivio suggests you **look elsewhere**, reflecting its position within the dataset.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

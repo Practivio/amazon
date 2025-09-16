@@ -12,7 +12,7 @@ canonicalURL: "/products/genuine-leather-sheets-crafts-squares-B08KYLJB6Y/"
 *If you're comparing **most profitable leather crafts**, **[Genuine Leather Sheets Crafts Squares](https://www.amazon.com/dp/B08KYLJB6Y?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Genuine Leather Sheets Crafts Squares” on Amazon](https://www.amazon.com/dp/B08KYLJB6Y?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **6**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **6**.  
 It sits in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

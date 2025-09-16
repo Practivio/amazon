@@ -12,7 +12,7 @@ canonicalURL: "/products/custom-leather-hammer-handle-craftsman-B0DH2NX7DB/"
 *If you're comparing **clc custom leather craft**, **[Custom Leather Hammer Handle Craftsman](https://www.amazon.com/dp/B0DH2NX7DB?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Custom Leather Hammer Handle Craftsman” on Amazon](https://www.amazon.com/dp/B0DH2NX7DB?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **82**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **82**.  
 It sits in the **Balanced Choice tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,7 +12,7 @@ canonicalURL: "/products/owden-professional-beveles-leather-craft-B07CJS43SS/"
 *If you're comparing **hide leather craft**, **[OWDEN Professional beveles Leather Craft](https://www.amazon.com/dp/B07CJS43SS?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “OWDEN Professional beveles Leather Craft” on Amazon](https://www.amazon.com/dp/B07CJS43SS?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **9 / 287** overall.  
+This Catalog comes in at **9 / 287** overall.  
 It is grouped in the **Top Tier tier** for fair comparison.  
 Practivio recommends it as a **Smart Buy** given its relative performance.
 
@@ -53,7 +53,7 @@ Uncertainty is always disclosed in the evidence base and confidence notes.
 When data is thin, our results emphasize caution.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

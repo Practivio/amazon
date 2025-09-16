@@ -12,7 +12,7 @@ canonicalURL: "/products/qwork-leather-carving-leathercraft-straight-B08K8YMPT1/
 *If you're comparing **leathercraft leather sofa**, **[QWORK Leather Carving Leathercraft Straight](https://www.amazon.com/dp/B08K8YMPT1?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “QWORK Leather Carving Leathercraft Straight” on Amazon](https://www.amazon.com/dp/B08K8YMPT1?tag=practivio-20)
-This Leathercraft Stamping Tools ranks **63 of 287**, inside the **Best Value tier**.  
+This Catalog ranks **63 of 287**, inside the **Best Value tier**.  
 Relative performance leads to this: Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

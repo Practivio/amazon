@@ -12,8 +12,8 @@ canonicalURL: "/products/leather-working-carving-punches-saddle-B07N57D97C/"
 *If you're comparing **leather craft equipment**, **[Leather Working Carving Punches Saddle](https://www.amazon.com/dp/B07N57D97C?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Working Carving Punches Saddle” on Amazon](https://www.amazon.com/dp/B07N57D97C?tag=practivio-20)
-This Leathercraft Stamping Tools holds rank **75 of 287** in our analysis.  
-It appears in the **Top Tier tier** of comparable Leathercraft Stamping Toolses.  
+This Catalog holds rank **75 of 287** in our analysis.  
+It appears in the **Top Tier tier** of comparable Catalogs.  
 Practivio recommends it as a **Smart Buy**, reflecting its position within the dataset.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ Evidence quality and confidence notes highlight uncertainty.
 Rather than plug holes in the data, we acknowledge and present limits.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

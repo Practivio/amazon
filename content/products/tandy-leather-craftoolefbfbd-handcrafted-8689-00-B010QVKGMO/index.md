@@ -12,7 +12,7 @@ canonicalURL: "/products/tandy-leather-craftoolefbfbd-handcrafted-8689-00-B010QV
 *If you're comparing **tandy leather tool kit**, **[Tandy Leather Craftool%EF%BF%BD Handcrafted 8689 00](https://www.amazon.com/dp/B010QVKGMO?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Tandy Leather Craftool%EF%BF%BD Handcrafted 8689 00” on Amazon](https://www.amazon.com/dp/B010QVKGMO?tag=practivio-20)
-Holding rank **117 of 287**, this Leathercraft Stamping Tools is evaluated within the **Best Value tier** of Leathercraft Stamping Toolses.  
+Holding rank **117 of 287**, this Catalog is evaluated within the **Best Value tier** of Catalogs.  
 Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ Rather than plug holes in the data, we acknowledge and present limits.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

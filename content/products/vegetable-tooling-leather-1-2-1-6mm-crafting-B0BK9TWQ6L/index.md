@@ -12,7 +12,7 @@ canonicalURL: "/products/vegetable-tooling-leather-1-2-1-6mm-crafting-B0BK9TWQ6L
 *If you're comparing **custom leather crafting**, **[Vegetable Tooling Leather 1 2 1 6mm Crafting](https://www.amazon.com/dp/B0BK9TWQ6L?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Vegetable Tooling Leather 1 2 1 6mm Crafting” on Amazon](https://www.amazon.com/dp/B0BK9TWQ6L?tag=practivio-20)
-Among Leathercraft Stamping Toolses, this Leathercraft Stamping Tools places **58 of 287**.  
+Among Catalogs, this Catalog places **58 of 287**.  
 It is classified in the **Balanced Choice tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ Confidence notes and the evidence base make uncertainty transparent.
 If information is scarce, outcomes are shown conservatively, never guessed.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

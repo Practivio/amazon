@@ -12,7 +12,7 @@ canonicalURL: "/products/hisew-leather-burnishing-rotary-tools-B0D9WXGJ3F/"
 *If you're comparing **seiwa tokonole leather burnishing gum**, **[Hisew Leather Burnishing Rotary Tools](https://www.amazon.com/dp/B0D9WXGJ3F?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Hisew Leather Burnishing Rotary Tools” on Amazon](https://www.amazon.com/dp/B0D9WXGJ3F?tag=practivio-20)
-Among Leathercraft Stamping Toolses, this Leathercraft Stamping Tools places **51 of 287**.  
+Among Catalogs, this Catalog places **51 of 287**.  
 It is classified in the **Balanced Choice tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ We capture uncertainty through documented evidence and confidence commentary.
 Where data is missing, our approach is conservative, not assumptive.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

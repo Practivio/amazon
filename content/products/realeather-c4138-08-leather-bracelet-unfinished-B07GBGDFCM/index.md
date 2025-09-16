@@ -12,7 +12,7 @@ canonicalURL: "/products/realeather-c4138-08-leather-bracelet-unfinished-B07GBGD
 *If you're comparing **leather craft leather**, **[Realeather C4138 08 Leather Bracelet Unfinished](https://www.amazon.com/dp/B07GBGDFCM?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Realeather C4138 08 Leather Bracelet Unfinished” on Amazon](https://www.amazon.com/dp/B07GBGDFCM?tag=practivio-20)
-Holding rank **160 of 287**, this Leathercraft Stamping Tools is evaluated within the **Balanced Choice tier** of Leathercraft Stamping Toolses.  
+Holding rank **160 of 287**, this Catalog is evaluated within the **Balanced Choice tier** of Catalogs.  
 Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ When gaps exist, results lean cautious instead of filled-in.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

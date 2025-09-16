@@ -12,7 +12,7 @@ canonicalURL: "/products/leather-stamping-include-alphabet-pattern-B094V3PHM7/"
 *If you're comparing **leather crafters and saddle makers journal**, **[Leather Stamping Include Alphabet Pattern](https://www.amazon.com/dp/B094V3PHM7?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Leather Stamping Include Alphabet Pattern” on Amazon](https://www.amazon.com/dp/B094V3PHM7?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **148 / 287** overall.  
+This Catalog comes in at **148 / 287** overall.  
 It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio lists it under **Compare** for further evaluation given its relative performance.
 
@@ -55,7 +55,7 @@ If data is sparse, we present outcomes cautiously rather than speculate.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

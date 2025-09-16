@@ -1,33 +1,33 @@
 ---
 title: "Sheets Textured Scrapbook Assorted Buttons"
-description: "michaels acetate sheets: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["michaels acetate sheets"]
-seo_title: "michaels acetate sheets — Look Elsewhere (2025)"
+description: "die cut christmas decoupage sheets: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["die cut christmas decoupage sheets"]
+seo_title: "die cut christmas decoupage sheets — Look Elsewhere (2025)"
 canonicalURL: "/products/sheets-textured-scrapbook-assorted-buttons-B0D87LCS55/"
 ---
 
-**🚫 Practivio Score™:** 687 — _Look Elsewhere_
+**🚫 Practivio Score™:** 838 — _Look Elsewhere_
 
 
-*If you're comparing **michaels acetate sheets**, **[Sheets Textured Scrapbook Assorted Buttons](https://www.amazon.com/dp/B0D87LCS55?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **die cut christmas decoupage sheets**, **[Sheets Textured Scrapbook Assorted Buttons](https://www.amazon.com/dp/B0D87LCS55?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Sheets Textured Scrapbook Assorted Buttons” on Amazon](https://www.amazon.com/dp/B0D87LCS55?tag=practivio-20)
-This Craft Supplies & Materials holds rank **203 of 242** in our analysis.  
-It appears in the **Top Tier tier** of comparable Craft Supplies & Materialses.  
+This Paper Craft Supplies holds rank **217 of 293** in our analysis.  
+It appears in the **Top Tier tier** of comparable Paper Craft Supplieses.  
 Practivio suggests you **look elsewhere**, reflecting its position within the dataset.
 
 ### What the signals indicate
-Price: 188 / 242 (top 78% lowest cost).  
-Reviews: 218 / 242 (top 91% in review totals).  
-Rating: 160 / 242 (top 67% by average rating).  
-Demand: 199 / 242 (top 83% by recent sales).
+Price: 225 / 293 (top 77% lowest cost).  
+Reviews: 242 / 293 (top 83% in review totals).  
+Rating: 188 / 293 (top 65% by average rating).  
+Demand: 223 / 293 (top 77% by recent sales).
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-In the Top Tier tier, the Hidden Gem is rated at 936.00.  
-This pick trails the Hidden Gem by 249.00 points.  
+In the Top Tier tier, the Hidden Gem is rated at 1117.00.  
+This pick trails the Hidden Gem by 279.00 points.  
 This comparison helps clarify how the item stacks up in context.  
 
 See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B079KL4C91?tag=practivio-20)
@@ -52,7 +52,7 @@ Evidence quality and confidence notes highlight uncertainty.
 Rather than plug holes in the data, we acknowledge and present limits.
 
 
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,8 +12,8 @@ canonicalURL: "/products/tandy-leather-easy-alphabet-4903-01-B001144R76/"
 *If you're comparing **easy leather craft**, **[Tandy Leather Easy Alphabet 4903 01](https://www.amazon.com/dp/B001144R76?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Tandy Leather Easy Alphabet 4903 01” on Amazon](https://www.amazon.com/dp/B001144R76?tag=practivio-20)
-This Leathercraft Stamping Tools holds rank **64 of 287** in our analysis.  
-It appears in the **Balanced Choice tier** of comparable Leathercraft Stamping Toolses.  
+This Catalog holds rank **64 of 287** in our analysis.  
+It appears in the **Balanced Choice tier** of comparable Catalogs.  
 Practivio recommends it as a **Smart Buy**, reflecting its position within the dataset.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

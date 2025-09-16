@@ -1,35 +1,35 @@
 ---
 title: "Scrapbook Supplies Aesthetic Decorative Scrapbooks"
-description: "cheap scrapbook supplies: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["cheap scrapbook supplies"]
-seo_title: "cheap scrapbook supplies — Look Elsewhere (2025)"
+description: "pink scrapbook paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["pink scrapbook paper"]
+seo_title: "pink scrapbook paper — Compare (2025)"
 canonicalURL: "/products/scrapbook-supplies-aesthetic-decorative-scrapbooks-B096ZKPYMQ/"
 ---
 
-**🚫 Practivio Score™:** 710 — _Look Elsewhere_
+**🛒 Practivio Score™:** 857 — _Compare_
 
 
-*If you're comparing **cheap scrapbook supplies**, **[Scrapbook Supplies Aesthetic Decorative Scrapbooks](https://www.amazon.com/dp/B096ZKPYMQ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **pink scrapbook paper**, **[Scrapbook Supplies Aesthetic Decorative Scrapbooks](https://www.amazon.com/dp/B096ZKPYMQ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Scrapbook Supplies Aesthetic Decorative Scrapbooks” on Amazon](https://www.amazon.com/dp/B096ZKPYMQ?tag=practivio-20)
-This Craft Supplies & Materials is positioned **176 out of 242**, within the **Top Tier tier**.  
-Practivio suggests you **look elsewhere**, based on its comparative standing.
+This Craft Paper is positioned **166 out of 292**, within the **Balanced Choice tier**.  
+Practivio lists it under **Compare** for further evaluation, based on its comparative standing.
 
 ### What the signals indicate
-Price: 174 of 242 (top 72% lowest price).  
-Reviews: 185 of 242 (top 77% by review count).  
-Rating: 225 of 242 (top 93% by average stars).  
-Demand: 191 of 242 (top 79% by purchases this month).
+Price: 161 of 292 (top 56% lowest price).  
+Reviews: 171 of 292 (top 59% by review count).  
+Rating: 261 of 292 (top 90% by average stars).  
+Demand: 162 of 292 (top 56% by purchases this month).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-In the Top Tier tier, the Hidden Gem is rated at 936.00.  
-This pick trails the Hidden Gem by 226.00 points.  
+In the Balanced Choice tier, the Hidden Gem is rated at 1052.00.  
+This pick trails the Hidden Gem by 195.00 points.  
 This comparison helps clarify how the item stacks up in context.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B079KL4C91?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B01AW5V7PE?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Only items meeting baseline requirements are considered for tier designation.  
@@ -50,8 +50,10 @@ A product’s standing is always expressed relative to its tier peers, not acros
 We capture uncertainty through documented evidence and confidence commentary.  
 Where data is missing, our approach is conservative, not assumptive.
 
+<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+
+🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

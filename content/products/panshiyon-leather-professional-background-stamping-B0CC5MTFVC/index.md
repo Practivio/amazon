@@ -12,8 +12,8 @@ canonicalURL: "/products/panshiyon-leather-professional-background-stamping-B0CC
 *If you're comparing **professional leather hole punch**, **[PANSHIYON Leather Professional Background Stamping](https://www.amazon.com/dp/B0CC5MTFVC?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “PANSHIYON Leather Professional Background Stamping” on Amazon](https://www.amazon.com/dp/B0CC5MTFVC?tag=practivio-20)
-This Leathercraft Stamping Tools holds rank **62 of 287** in our analysis.  
-It appears in the **Balanced Choice tier** of comparable Leathercraft Stamping Toolses.  
+This Catalog holds rank **62 of 287** in our analysis.  
+It appears in the **Balanced Choice tier** of comparable Catalogs.  
 Practivio recommends it as a **Smart Buy**, reflecting its position within the dataset.
 
 ### What the signals indicate
@@ -53,7 +53,7 @@ We capture uncertainty through documented evidence and confidence commentary.
 Where data is missing, our approach is conservative, not assumptive.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

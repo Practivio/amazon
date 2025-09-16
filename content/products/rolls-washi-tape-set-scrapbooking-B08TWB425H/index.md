@@ -1,36 +1,36 @@
 ---
 title: "Rolls Washi Tape Set Scrapbooking"
-description: "recollections washi tape storage: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["recollections washi tape storage"]
-seo_title: "recollections washi tape storage — Smart Buy Top Tier (2025)"
+description: "washi tape for scrapbooking: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["washi tape for scrapbooking"]
+seo_title: "washi tape for scrapbooking — Smart Buy Balanced Choice (2025)"
 canonicalURL: "/products/rolls-washi-tape-set-scrapbooking-B08TWB425H/"
 ---
 
-**🏆 Practivio Score™:** 1028 — _Smart Buy_
+**🏆 Practivio Score™:** 985 — _Smart Buy_
 
 
-*If you're comparing **recollections washi tape storage**, **[Rolls Washi Tape Set Scrapbooking](https://www.amazon.com/dp/B08TWB425H?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **washi tape for scrapbooking**, **[Rolls Washi Tape Set Scrapbooking](https://www.amazon.com/dp/B08TWB425H?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Rolls Washi Tape Set Scrapbooking” on Amazon](https://www.amazon.com/dp/B08TWB425H?tag=practivio-20)
-This Arts & Crafts Tape comes in at **14 / 292** overall.  
-It is grouped in the **Top Tier tier** for fair comparison.  
+This Paper Craft Supplies comes in at **77 / 293** overall.  
+It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio recommends it as a **Smart Buy** given its relative performance.
 
 ### What the signals indicate
-Price: 249 of 292 (top 86% lowest price).  
-Reviews: 38 of 292 (top 14% by review count).  
-Rating: 156 of 292 (top 54% by average stars).  
-Demand: 36 of 292 (top 13% by purchases this month).
+Price: 182 of 293 (top 63% lowest price).  
+Reviews: 82 of 293 (top 28% by review count).  
+Rating: 230 of 293 (top 79% by average stars).  
+Demand: 91 of 293 (top 32% by purchases this month).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-The Hidden Gem for Top Tier achieves a Practivio Score™ of 1075.00.  
-This pick trails the Hidden Gem by 47.00 points.  
+The Hidden Gem for Balanced Choice achieves a Practivio Score™ of 1070.00.  
+This pick trails the Hidden Gem by 85.00 points.  
 Keep this in mind when weighing your top choices.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0025W9AWA?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B01GIJLSGG?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Eligibility requires meeting fundamental criteria.  
@@ -52,7 +52,7 @@ Uncertainty is always disclosed in the evidence base and confidence notes.
 When data is thin, our results emphasize caution.
 
 
-🏷️ **Back to Master:** [/rankings/arts-crafts-tape/](/rankings/arts-crafts-tape/)
+🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

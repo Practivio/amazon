@@ -12,7 +12,7 @@ canonicalURL: "/products/weaver-leather-basic-stamping-swivel-B0DZJ164CB/"
 *If you're comparing **basic leather craft tools**, **[Weaver Leather Basic Stamping Swivel](https://www.amazon.com/dp/B0DZJ164CB?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Weaver Leather Basic Stamping Swivel” on Amazon](https://www.amazon.com/dp/B0DZJ164CB?tag=practivio-20)
-This Leathercraft Stamping Tools ranks **278 of 287**, inside the **Top Tier tier**.  
+This Catalog ranks **278 of 287**, inside the **Top Tier tier**.  
 Relative performance leads to this: Practivio suggests you **look elsewhere**.
 
 ### What the signals indicate
@@ -48,7 +48,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -12,7 +12,7 @@ canonicalURL: "/products/ph-pandahall-stainless-leathercraft-leather-B08NSXSNVT/
 *If you're comparing **seiwa tokonole leather finish burnishing gum clear leathercraft**, **[PH PandaHall Stainless Leathercraft Leather](https://www.amazon.com/dp/B08NSXSNVT?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “PH PandaHall Stainless Leathercraft Leather” on Amazon](https://www.amazon.com/dp/B08NSXSNVT?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **102 / 287** overall.  
+This Catalog comes in at **102 / 287** overall.  
 It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio lists it under **Compare** for further evaluation given its relative performance.
 
@@ -55,7 +55,7 @@ When gaps exist, results lean cautious instead of filled-in.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

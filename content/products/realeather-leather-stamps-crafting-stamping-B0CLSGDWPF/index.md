@@ -12,7 +12,7 @@ canonicalURL: "/products/realeather-leather-stamps-crafting-stamping-B0CLSGDWPF/
 *If you're comparing **leather crafting tools and supplies**, **[Realeather Leather Stamps Crafting Stamping](https://www.amazon.com/dp/B0CLSGDWPF?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Realeather Leather Stamps Crafting Stamping” on Amazon](https://www.amazon.com/dp/B0CLSGDWPF?tag=practivio-20)
-In our dataset of 287 Leathercraft Stamping Toolses, this Leathercraft Stamping Tools is ranked **237**.  
+In our dataset of 287 Catalogs, this Catalog is ranked **237**.  
 It sits in the **Balanced Choice tier**, where Practivio suggests you **look elsewhere**.
 
 ### What the signals indicate
@@ -51,7 +51,7 @@ We capture uncertainty through documented evidence and confidence commentary.
 Where data is missing, our approach is conservative, not assumptive.
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

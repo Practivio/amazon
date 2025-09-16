@@ -12,7 +12,7 @@ canonicalURL: "/products/owden-professional-leather-swivel-diameter-B07SMRGHKP/"
 *If you're comparing **professional leather craft tool kit**, **[OWDEN Professional Leather Swivel Diameter](https://www.amazon.com/dp/B07SMRGHKP?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “OWDEN Professional Leather Swivel Diameter” on Amazon](https://www.amazon.com/dp/B07SMRGHKP?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **191 out of 287**, within the **Balanced Choice tier**.  
+This Catalog is positioned **191 out of 287**, within the **Balanced Choice tier**.  
 Practivio lists it under **Compare** for further evaluation, based on its comparative standing.
 
 ### What the signals indicate
@@ -52,7 +52,7 @@ Where inputs are missing, we don’t substitute — we mark the score as less ce
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

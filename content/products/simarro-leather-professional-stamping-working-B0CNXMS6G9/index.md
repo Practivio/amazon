@@ -12,7 +12,7 @@ canonicalURL: "/products/simarro-leather-professional-stamping-working-B0CNXMS6G
 *If you're comparing **leather working tools and equipment**, **[simarro Leather Professional Stamping Working](https://www.amazon.com/dp/B0CNXMS6G9?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “simarro Leather Professional Stamping Working” on Amazon](https://www.amazon.com/dp/B0CNXMS6G9?tag=practivio-20)
-This Leathercraft Stamping Tools is positioned **189 out of 287**, within the **Best Value tier**.  
+This Catalog is positioned **189 out of 287**, within the **Best Value tier**.  
 Practivio lists it under **Compare** for further evaluation, based on its comparative standing.
 
 ### What the signals indicate
@@ -54,7 +54,7 @@ Where data is missing, our approach is conservative, not assumptive.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

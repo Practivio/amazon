@@ -12,7 +12,7 @@ canonicalURL: "/products/wmycongcong-leather-stamping-carving-working-B0B6P9BX55
 *If you're comparing **best leather working tool kit**, **[WMYCONGCONG Leather Stamping Carving Working](https://www.amazon.com/dp/B0B6P9BX55?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “WMYCONGCONG Leather Stamping Carving Working” on Amazon](https://www.amazon.com/dp/B0B6P9BX55?tag=practivio-20)
-This Leathercraft Stamping Tools comes in at **116 / 287** overall.  
+This Catalog comes in at **116 / 287** overall.  
 It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio lists it under **Compare** for further evaluation given its relative performance.
 
@@ -54,7 +54,7 @@ Rather than plug holes in the data, we acknowledge and present limits.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/leathercraft-stamping-tools/](/rankings/leathercraft-stamping-tools/)
+🏷️ **Back to Master:** [/rankings/catalog/](/rankings/catalog/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

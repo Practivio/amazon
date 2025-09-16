@@ -1,32 +1,32 @@
 ---
 title: "5400 Assorted Projects Suncatchers Scrapbooking"
-description: "assorted craft supplies: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["assorted craft supplies"]
-seo_title: "assorted craft supplies — Look Elsewhere (2025)"
+description: "assorted scrapbook paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["assorted scrapbook paper"]
+seo_title: "assorted scrapbook paper — Compare (2025)"
 canonicalURL: "/products/5400-assorted-projects-suncatchers-scrapbooking-B0B1ZYCJPG/"
 ---
 
-**🚫 Practivio Score™:** 722 — _Look Elsewhere_
+**🛒 Practivio Score™:** 889 — _Compare_
 
 
-*If you're comparing **assorted craft supplies**, **[5400 Assorted Projects Suncatchers Scrapbooking](https://www.amazon.com/dp/B0B1ZYCJPG?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **assorted scrapbook paper**, **[5400 Assorted Projects Suncatchers Scrapbooking](https://www.amazon.com/dp/B0B1ZYCJPG?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “5400 Assorted Projects Suncatchers Scrapbooking” on Amazon](https://www.amazon.com/dp/B0B1ZYCJPG?tag=practivio-20)
-In our dataset of 242 Craft Supplies & Materialses, this Craft Supplies & Materials is ranked **168**.  
-It sits in the **Best Value tier**, where Practivio suggests you **look elsewhere**.
+In our dataset of 293 Paper Craft Supplieses, this Paper Craft Supplies is ranked **165**.  
+It sits in the **Best Value tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 50 out of 242 (top 21% lowest-priced).  
-Reviews: 155 out of 242 (top 65% in review volume).  
-Rating: 143 out of 242 (top 60% by star rating).  
-Demand: 86 out of 242 (top 36% by buyer demand this month).
+Price: 61 out of 293 (top 21% lowest-priced).  
+Reviews: 153 out of 293 (top 53% in review volume).  
+Rating: 173 out of 293 (top 60% by star rating).  
+Demand: 100 out of 293 (top 35% by buyer demand this month).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-The Hidden Gem for Best Value achieves a Practivio Score™ of 888.00.  
-This pick trails the Hidden Gem by 166.00 points.  
+The Hidden Gem for Best Value achieves a Practivio Score™ of 1057.00.  
+This pick trails the Hidden Gem by 168.00 points.  
 Keep this in mind when weighing your top choices.  
 
 See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
@@ -50,8 +50,10 @@ Each product’s position is measured against its tier peers, not against items 
 Uncertainty is flagged by confidence notes alongside the evidence base.  
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
+<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+
+🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
