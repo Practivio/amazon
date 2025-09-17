@@ -1,35 +1,35 @@
 ---
 title: "YASMEN Scrapbook Single Sided Decorative Scrapbooking"
-description: "single sheet of 12x12 scrapbook paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["single sheet of 12x12 scrapbook paper"]
-seo_title: "single sheet of 12x12 scrapbook paper — Look Elsewhere (2025)"
+description: "decorative scrapbook: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["decorative scrapbook"]
+seo_title: "decorative scrapbook — Compare (2025)"
 canonicalURL: "/products/yasmen-scrapbook-single-sided-decorative-scrapbooking-B0C5CB677P/"
 ---
 
-**🚫 Practivio Score™:** 646 — _Look Elsewhere_
+**🛒 Practivio Score™:** 651 — _Compare_
 
 
-*If you're comparing **single sheet of 12x12 scrapbook paper**, **[YASMEN Scrapbook Single Sided Decorative Scrapbooking](https://www.amazon.com/dp/B0C5CB677P?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **decorative scrapbook**, **[YASMEN Scrapbook Single Sided Decorative Scrapbooking](https://www.amazon.com/dp/B0C5CB677P?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “YASMEN Scrapbook Single Sided Decorative Scrapbooking” on Amazon](https://www.amazon.com/dp/B0C5CB677P?tag=practivio-20)
-Ranked **271 out of 293**, this Paper Craft Supplies belongs to the **Best Value tier** of Paper Craft Supplieses.  
-Practivio suggests you **look elsewhere**.
+Ranked **173 out of 266**, this Decorative Craft Paper belongs to the **Best Value tier** of Decorative Craft Papers.  
+Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 76 of 293 (top 26% lowest price).  
-Reviews: 137 of 293 (top 47% by review count).  
-Rating: 195 of 293 (top 67% by average stars).  
-Demand:  of 293 (top % by purchases this month).
+Price: 57 of 266 (top 22% lowest price).  
+Reviews: 34 of 266 (top 13% by review count).  
+Rating: 145 of 266 (top 55% by average stars).  
+Demand:  of 266 (top % by purchases this month).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Best Value carries a Practivio Score™ of 1057.00.  
-This pick trails the Hidden Gem by 411.00 points.  
+The current Hidden Gem in Best Value carries a Practivio Score™ of 860.00.  
+This pick trails the Hidden Gem by 209.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07JMT3FZX?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Our baseline filters remove non-comparable items.  
@@ -50,8 +50,10 @@ A product’s standing is always expressed relative to its tier peers, not acros
 Uncertainty is flagged by confidence notes alongside the evidence base.  
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
+<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
+
+🏷️ **Back to Master:** [/rankings/decorative-craft-paper/](/rankings/decorative-craft-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

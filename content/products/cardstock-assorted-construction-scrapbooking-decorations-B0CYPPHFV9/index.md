@@ -1,36 +1,36 @@
 ---
 title: "Cardstock Assorted Construction Scrapbooking Decorations"
-description: "12x12 cardstock shop: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["12x12 cardstock shop"]
-seo_title: "12x12 cardstock shop — Compare (2025)"
+description: "300 gsm cardstock to lbs: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["300 gsm cardstock to lbs"]
+seo_title: "300 gsm cardstock to lbs — Compare (2025)"
 canonicalURL: "/products/cardstock-assorted-construction-scrapbooking-decorations-B0CYPPHFV9/"
 ---
 
-**🛒 Practivio Score™:** 877 — _Compare_
+**🛒 Practivio Score™:** 906 — _Compare_
 
 
-*If you're comparing **12x12 cardstock shop**, **[Cardstock Assorted Construction Scrapbooking Decorations](https://www.amazon.com/dp/B0CYPPHFV9?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **300 gsm cardstock to lbs**, **[Cardstock Assorted Construction Scrapbooking Decorations](https://www.amazon.com/dp/B0CYPPHFV9?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Cardstock Assorted Construction Scrapbooking Decorations” on Amazon](https://www.amazon.com/dp/B0CYPPHFV9?tag=practivio-20)
-This Craft Paper comes in at **150 / 292** overall.  
-It is grouped in the **Top Tier tier** for fair comparison.  
+This Card Stock comes in at **147 / 299** overall.  
+It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio lists it under **Compare** for further evaluation given its relative performance.
 
 ### What the signals indicate
-Price: standing 211 of 292 (top 73% for price).  
-Reviews: standing 166 of 292 (top 57% for review numbers).  
-Rating: standing 248 of 292 (top 85% for rating quality).  
-Demand: standing 159 of 292 (top 55% for monthly demand).
+Price: standing 156 of 299 (top 53% for price).  
+Reviews: standing 149 of 299 (top 50% for review numbers).  
+Rating: standing 283 of 299 (top 95% for rating quality).  
+Demand: standing 142 of 299 (top 48% for monthly demand).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-Within the Top Tier tier, the Hidden Gem holds a Practivio Score™ of 1080.00.  
-This pick trails the Hidden Gem by 203.00 points.  
+Within the Balanced Choice tier, the Hidden Gem holds a Practivio Score™ of 1066.00.  
+This pick trails the Hidden Gem by 160.00 points.  
 Consider this point of reference when evaluating alternatives.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07LFHSRNB?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07QQ3L753?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Inclusion depends on passing strict baseline criteria.  
@@ -55,7 +55,7 @@ If information is scarce, outcomes are shown conservatively, never guessed.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
+🏷️ **Back to Master:** [/rankings/card-stock/](/rankings/card-stock/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

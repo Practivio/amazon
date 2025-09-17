@@ -1,35 +1,35 @@
 ---
 title: "Koogel Construction Cardstock Scrapbook Classroom"
-description: "construction paper scrapbook: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["construction paper scrapbook"]
-seo_title: "construction paper scrapbook — Look Elsewhere (2025)"
+description: "classroom construction paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["classroom construction paper"]
+seo_title: "classroom construction paper — Compare (2025)"
 canonicalURL: "/products/koogel-construction-cardstock-scrapbook-classroom-B0CN6KBLRX/"
 ---
 
-**🚫 Practivio Score™:** 799 — _Look Elsewhere_
+**🛒 Practivio Score™:** 738 — _Compare_
 
 
-*If you're comparing **construction paper scrapbook**, **[Koogel Construction Cardstock Scrapbook Classroom](https://www.amazon.com/dp/B0CN6KBLRX?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **classroom construction paper**, **[Koogel Construction Cardstock Scrapbook Classroom](https://www.amazon.com/dp/B0CN6KBLRX?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Koogel Construction Cardstock Scrapbook Classroom” on Amazon](https://www.amazon.com/dp/B0CN6KBLRX?tag=practivio-20)
-In our dataset of 293 Paper Craft Supplieses, this Paper Craft Supplies is ranked **251**.  
-It sits in the **Best Value tier**, where Practivio suggests you **look elsewhere**.
+In our dataset of 303 Construction Papers, this Construction Paper is ranked **180**.  
+It sits in the **Best Value tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 39 / 293 (top 14% lowest cost).  
-Reviews: 226 / 293 (top 78% in review totals).  
-Rating: 178 / 293 (top 61% by average rating).  
-Demand: 219 / 293 (top 75% by recent sales).
+Price: 51 / 303 (top 17% lowest cost).  
+Reviews: 148 / 303 (top 49% in review totals).  
+Rating: 192 / 303 (top 64% by average rating).  
+Demand: 116 / 303 (top 39% by recent sales).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-In the Best Value tier, the Hidden Gem is rated at 1057.00.  
-This pick trails the Hidden Gem by 258.00 points.  
+In the Best Value tier, the Hidden Gem is rated at 913.00.  
+This pick trails the Hidden Gem by 175.00 points.  
 This comparison helps clarify how the item stacks up in context.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B01LX0UJBN?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Baseline inclusion rules keep weaker or incomplete products out.  
@@ -51,8 +51,10 @@ Grouping by price ensures meaningful, like-for-like evaluations.
 Confidence notes and the evidence base make uncertainty transparent.  
 If information is scarce, outcomes are shown conservatively, never guessed.
 
+<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
+
+🏷️ **Back to Master:** [/rankings/construction-paper/](/rankings/construction-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

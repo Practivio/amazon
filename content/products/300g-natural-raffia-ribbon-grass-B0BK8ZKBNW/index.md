@@ -1,35 +1,35 @@
 ---
 title: "300g Natural Raffia Ribbon Grass"
-description: "natural craft materials: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["natural craft materials"]
-seo_title: "natural craft materials — Compare (2025)"
+description: "hot pink raffia ribbon: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["hot pink raffia ribbon"]
+seo_title: "hot pink raffia ribbon — Smart Buy Best Value (2025)"
 canonicalURL: "/products/300g-natural-raffia-ribbon-grass-B0BK8ZKBNW/"
 ---
 
-**🛒 Practivio Score™:** 754 — _Compare_
+**🏆 Practivio Score™:** 818 — _Smart Buy_
 
 
-*If you're comparing **natural craft materials**, **[300g Natural Raffia Ribbon Grass](https://www.amazon.com/dp/B0BK8ZKBNW?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **hot pink raffia ribbon**, **[300g Natural Raffia Ribbon Grass](https://www.amazon.com/dp/B0BK8ZKBNW?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “300g Natural Raffia Ribbon Grass” on Amazon](https://www.amazon.com/dp/B0BK8ZKBNW?tag=practivio-20)
-In our dataset of 242 Craft Supplies & Materialses, this Craft Supplies & Materials is ranked **131**.  
-It sits in the **Balanced Choice tier**, where Practivio lists it under **Compare** for further evaluation.
+In our dataset of 305 Paper Ribbon & Raffias, this Paper Ribbon & Raffia is ranked **11**.  
+It sits in the **Best Value tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: standing 107 of 242 (top 45% for price).  
-Reviews: standing 135 of 242 (top 56% for review numbers).  
-Rating: standing 163 of 242 (top 68% for rating quality).  
-Demand: standing 72 of 242 (top 30% for monthly demand).
+Price: standing 109 of 305 (top 36% for price).  
+Reviews: standing 11 of 305 (top 4% for review numbers).  
+Rating: standing 126 of 305 (top 42% for rating quality).  
+Demand: standing 1 of 305 (top 1% for monthly demand).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-Within the Balanced Choice tier, the Hidden Gem holds a Practivio Score™ of 901.00.  
-This pick trails the Hidden Gem by 147.00 points.  
+Within the Best Value tier, the Hidden Gem holds a Practivio Score™ of 823.00.  
+This pick trails the Hidden Gem by 5.00 points.  
 Consider this point of reference when evaluating alternatives.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0013CDGT6?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B072XBTGHN?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 We enforce baseline eligibility requirements.  
@@ -50,10 +50,8 @@ Rankings are relative to that group, not distorted by unrelated categories.
 Uncertainty is reflected through the evidence base and confidence notes.  
 When information is limited, we avoid filling gaps; results are presented conservatively.
 
-<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+🏷️ **Back to Master:** [/rankings/paper-ribbon-raffia/](/rankings/paper-ribbon-raffia/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

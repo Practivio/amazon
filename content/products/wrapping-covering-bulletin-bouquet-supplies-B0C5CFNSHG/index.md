@@ -1,35 +1,35 @@
 ---
 title: "Wrapping Covering Bulletin Bouquet Supplies"
-description: "wrapping paper crafts: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["wrapping paper crafts"]
-seo_title: "wrapping paper crafts — Compare (2025)"
+description: "kraft wrapping paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["kraft wrapping paper"]
+seo_title: "kraft wrapping paper — Compare (2025)"
 canonicalURL: "/products/wrapping-covering-bulletin-bouquet-supplies-B0C5CFNSHG/"
 ---
 
-**🛒 Practivio Score™:** 857 — _Compare_
+**🛒 Practivio Score™:** 719 — _Compare_
 
 
-*If you're comparing **wrapping paper crafts**, **[Wrapping Covering Bulletin Bouquet Supplies](https://www.amazon.com/dp/B0C5CFNSHG?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **kraft wrapping paper**, **[Wrapping Covering Bulletin Bouquet Supplies](https://www.amazon.com/dp/B0C5CFNSHG?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Wrapping Covering Bulletin Bouquet Supplies” on Amazon](https://www.amazon.com/dp/B0C5CFNSHG?tag=practivio-20)
-In our dataset of 292 Craft Papers, this Craft Paper is ranked **165**.  
+In our dataset of 305 Kraft Papers, this Kraft Paper is ranked **179**.  
 It sits in the **Best Value tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 77 / 292 (top 27% lowest cost).  
-Reviews: 145 / 292 (top 50% in review totals).  
-Rating: 105 / 292 (top 36% by average rating).  
-Demand: 249 / 292 (top 86% by recent sales).
+Price: 28 / 305 (top 10% lowest cost).  
+Reviews: 94 / 305 (top 31% in review totals).  
+Rating: 114 / 305 (top 38% by average rating).  
+Demand: 230 / 305 (top 76% by recent sales).
 
 ### Position in tier
 All comparisons are limited to this tier.
 
 ### How it compares to the Hidden Gem
-The Hidden Gem for Best Value achieves a Practivio Score™ of 1028.00.  
-This pick trails the Hidden Gem by 171.00 points.  
+The Hidden Gem for Best Value achieves a Practivio Score™ of 922.00.  
+This pick trails the Hidden Gem by 203.00 points.  
 Keep this in mind when weighing your top choices.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0C24QVJVF?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Our baseline filters remove non-comparable items.  
@@ -53,7 +53,7 @@ When information is limited, we avoid filling gaps; results are presented conser
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
+🏷️ **Back to Master:** [/rankings/kraft-paper/](/rankings/kraft-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

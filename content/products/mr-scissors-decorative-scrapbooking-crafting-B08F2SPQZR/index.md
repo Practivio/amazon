@@ -1,35 +1,35 @@
 ---
 title: "Mr Scissors Decorative Scrapbooking Crafting"
-description: "decorative edge scissors for paper: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, moment…"
-keywords: ["decorative edge scissors for paper"]
-seo_title: "decorative edge scissors for paper — Smart Buy Best Value (2025)"
+description: "fiskars decorative scissors: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["fiskars decorative scissors"]
+seo_title: "fiskars decorative scissors — Smart Buy Best Value (2025)"
 canonicalURL: "/products/mr-scissors-decorative-scrapbooking-crafting-B08F2SPQZR/"
 ---
 
-**🏆 Practivio Score™:** 976 — _Smart Buy_
+**🏆 Practivio Score™:** 846 — _Smart Buy_
 
 
-*If you're comparing **decorative edge scissors for paper**, **[Mr Scissors Decorative Scrapbooking Crafting](https://www.amazon.com/dp/B08F2SPQZR?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **fiskars decorative scissors**, **[Mr Scissors Decorative Scrapbooking Crafting](https://www.amazon.com/dp/B08F2SPQZR?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Mr Scissors Decorative Scrapbooking Crafting” on Amazon](https://www.amazon.com/dp/B08F2SPQZR?tag=practivio-20)
-This Paper Craft Supplies ranks **83 of 293**, inside the **Best Value tier**.  
+This Decorative Craft Paper ranks **12 of 266**, inside the **Best Value tier**.  
 Relative performance leads to this: Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 50 of 293 (top 18% lowest price).  
-Reviews: 62 of 293 (top 22% by review count).  
-Rating: 267 of 293 (top 92% by average stars).  
-Demand: 62 of 293 (top 22% by purchases this month).
+Price: 36 of 266 (top 14% lowest price).  
+Reviews: 6 of 266 (top 3% by review count).  
+Rating: 213 of 266 (top 81% by average stars).  
+Demand: 7 of 266 (top 3% by purchases this month).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-The Hidden Gem for Best Value achieves a Practivio Score™ of 1057.00.  
-This pick trails the Hidden Gem by 81.00 points.  
+The Hidden Gem for Best Value achieves a Practivio Score™ of 860.00.  
+This pick trails the Hidden Gem by 14.00 points.  
 Keep this in mind when weighing your top choices.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07JMT3FZX?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Every product is screened against baseline measures.  
@@ -51,7 +51,7 @@ The presence of uncertainty is made clear in both the evidence base and our note
 We handle limited data conservatively, never with assumptions.
 
 
-🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
+🏷️ **Back to Master:** [/rankings/decorative-craft-paper/](/rankings/decorative-craft-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

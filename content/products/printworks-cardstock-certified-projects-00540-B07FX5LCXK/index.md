@@ -1,35 +1,35 @@
 ---
 title: "Printworks Cardstock Certified Projects 00540"
-description: "cricut layered cardstock projects: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentu…"
-keywords: ["cricut layered cardstock projects"]
-seo_title: "cricut layered cardstock projects — Smart Buy Best Value (2025)"
+description: "printworks cardstock: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["printworks cardstock"]
+seo_title: "printworks cardstock — Smart Buy Best Value (2025)"
 canonicalURL: "/products/printworks-cardstock-certified-projects-00540-B07FX5LCXK/"
 ---
 
-**🏆 Practivio Score™:** 966 — _Smart Buy_
+**🏆 Practivio Score™:** 990 — _Smart Buy_
 
 
-*If you're comparing **cricut layered cardstock projects**, **[Printworks Cardstock Certified Projects 00540](https://www.amazon.com/dp/B07FX5LCXK?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **printworks cardstock**, **[Printworks Cardstock Certified Projects 00540](https://www.amazon.com/dp/B07FX5LCXK?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Printworks Cardstock Certified Projects 00540” on Amazon](https://www.amazon.com/dp/B07FX5LCXK?tag=practivio-20)
-Among Craft Papers, this Craft Paper places **67 of 292**.  
+Among Card Stocks, this Card Stock places **69 of 299**.  
 It is classified in the **Best Value tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 60 out of 292 (top 21% lowest-priced).  
-Reviews: 50 out of 292 (top 18% in review volume).  
-Rating: 16 out of 292 (top 6% by star rating).  
-Demand: 40 out of 292 (top 14% by buyer demand this month).
+Price: 53 out of 299 (top 18% lowest-priced).  
+Reviews: 19 out of 299 (top 7% in review volume).  
+Rating: 19 out of 299 (top 7% by star rating).  
+Demand: 15 out of 299 (top 6% by buyer demand this month).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-Currently, the Hidden Gem in Best Value registers a Practivio Score™ of 1028.00.  
-This pick trails the Hidden Gem by 62.00 points.  
+Currently, the Hidden Gem in Best Value registers a Practivio Score™ of 1022.00.  
+This pick trails the Hidden Gem by 32.00 points.  
 Use this as a guidepost when comparing within the tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B006P1EQXA?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Eligibility requires meeting fundamental criteria.  
@@ -51,7 +51,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
+🏷️ **Back to Master:** [/rankings/card-stock/](/rankings/card-stock/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

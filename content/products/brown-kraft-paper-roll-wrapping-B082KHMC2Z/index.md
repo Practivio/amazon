@@ -1,35 +1,35 @@
 ---
 title: "Brown Kraft Paper Roll Wrapping"
-description: "brown origami paper: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["brown origami paper"]
-seo_title: "brown origami paper — Smart Buy Top Tier (2025)"
+description: "construction paper for paper mache: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, m…"
+keywords: ["construction paper for paper mache"]
+seo_title: "construction paper for paper mache — Smart Buy Balanced Choice (2025)"
 canonicalURL: "/products/brown-kraft-paper-roll-wrapping-B082KHMC2Z/"
 ---
 
-**🏆 Practivio Score™:** 894 — _Smart Buy_
+**🏆 Practivio Score™:** 954 — _Smart Buy_
 
 
-*If you're comparing **brown origami paper**, **[Brown Kraft Paper Roll Wrapping](https://www.amazon.com/dp/B082KHMC2Z?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **construction paper for paper mache**, **[Brown Kraft Paper Roll Wrapping](https://www.amazon.com/dp/B082KHMC2Z?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Brown Kraft Paper Roll Wrapping” on Amazon](https://www.amazon.com/dp/B082KHMC2Z?tag=practivio-20)
-Ranked **12 out of 242**, this Craft Supplies & Materials belongs to the **Top Tier tier** of Craft Supplies & Materialses.  
+Ranked **14 out of 303**, this Construction Paper belongs to the **Balanced Choice tier** of Construction Papers.  
 Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 164 out of 242 (top 68% lowest-priced).  
-Reviews: 9 out of 242 (top 4% in review volume).  
-Rating: 78 out of 242 (top 33% by star rating).  
-Demand: 127 out of 242 (top 53% by buyer demand this month).
+Price: 156 out of 303 (top 52% lowest-priced).  
+Reviews: 2 out of 303 (top 1% in review volume).  
+Rating: 139 out of 303 (top 46% by star rating).  
+Demand: 23 out of 303 (top 8% by buyer demand this month).
 
 ### Position in tier
 All comparisons are limited to this tier.
 
 ### How it compares to the Hidden Gem
-In the Top Tier tier, the Hidden Gem is rated at 936.00.  
-This pick trails the Hidden Gem by 42.00 points.  
+In the Balanced Choice tier, the Hidden Gem is rated at 960.00.  
+This pick trails the Hidden Gem by 6.00 points.  
 This comparison helps clarify how the item stacks up in context.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B079KL4C91?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B01AW5V7PE?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Eligibility requires meeting fundamental criteria.  
@@ -51,7 +51,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/craft-supplies-materials/](/rankings/craft-supplies-materials/)
+🏷️ **Back to Master:** [/rankings/construction-paper/](/rankings/construction-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

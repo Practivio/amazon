@@ -1,35 +1,35 @@
 ---
 title: "Kraft Paper Sheets Wrapping Construction"
-description: "kraft gift wrap: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["kraft gift wrap"]
-seo_title: "kraft gift wrap — Compare (2025)"
+description: "param kraft paper: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["param kraft paper"]
+seo_title: "param kraft paper — Smart Buy Top Tier (2025)"
 canonicalURL: "/products/kraft-paper-sheets-wrapping-construction-B0BNCBSZRR/"
 ---
 
-**🛒 Practivio Score™:** 884 — _Compare_
+**🏆 Practivio Score™:** 825 — _Smart Buy_
 
 
-*If you're comparing **kraft gift wrap**, **[Kraft Paper Sheets Wrapping Construction](https://www.amazon.com/dp/B0BNCBSZRR?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **param kraft paper**, **[Kraft Paper Sheets Wrapping Construction](https://www.amazon.com/dp/B0BNCBSZRR?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Kraft Paper Sheets Wrapping Construction” on Amazon](https://www.amazon.com/dp/B0BNCBSZRR?tag=practivio-20)
-In our dataset of 292 Craft Papers, this Craft Paper is ranked **143**.  
-It sits in the **Top Tier tier**, where Practivio lists it under **Compare** for further evaluation.
+In our dataset of 305 Kraft Papers, this Kraft Paper is ranked **56**.  
+It sits in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 285 / 292 (top 98% lowest cost).  
-Reviews: 204 / 292 (top 70% in review totals).  
-Rating: 165 / 292 (top 57% by average rating).  
-Demand: 166 / 292 (top 57% by recent sales).
+Price: 262 / 305 (top 86% lowest cost).  
+Reviews: 132 / 305 (top 44% in review totals).  
+Rating: 180 / 305 (top 60% by average rating).  
+Demand: 131 / 305 (top 43% by recent sales).
 
 ### Position in tier
 All relative standing is tier-specific.
 
 ### How it compares to the Hidden Gem
-In the Top Tier tier, the Hidden Gem is rated at 1080.00.  
-This pick trails the Hidden Gem by 196.00 points.  
+In the Top Tier tier, the Hidden Gem is rated at 975.00.  
+This pick trails the Hidden Gem by 150.00 points.  
 This comparison helps clarify how the item stacks up in context.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07LFHSRNB?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07Q2XWN5R?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 To qualify, products must first satisfy baseline thresholds.  
@@ -50,10 +50,8 @@ Products are measured only within their own tier, never against unrelated price 
 Uncertainty appears as part of the evidence record and confidence notes.  
 With incomplete information, we prefer restraint over estimates.
 
-<!-- Missing template for Compare/CompareWithinPriceClass -->
 
-
-🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
+🏷️ **Back to Master:** [/rankings/kraft-paper/](/rankings/kraft-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

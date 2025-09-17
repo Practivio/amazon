@@ -1,32 +1,32 @@
 ---
 title: "Melissa Doug Drawing Paper inches"
-description: "best paper for paper mache: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["best paper for paper mache"]
-seo_title: "best paper for paper mache — Hidden Gem Balanced Choice (2025)"
+description: "drawing on construction paper: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, moment…"
+keywords: ["drawing on construction paper"]
+seo_title: "drawing on construction paper — Hidden Gem Balanced Choice (2025)"
 canonicalURL: "/products/melissa-doug-drawing-paper-inches-B01AW5V7PE/"
 ---
 
-**💎 Practivio Score™:** 1052 — _Hidden Gem_
+**💎 Practivio Score™:** 960 — _Hidden Gem_
 
 
-*If you're comparing **best paper for paper mache**, **[Melissa Doug Drawing Paper inches](https://www.amazon.com/dp/B01AW5V7PE?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **drawing on construction paper**, **[Melissa Doug Drawing Paper inches](https://www.amazon.com/dp/B01AW5V7PE?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Melissa Doug Drawing Paper inches” on Amazon](https://www.amazon.com/dp/B01AW5V7PE?tag=practivio-20)
-This Craft Paper comes in at **6 / 292** overall.  
+This Construction Paper comes in at **10 / 303** overall.  
 It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio identifies it as a **Hidden Gem** given its relative performance.
 
 ### What the signals indicate
-Price: 203 out of 292 (top 70% lowest-priced).  
-Reviews: 7 out of 292 (top 3% in review volume).  
-Rating: 25 out of 292 (top 9% by star rating).  
-Demand: 42 out of 292 (top 15% by buyer demand this month).
+Price: 165 out of 303 (top 55% lowest-priced).  
+Reviews: 5 out of 303 (top 2% in review volume).  
+Rating: 50 out of 303 (top 17% by star rating).  
+Demand: 20 out of 303 (top 7% by buyer demand this month).
 
 ### Position in tier
 All relative standing is tier-specific.
 
 ### How it compares to the Hidden Gem
-The Hidden Gem for Balanced Choice achieves a Practivio Score™ of 1052.00.  
+The Hidden Gem for Balanced Choice achieves a Practivio Score™ of 960.00.  
 You’re looking at the current Hidden Gem in this tier.  
 Keep this in mind when weighing your top choices.  
 
@@ -52,7 +52,7 @@ Uncertainty is reflected through the evidence base and confidence notes.
 When information is limited, we avoid filling gaps; results are presented conservatively.
 
 
-🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
+🏷️ **Back to Master:** [/rankings/construction-paper/](/rankings/construction-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
