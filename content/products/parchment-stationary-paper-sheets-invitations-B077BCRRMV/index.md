@@ -1,35 +1,35 @@
 ---
 title: "Parchment Stationary Paper Sheets Invitations"
-description: "parchment craft: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["parchment craft"]
-seo_title: "parchment craft — Compare (2025)"
+description: "parchment paper colour: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["parchment paper colour"]
+seo_title: "parchment paper colour — Compare (2025)"
 canonicalURL: "/products/parchment-stationary-paper-sheets-invitations-B077BCRRMV/"
 ---
 
-**🛒 Practivio Score™:** 859 — _Compare_
+**🛒 Practivio Score™:** 881 — _Compare_
 
 
-*If you're comparing **parchment craft**, **[Parchment Stationary Paper Sheets Invitations](https://www.amazon.com/dp/B077BCRRMV?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **parchment paper colour**, **[Parchment Stationary Paper Sheets Invitations](https://www.amazon.com/dp/B077BCRRMV?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Parchment Stationary Paper Sheets Invitations” on Amazon](https://www.amazon.com/dp/B077BCRRMV?tag=practivio-20)
-Ranked **160 out of 292**, this Craft Paper belongs to the **Balanced Choice tier** of Craft Papers.  
+Ranked **136 out of 295**, this Parchment Paper belongs to the **Balanced Choice tier** of Parchment Papers.  
 Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: standing 153 of 292 (top 53% for price).  
-Reviews: standing 165 of 292 (top 57% for review numbers).  
-Rating: standing 126 of 292 (top 44% for rating quality).  
-Demand: standing 222 of 292 (top 77% for monthly demand).
+Price: standing 172 of 295 (top 59% for price).  
+Reviews: standing 155 of 295 (top 53% for review numbers).  
+Rating: standing 150 of 295 (top 51% for rating quality).  
+Demand: standing 191 of 295 (top 65% for monthly demand).
 
 ### Position in tier
 All comparisons are limited to this tier.
 
 ### How it compares to the Hidden Gem
-In the Balanced Choice tier, the Hidden Gem is rated at 1052.00.  
-This pick trails the Hidden Gem by 193.00 points.  
+In the Balanced Choice tier, the Hidden Gem is rated at 1058.00.  
+This pick trails the Hidden Gem by 177.00 points.  
 This comparison helps clarify how the item stacks up in context.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B01AW5V7PE?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B0B6PLG6G2?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Baseline eligibility criteria govern which items are considered.  
@@ -53,7 +53,7 @@ When data is thin, our results emphasize caution.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
+🏷️ **Back to Master:** [/rankings/parchment-paper/](/rankings/parchment-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

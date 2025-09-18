@@ -1,35 +1,35 @@
 ---
 title: "Fiskars Fingertip Detail Knife Design"
-description: "fingertip detail knife: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["fingertip detail knife"]
-seo_title: "fingertip detail knife — Compare (2025)"
+description: "fiskars hexagon paper punch: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["fiskars hexagon paper punch"]
+seo_title: "fiskars hexagon paper punch — Compare (2025)"
 canonicalURL: "/products/fiskars-fingertip-detail-knife-design-B001UHSOO6/"
 ---
 
-**🛒 Practivio Score™:** 863 — _Compare_
+**🛒 Practivio Score™:** 836 — _Compare_
 
 
-*If you're comparing **fingertip detail knife**, **[Fiskars Fingertip Detail Knife Design](https://www.amazon.com/dp/B001UHSOO6?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **fiskars hexagon paper punch**, **[Fiskars Fingertip Detail Knife Design](https://www.amazon.com/dp/B001UHSOO6?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Fiskars Fingertip Detail Knife Design” on Amazon](https://www.amazon.com/dp/B001UHSOO6?tag=practivio-20)
-This Art Knives & Blades ranks **129 of 296**, inside the **Balanced Choice tier**.  
+This Paper Craft Tools ranks **174 of 297**, inside the **Balanced Choice tier**.  
 Relative performance leads to this: Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 158 out of 296 (top 54% lowest-priced).  
-Reviews: 153 out of 296 (top 52% in review volume).  
-Rating: 80 out of 296 (top 28% by star rating).  
-Demand: 115 out of 296 (top 39% by buyer demand this month).
+Price: 113 out of 297 (top 39% lowest-priced).  
+Reviews: 173 out of 297 (top 59% in review volume).  
+Rating: 92 out of 297 (top 31% by star rating).  
+Demand: 195 out of 297 (top 66% by buyer demand this month).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-Currently, the Hidden Gem in Balanced Choice registers a Practivio Score™ of 1024.00.  
-This pick trails the Hidden Gem by 161.00 points.  
+Currently, the Hidden Gem in Balanced Choice registers a Practivio Score™ of 1042.00.  
+This pick trails the Hidden Gem by 206.00 points.  
 Use this as a guidepost when comparing within the tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B075NYWF5P?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B076Z4N4DP?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Inclusion depends on passing strict baseline criteria.  
@@ -54,7 +54,7 @@ If data is sparse, we present outcomes cautiously rather than speculate.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/art-knives-blades/](/rankings/art-knives-blades/)
+🏷️ **Back to Master:** [/rankings/paper-craft-tools/](/rankings/paper-craft-tools/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

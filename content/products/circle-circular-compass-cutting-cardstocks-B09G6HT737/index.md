@@ -1,35 +1,35 @@
 ---
 title: "Circle Circular Compass Cutting Cardstocks"
-description: "making circle stickers on cricut: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["making circle stickers on cricut"]
-seo_title: "making circle stickers on cricut — Compare (2025)"
+description: "2.5 scallop circle punch: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["2.5 scallop circle punch"]
+seo_title: "2.5 scallop circle punch — Compare (2025)"
 canonicalURL: "/products/circle-circular-compass-cutting-cardstocks-B09G6HT737/"
 ---
 
-**🛒 Practivio Score™:** 844 — _Compare_
+**🛒 Practivio Score™:** 861 — _Compare_
 
 
-*If you're comparing **making circle stickers on cricut**, **[Circle Circular Compass Cutting Cardstocks](https://www.amazon.com/dp/B09G6HT737?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **2.5 scallop circle punch**, **[Circle Circular Compass Cutting Cardstocks](https://www.amazon.com/dp/B09G6HT737?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Circle Circular Compass Cutting Cardstocks” on Amazon](https://www.amazon.com/dp/B09G6HT737?tag=practivio-20)
-Among Craft Cutting Toolses, this Craft Cutting Tools places **175 of 292**.  
+Among Paper Craft Toolses, this Paper Craft Tools places **145 of 297**.  
 It is classified in the **Balanced Choice tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: standing 115 of 292 (top 40% for price).  
-Reviews: standing 158 of 292 (top 55% for review numbers).  
-Rating: standing 227 of 292 (top 78% for rating quality).  
-Demand: standing 139 of 292 (top 48% for monthly demand).
+Price: standing 171 of 297 (top 58% for price).  
+Reviews: standing 159 of 297 (top 54% for review numbers).  
+Rating: standing 244 of 297 (top 83% for rating quality).  
+Demand: standing 136 of 297 (top 46% for monthly demand).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Balanced Choice carries a Practivio Score™ of 1027.00.  
-This pick trails the Hidden Gem by 183.00 points.  
+The current Hidden Gem in Balanced Choice carries a Practivio Score™ of 1042.00.  
+This pick trails the Hidden Gem by 181.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B08139Y31N?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B076Z4N4DP?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Our baseline filters remove non-comparable items.  
@@ -53,7 +53,7 @@ When data is thin, our results emphasize caution.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/craft-cutting-tools/](/rankings/craft-cutting-tools/)
+🏷️ **Back to Master:** [/rankings/paper-craft-tools/](/rankings/paper-craft-tools/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

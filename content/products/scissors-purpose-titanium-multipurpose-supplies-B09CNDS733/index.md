@@ -1,35 +1,35 @@
 ---
 title: "Scissors Purpose Titanium Multipurpose Supplies"
-description: "fiskars paper edgers stamp scissors for crafts: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, fi…"
-keywords: ["fiskars paper edgers stamp scissors for crafts"]
-seo_title: "fiskars paper edgers stamp scissors for crafts — Smart Buy Balanced Choice (2025)"
+description: "rock paper scissors craft studio & supplies: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, finda…"
+keywords: ["rock paper scissors craft studio & supplies"]
+seo_title: "rock paper scissors craft studio & supplies — Smart Buy Balanced Choice (2025)"
 canonicalURL: "/products/scissors-purpose-titanium-multipurpose-supplies-B09CNDS733/"
 ---
 
-**🏆 Practivio Score™:** 937 — _Smart Buy_
+**🏆 Practivio Score™:** 945 — _Smart Buy_
 
 
-*If you're comparing **fiskars paper edgers stamp scissors for crafts**, **[Scissors Purpose Titanium Multipurpose Supplies](https://www.amazon.com/dp/B09CNDS733?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **rock paper scissors craft studio & supplies**, **[Scissors Purpose Titanium Multipurpose Supplies](https://www.amazon.com/dp/B09CNDS733?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Scissors Purpose Titanium Multipurpose Supplies” on Amazon](https://www.amazon.com/dp/B09CNDS733?tag=practivio-20)
-This Craft Shears ranks **47 of 296**, inside the **Balanced Choice tier**.  
+This Paper Craft Tools ranks **72 of 297**, inside the **Balanced Choice tier**.  
 Relative performance leads to this: Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: ranked 162 of 296 (top 55% by affordability).  
-Reviews: ranked 55 of 296 (top 19% for total count).  
-Rating: ranked 28 of 296 (top 10% on star average).  
-Demand: ranked 45 of 296 (top 16% for recent purchases).
+Price: ranked 139 of 297 (top 47% by affordability).  
+Reviews: ranked 74 of 297 (top 25% for total count).  
+Rating: ranked 12 of 297 (top 5% on star average).  
+Demand: ranked 48 of 297 (top 17% for recent purchases).
 
 ### Position in tier
 All comparisons are limited to this tier.
 
 ### How it compares to the Hidden Gem
-The Balanced Choice Hidden Gem carries a score of 1006.00 on the Practivio scale.  
-This pick trails the Hidden Gem by 69.00 points.  
+The Balanced Choice Hidden Gem carries a score of 1042.00 on the Practivio scale.  
+This pick trails the Hidden Gem by 97.00 points.  
 Treat it as a baseline for judging competing picks in the same class.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B08FLKHG8J?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B076Z4N4DP?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Our baseline filters remove non-comparable items.  
@@ -52,7 +52,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/craft-shears/](/rankings/craft-shears/)
+🏷️ **Back to Master:** [/rankings/paper-craft-tools/](/rankings/paper-craft-tools/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -1,35 +1,35 @@
 ---
 title: "FISKARS All Purpose Scissors Performance"
-description: "fiskars paper punch: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["fiskars paper punch"]
-seo_title: "fiskars paper punch — Smart Buy Best Value (2025)"
+description: "fiskars paper edgers stamp scissors for crafts: Data-driven within Best Value ranking using the Practivio Score™. Positioned by quality, value, demand, findabi…"
+keywords: ["fiskars paper edgers stamp scissors for crafts"]
+seo_title: "fiskars paper edgers stamp scissors for crafts — Hidden Gem Best Value (2025)"
 canonicalURL: "/products/fiskars-all-purpose-scissors-performance-B002YIP97K/"
 ---
 
-**🏆 Practivio Score™:** 1034 — _Smart Buy_
+**💎 Practivio Score™:** 996 — _Hidden Gem_
 
 
-*If you're comparing **fiskars paper punch**, **[FISKARS All Purpose Scissors Performance](https://www.amazon.com/dp/B002YIP97K?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **fiskars paper edgers stamp scissors for crafts**, **[FISKARS All Purpose Scissors Performance](https://www.amazon.com/dp/B002YIP97K?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “FISKARS All Purpose Scissors Performance” on Amazon](https://www.amazon.com/dp/B002YIP97K?tag=practivio-20)
-Holding rank **28 of 293**, this Paper Craft Supplies is evaluated within the **Best Value tier** of Paper Craft Supplieses.  
-Practivio recommends it as a **Smart Buy**.
+Holding rank **25 of 297**, this Paper Craft Tools is evaluated within the **Best Value tier** of Paper Craft Toolses.  
+Practivio identifies it as a **Hidden Gem**.
 
 ### What the signals indicate
-Price: 42 / 293 (top 15% lowest cost).  
-Reviews: 12 / 293 (top 5% in review totals).  
-Rating: 38 / 293 (top 13% by average rating).  
-Demand: 5 / 293 (top 2% by recent sales).
+Price: 31 / 297 (top 11% lowest cost).  
+Reviews: 6 / 297 (top 3% in review totals).  
+Rating: 39 / 297 (top 14% by average rating).  
+Demand: 1 / 297 (top 1% by recent sales).
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-The Best Value Hidden Gem carries a score of 1057.00 on the Practivio scale.  
-This pick trails the Hidden Gem by 23.00 points.  
+The Best Value Hidden Gem carries a score of 996.00 on the Practivio scale.  
+You’re looking at the current Hidden Gem in this tier.  
 Treat it as a baseline for judging competing picks in the same class.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B002YIP97K?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Every product is screened against baseline measures.  
@@ -51,7 +51,7 @@ Confidence notes and evidence depth indicate the level of uncertainty.
 When gaps exist, results lean cautious instead of filled-in.
 
 
-🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
+🏷️ **Back to Master:** [/rankings/paper-craft-tools/](/rankings/paper-craft-tools/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -1,35 +1,35 @@
 ---
 title: "Fiskars 12 94518697WJ Original Handled Scissors"
-description: "fiskars 98087097j curved craft scissors 4 inch steel and orange: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality,…"
-keywords: ["fiskars 98087097j curved craft scissors 4 inch steel and orange"]
-seo_title: "fiskars 98087097j curved craft scissors 4 inch steel and orange — Smart Buy Balanced Choice (2025)"
+description: "fiskars card making bypass trimmer 9: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability,…"
+keywords: ["fiskars card making bypass trimmer 9"]
+seo_title: "fiskars card making bypass trimmer 9 — Smart Buy Balanced Choice (2025)"
 canonicalURL: "/products/fiskars-12-94518697wj-original-handled-scissors-B00006IFN9/"
 ---
 
-**🏆 Practivio Score™:** 986 — _Smart Buy_
+**🏆 Practivio Score™:** 1013 — _Smart Buy_
 
 
-*If you're comparing **fiskars 98087097j curved craft scissors 4 inch steel and orange**, **[Fiskars 12 94518697WJ Original Handled Scissors](https://www.amazon.com/dp/B00006IFN9?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **fiskars card making bypass trimmer 9**, **[Fiskars 12 94518697WJ Original Handled Scissors](https://www.amazon.com/dp/B00006IFN9?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Fiskars 12 94518697WJ Original Handled Scissors” on Amazon](https://www.amazon.com/dp/B00006IFN9?tag=practivio-20)
-This Craft Shears ranks **16 of 296**, inside the **Balanced Choice tier**.  
+This Paper Craft Tools ranks **17 of 297**, inside the **Balanced Choice tier**.  
 Relative performance leads to this: Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: 119 of 296 (top 41% lowest price).  
-Reviews: 8 of 296 (top 3% by review count).  
-Rating: 24 of 296 (top 9% by average stars).  
-Demand: 14 of 296 (top 5% by purchases this month).
+Price: 112 of 297 (top 38% lowest price).  
+Reviews: 11 of 297 (top 4% by review count).  
+Rating: 9 of 297 (top 4% by average stars).  
+Demand: 13 of 297 (top 5% by purchases this month).
 
 ### Position in tier
 Evaluations are made only against peers in this tier.
 
 ### How it compares to the Hidden Gem
-The tier’s Hidden Gem posts a Practivio Score™ of 1006.00.  
-This pick trails the Hidden Gem by 20.00 points.  
+The tier’s Hidden Gem posts a Practivio Score™ of 1042.00.  
+This pick trails the Hidden Gem by 29.00 points.  
 Use this context to frame trade-offs among competing options.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B08FLKHG8J?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B076Z4N4DP?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 All tier comparisons start with baseline eligibility checks.  
@@ -51,7 +51,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/craft-shears/](/rankings/craft-shears/)
+🏷️ **Back to Master:** [/rankings/paper-craft-tools/](/rankings/paper-craft-tools/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -1,35 +1,35 @@
 ---
 title: "Single Puncher Crafts Handheld Classroom"
-description: "12x12 scrapbook paper single sheets: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["12x12 scrapbook paper single sheets"]
-seo_title: "12x12 scrapbook paper single sheets — Compare (2025)"
+description: "single hole punch shapes: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["single hole punch shapes"]
+seo_title: "single hole punch shapes — Compare (2025)"
 canonicalURL: "/products/single-puncher-crafts-handheld-classroom-B0BXRZ857F/"
 ---
 
-**🛒 Practivio Score™:** 935 — _Compare_
+**🛒 Practivio Score™:** 911 — _Compare_
 
 
-*If you're comparing **12x12 scrapbook paper single sheets**, **[Single Puncher Crafts Handheld Classroom](https://www.amazon.com/dp/B0BXRZ857F?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **single hole punch shapes**, **[Single Puncher Crafts Handheld Classroom](https://www.amazon.com/dp/B0BXRZ857F?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Single Puncher Crafts Handheld Classroom” on Amazon](https://www.amazon.com/dp/B0BXRZ857F?tag=practivio-20)
-In our dataset of 293 Paper Craft Supplieses, this Paper Craft Supplies is ranked **125**.  
+In our dataset of 297 Paper Craft Toolses, this Paper Craft Tools is ranked **103**.  
 It sits in the **Best Value tier**, where Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: ranked 9 of 293 (top 4% by affordability).  
-Reviews: ranked 89 of 293 (top 31% for total count).  
-Rating: ranked 266 of 293 (top 91% on star average).  
-Demand: ranked 24 of 293 (top 9% for recent purchases).
+Price: ranked 6 of 297 (top 3% by affordability).  
+Reviews: ranked 71 of 297 (top 24% for total count).  
+Rating: ranked 230 of 297 (top 78% on star average).  
+Demand: ranked 9 of 297 (top 4% for recent purchases).
 
 ### Position in tier
 Comparisons remain tier-specific.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Best Value carries a Practivio Score™ of 1057.00.  
-This pick trails the Hidden Gem by 122.00 points.  
+The current Hidden Gem in Best Value carries a Practivio Score™ of 996.00.  
+This pick trails the Hidden Gem by 85.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B002YIP97K?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Inclusion depends on passing strict baseline criteria.  
@@ -53,7 +53,7 @@ Rather than plug holes in the data, we acknowledge and present limits.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
+🏷️ **Back to Master:** [/rankings/paper-craft-tools/](/rankings/paper-craft-tools/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

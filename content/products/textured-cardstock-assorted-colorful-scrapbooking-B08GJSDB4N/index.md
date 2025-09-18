@@ -1,36 +1,36 @@
 ---
 title: "Textured Cardstock Assorted Colorful scrapbooking"
-description: "textured cardstock: Data-driven within Top Tier ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["textured cardstock"]
-seo_title: "textured cardstock — Smart Buy Top Tier (2025)"
+description: "textured watercolor paper: Data-driven within Balanced Choice ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["textured watercolor paper"]
+seo_title: "textured watercolor paper — Smart Buy Balanced Choice (2025)"
 canonicalURL: "/products/textured-cardstock-assorted-colorful-scrapbooking-B08GJSDB4N/"
 ---
 
-**🏆 Practivio Score™:** 1009 — _Smart Buy_
+**🏆 Practivio Score™:** 820 — _Smart Buy_
 
 
-*If you're comparing **textured cardstock**, **[Textured Cardstock Assorted Colorful scrapbooking](https://www.amazon.com/dp/B08GJSDB4N?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **textured watercolor paper**, **[Textured Cardstock Assorted Colorful scrapbooking](https://www.amazon.com/dp/B08GJSDB4N?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Textured Cardstock Assorted Colorful scrapbooking” on Amazon](https://www.amazon.com/dp/B08GJSDB4N?tag=practivio-20)
-This Card Stock comes in at **56 / 299** overall.  
-It is grouped in the **Top Tier tier** for fair comparison.  
+This Printmaking Paper comes in at **21 / 280** overall.  
+It is grouped in the **Balanced Choice tier** for fair comparison.  
 Practivio recommends it as a **Smart Buy** given its relative performance.
 
 ### What the signals indicate
-Price: standing 223 of 299 (top 75% for price).  
-Reviews: standing 81 of 299 (top 28% for review numbers).  
-Rating: standing 237 of 299 (top 80% for rating quality).  
-Demand: standing 156 of 299 (top 53% for monthly demand).
+Price: standing 177 of 280 (top 64% for price).  
+Reviews: standing 55 of 280 (top 20% for review numbers).  
+Rating: standing 119 of 280 (top 43% for rating quality).  
+Demand: standing 62 of 280 (top 23% for monthly demand).
 
 ### Position in tier
 Evaluations are made only against peers in this tier.
 
 ### How it compares to the Hidden Gem
-In the Top Tier tier, the Hidden Gem is rated at 1118.00.  
-This pick trails the Hidden Gem by 109.00 points.  
+In the Balanced Choice tier, the Hidden Gem is rated at 854.00.  
+This pick trails the Hidden Gem by 34.00 points.  
 This comparison helps clarify how the item stacks up in context.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00KKXA3LI?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00KTJ7CP8?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 We include only those products that meet required thresholds.  
@@ -52,7 +52,7 @@ Uncertainty is flagged by confidence notes alongside the evidence base.
 Where inputs are missing, we don’t substitute — we mark the score as less certain.
 
 
-🏷️ **Back to Master:** [/rankings/card-stock/](/rankings/card-stock/)
+🏷️ **Back to Master:** [/rankings/printmaking-paper/](/rankings/printmaking-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -1,35 +1,35 @@
 ---
 title: "Paper Single Sided Scrapbooking Decorative Supplies Cats"
-description: "decorative craft paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["decorative craft paper"]
-seo_title: "decorative craft paper — Compare (2025)"
+description: "christmas theme decoupage paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["christmas theme decoupage paper"]
+seo_title: "christmas theme decoupage paper — Compare (2025)"
 canonicalURL: "/products/paper-single-sided-scrapbooking-decorative-supplies-cats-B0C9LGYSBT/"
 ---
 
-**🛒 Practivio Score™:** 637 — _Compare_
+**🛒 Practivio Score™:** 732 — _Compare_
 
 
-*If you're comparing **decorative craft paper**, **[Paper Single Sided Scrapbooking Decorative Supplies Cats](https://www.amazon.com/dp/B0C9LGYSBT?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **christmas theme decoupage paper**, **[Paper Single Sided Scrapbooking Decorative Supplies Cats](https://www.amazon.com/dp/B0C9LGYSBT?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Paper Single Sided Scrapbooking Decorative Supplies Cats” on Amazon](https://www.amazon.com/dp/B0C9LGYSBT?tag=practivio-20)
-This Decorative Craft Paper is positioned **175 out of 266**, within the **Best Value tier**.  
+This Decoupage Supplies is positioned **178 out of 292**, within the **Best Value tier**.  
 Practivio lists it under **Compare** for further evaluation, based on its comparative standing.
 
 ### What the signals indicate
-Price: ranked 79 of 266 (top 30% by affordability).  
-Reviews: ranked 53 of 266 (top 20% for total count).  
-Rating: ranked 150 of 266 (top 57% on star average).  
-Demand: ranked  of 266 (top % for recent purchases).
+Price: ranked 60 of 292 (top 21% by affordability).  
+Reviews: ranked 62 of 292 (top 22% for total count).  
+Rating: ranked 175 of 292 (top 60% on star average).  
+Demand: ranked  of 292 (top % for recent purchases).
 
 ### Position in tier
 All relative standing is tier-specific.
 
 ### How it compares to the Hidden Gem
-Within the Best Value tier, the Hidden Gem holds a Practivio Score™ of 860.00.  
-This pick trails the Hidden Gem by 223.00 points.  
+Within the Best Value tier, the Hidden Gem holds a Practivio Score™ of 969.00.  
+This pick trails the Hidden Gem by 237.00 points.  
 Consider this point of reference when evaluating alternatives.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07JMT3FZX?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B001IKES5O?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Before comparison, each item must satisfy inclusion criteria.  
@@ -54,7 +54,7 @@ With incomplete information, we prefer restraint over estimates.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/decorative-craft-paper/](/rankings/decorative-craft-paper/)
+🏷️ **Back to Master:** [/rankings/decoupage-supplies/](/rankings/decoupage-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

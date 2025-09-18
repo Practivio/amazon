@@ -1,35 +1,35 @@
 ---
 title: "Stationary Double sided Parchment Printing Decorative"
-description: "double sided origami paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["double sided origami paper"]
-seo_title: "double sided origami paper — Compare (2025)"
+description: "decorative parchment paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["decorative parchment paper"]
+seo_title: "decorative parchment paper — Compare (2025)"
 canonicalURL: "/products/stationary-double-sided-parchment-printing-decorative-B0D12DMFNQ/"
 ---
 
-**🛒 Practivio Score™:** 894 — _Compare_
+**🛒 Practivio Score™:** 903 — _Compare_
 
 
-*If you're comparing **double sided origami paper**, **[Stationary Double sided Parchment Printing Decorative](https://www.amazon.com/dp/B0D12DMFNQ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **decorative parchment paper**, **[Stationary Double sided Parchment Printing Decorative](https://www.amazon.com/dp/B0D12DMFNQ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Stationary Double sided Parchment Printing Decorative” on Amazon](https://www.amazon.com/dp/B0D12DMFNQ?tag=practivio-20)
-This Craft Paper ranks **134 of 292**, inside the **Best Value tier**.  
+This Parchment Paper ranks **118 of 295**, inside the **Best Value tier**.  
 Relative performance leads to this: Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 28 out of 292 (top 10% lowest-priced).  
-Reviews: 113 out of 292 (top 39% in review volume).  
-Rating: 76 out of 292 (top 27% by star rating).  
-Demand: 51 out of 292 (top 18% by buyer demand this month).
+Price: 32 out of 295 (top 11% lowest-priced).  
+Reviews: 103 out of 295 (top 35% in review volume).  
+Rating: 86 out of 295 (top 30% by star rating).  
+Demand: 27 out of 295 (top 10% by buyer demand this month).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-Within the Best Value tier, the Hidden Gem holds a Practivio Score™ of 1028.00.  
-This pick trails the Hidden Gem by 134.00 points.  
+Within the Best Value tier, the Hidden Gem holds a Practivio Score™ of 1000.00.  
+This pick trails the Hidden Gem by 97.00 points.  
 Consider this point of reference when evaluating alternatives.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B00178QQJ8?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07L9X9XXX?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Baseline inclusion rules keep weaker or incomplete products out.  
@@ -53,7 +53,7 @@ We handle limited data conservatively, never with assumptions.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/craft-paper/](/rankings/craft-paper/)
+🏷️ **Back to Master:** [/rankings/parchment-paper/](/rankings/parchment-paper/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

@@ -1,35 +1,35 @@
 ---
 title: "KALIONE Scrapbook Decorative Handmade Decoupage"
-description: "decorative handmade paper: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["decorative handmade paper"]
-seo_title: "decorative handmade paper — Compare (2025)"
+description: "handmade decoupage christmas cards: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["handmade decoupage christmas cards"]
+seo_title: "handmade decoupage christmas cards — Compare (2025)"
 canonicalURL: "/products/kalione-scrapbook-decorative-handmade-decoupage-B0CDLFK35G/"
 ---
 
-**🛒 Practivio Score™:** 698 — _Compare_
+**🛒 Practivio Score™:** 780 — _Compare_
 
 
-*If you're comparing **decorative handmade paper**, **[KALIONE Scrapbook Decorative Handmade Decoupage](https://www.amazon.com/dp/B0CDLFK35G?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **handmade decoupage christmas cards**, **[KALIONE Scrapbook Decorative Handmade Decoupage](https://www.amazon.com/dp/B0CDLFK35G?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “KALIONE Scrapbook Decorative Handmade Decoupage” on Amazon](https://www.amazon.com/dp/B0CDLFK35G?tag=practivio-20)
-This Decorative Craft Paper ranks **153 of 266**, inside the **Best Value tier**.  
+This Decoupage Supplies ranks **147 of 292**, inside the **Best Value tier**.  
 Relative performance leads to this: Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 67 of 266 (top 26% lowest price).  
-Reviews: 166 of 266 (top 63% by review count).  
-Rating: 36 of 266 (top 14% by average stars).  
-Demand: 140 of 266 (top 53% by purchases this month).
+Price: 47 of 292 (top 17% lowest price).  
+Reviews: 190 of 292 (top 66% by review count).  
+Rating: 35 of 292 (top 12% by average stars).  
+Demand: 107 of 292 (top 37% by purchases this month).
 
 ### Position in tier
 All comparisons are limited to this tier.
 
 ### How it compares to the Hidden Gem
-The Best Value Hidden Gem carries a score of 860.00 on the Practivio scale.  
-This pick trails the Hidden Gem by 162.00 points.  
+The Best Value Hidden Gem carries a score of 969.00 on the Practivio scale.  
+This pick trails the Hidden Gem by 189.00 points.  
 Treat it as a baseline for judging competing picks in the same class.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07JMT3FZX?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B001IKES5O?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 We only compare products once they meet the baseline standards.  
@@ -53,7 +53,7 @@ If information is scarce, outcomes are shown conservatively, never guessed.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/decorative-craft-paper/](/rankings/decorative-craft-paper/)
+🏷️ **Back to Master:** [/rankings/decoupage-supplies/](/rankings/decoupage-supplies/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

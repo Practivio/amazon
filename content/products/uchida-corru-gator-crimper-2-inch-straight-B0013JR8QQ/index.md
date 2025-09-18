@@ -6,30 +6,30 @@ seo_title: "marvy uchida punches — Smart Buy Top Tier (2025)"
 canonicalURL: "/products/uchida-corru-gator-crimper-2-inch-straight-B0013JR8QQ/"
 ---
 
-**🏆 Practivio Score™:** 1073 — _Smart Buy_
+**🏆 Practivio Score™:** 1042 — _Smart Buy_
 
 
 *If you're comparing **marvy uchida punches**, **[UCHIDA Corru Gator Crimper 2 Inch Straight](https://www.amazon.com/dp/B0013JR8QQ?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “UCHIDA Corru Gator Crimper 2 Inch Straight” on Amazon](https://www.amazon.com/dp/B0013JR8QQ?tag=practivio-20)
-In our dataset of 293 Paper Craft Supplieses, this Paper Craft Supplies is ranked **7**.  
+In our dataset of 297 Paper Craft Toolses, this Paper Craft Tools is ranked **5**.  
 It sits in the **Top Tier tier**, where Practivio recommends it as a **Smart Buy**.
 
 ### What the signals indicate
-Price: ranked 274 among 293 (top 94% in affordability).  
-Reviews: ranked 30 among 293 (top 11% by volume).  
-Rating: ranked 77 among 293 (top 27% for stars).  
-Demand: ranked 117 among 293 (top 40% for current demand).
+Price: ranked 234 among 297 (top 79% in affordability).  
+Reviews: ranked 19 among 297 (top 7% by volume).  
+Rating: ranked 75 among 297 (top 26% for stars).  
+Demand: ranked 61 among 297 (top 21% for current demand).
 
 ### Position in tier
 Comparisons do not cross tiers.
 
 ### How it compares to the Hidden Gem
-The current Hidden Gem in Top Tier carries a Practivio Score™ of 1117.00.  
-This pick trails the Hidden Gem by 44.00 points.  
+The current Hidden Gem in Top Tier carries a Practivio Score™ of 1081.00.  
+This pick trails the Hidden Gem by 39.00 points.  
 Use this as a benchmark when weighing trade-offs within the same tier.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B079KL4C91?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07LFHSRNB?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 Every product is screened against baseline measures.  
@@ -51,7 +51,7 @@ Uncertainty appears as part of the evidence record and confidence notes.
 With incomplete information, we prefer restraint over estimates.
 
 
-🏷️ **Back to Master:** [/rankings/paper-craft-supplies/](/rankings/paper-craft-supplies/)
+🏷️ **Back to Master:** [/rankings/paper-craft-tools/](/rankings/paper-craft-tools/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._

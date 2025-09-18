@@ -1,35 +1,35 @@
 ---
 title: "Craft%EF%BC%9APaper Perforator Cardstock Scrapbooking Cardmaking"
-description: "best electronic craft cutting machine: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
-keywords: ["best electronic craft cutting machine"]
-seo_title: "best electronic craft cutting machine — Compare (2025)"
+description: "hobby craft paper cutter: Data-driven ranking using the Practivio Score™. Positioned by quality, value, demand, findability, momentum."
+keywords: ["hobby craft paper cutter"]
+seo_title: "hobby craft paper cutter — Compare (2025)"
 canonicalURL: "/products/craftefbc9apaper-perforator-cardstock-scrapbooking-cardmaking-B0CZLFWCWR/"
 ---
 
-**🛒 Practivio Score™:** 838 — _Compare_
+**🛒 Practivio Score™:** 855 — _Compare_
 
 
-*If you're comparing **best electronic craft cutting machine**, **[Craft%EF%BC%9APaper Perforator Cardstock Scrapbooking Cardmaking](https://www.amazon.com/dp/B0CZLFWCWR?tag=practivio-20)** is a strong alternative to put on your shortlist.*
+*If you're comparing **hobby craft paper cutter**, **[Craft%EF%BC%9APaper Perforator Cardstock Scrapbooking Cardmaking](https://www.amazon.com/dp/B0CZLFWCWR?tag=practivio-20)** is a strong alternative to put on your shortlist.*
 ### Quick take
 [Shop “Craft%EF%BC%9APaper Perforator Cardstock Scrapbooking Cardmaking” on Amazon](https://www.amazon.com/dp/B0CZLFWCWR?tag=practivio-20)
-This Craft Cutting Tools ranks **183 of 292**, inside the **Top Tier tier**.  
+This Paper Craft Tools ranks **154 of 297**, inside the **Top Tier tier**.  
 Relative performance leads to this: Practivio lists it under **Compare** for further evaluation.
 
 ### What the signals indicate
-Price: 243 / 292 (top 84% lowest cost).  
-Reviews: 225 / 292 (top 78% in review totals).  
-Rating: 146 / 292 (top 50% by average rating).  
-Demand: 159 / 292 (top 55% by recent sales).
+Price: 278 / 297 (top 94% lowest cost).  
+Reviews: 234 / 297 (top 79% in review totals).  
+Rating: 186 / 297 (top 63% by average rating).  
+Demand: 132 / 297 (top 45% by recent sales).
 
 ### Position in tier
 Comparisons remain tier-bound for fairness.
 
 ### How it compares to the Hidden Gem
-The tier’s Hidden Gem posts a Practivio Score™ of 1079.00.  
-This pick trails the Hidden Gem by 241.00 points.  
+The tier’s Hidden Gem posts a Practivio Score™ of 1081.00.  
+This pick trails the Hidden Gem by 226.00 points.  
 Use this context to frame trade-offs among competing options.  
 
-See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B016LDV41S?tag=practivio-20)
+See the Hidden Gem on Amazon → [View listing](https://www.amazon.com/dp/B07LFHSRNB?tag=practivio-20)
 
 ### FAQ: Inclusion criteria
 We enforce baseline eligibility requirements.  
@@ -53,7 +53,7 @@ Rather than plug holes in the data, we acknowledge and present limits.
 <!-- Missing template for Compare/CompareWithinPriceClass -->
 
 
-🏷️ **Back to Master:** [/rankings/craft-cutting-tools/](/rankings/craft-cutting-tools/)
+🏷️ **Back to Master:** [/rankings/paper-craft-tools/](/rankings/paper-craft-tools/)
 
 ---
 _Disclosure: We use Amazon affiliate links which may earn a commission. We don’t display live prices or review counts. Rankings are produced using a consistent, proprietary methodology._
