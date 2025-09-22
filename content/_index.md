@@ -5,7 +5,6 @@ keywords: ["product rankings", "best products", "Practivio Score", "shopping"]
 canonicalURL: "/"
 ---
 
-Impact-Site-Verification: 7e937445-8b54-4129-a0e6-251105e8fbed
 Welcome to Practivio, where we make Amazon product rankings simple, transparent, and data-driven.
 Practivio ranks Amazon products with a single, transparent number — the **Practivio Score™** — so you can buy confidently without the fluff.
 
